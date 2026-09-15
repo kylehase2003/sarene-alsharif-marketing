@@ -110,12 +110,12 @@ Most competitors in leadership/values speaking are theorists. Sereen's gap to ow
 3. Investing in people as strategy, not charity (the apprenticeship program)
 4. The "second chance" philosophy, repair over replace, do a tad more, applied to clothes, people, and community
 5. Rooted in a real community, not a distant, faceless speaker
+6. **Leads by example first** *(added per edit note 8, our reconstruction of her cut-off statement on working harder as the owner, pending her direct confirmation)*: growth and hard work start with her, and she brings that same care to how she shows up for her team every day.
 
 **What to actively avoid:**
-1. The say-do gap, in any form: anyone whose actual practices don't match what they claim, whether that's greenwashing, a waste-driven business marketed as sustainable, or simply making a claim that can't be backed up with proof. This is the exact contradiction her whole positioning exists to call out, so she can't be caught standing next to it, or guilty of it herself.
+1. The say-do gap, in any form: greenwashing, a waste-driven business marketed as sustainable, hustle-culture messaging that glamorizes success at the cost of other people or their own stated values, or any claim that can't be backed up with proof. This is the exact contradiction her whole positioning exists to call out, so she can't be caught standing next to it, or guilty of it herself.
 2. Fast fashion, in any form: specifically and personally tied to her TEDx thesis, a direct contradiction if she's ever associated with it.
-3. Generic hustle-culture business influencer content: doesn't match her actual tone and would read as fake sitting next to her.
-4. Being flattened into "just a stylist," disconnected from the values thesis: undercuts her credibility as a serious business voice.
+3. Being flattened into "just a stylist," disconnected from the values thesis: undercuts her credibility as a serious business voice.
 
 ### The Brand Story
 
@@ -151,7 +151,7 @@ What she does now, on stages and in workshops, is take that same interrogation t
 
 **80%, the core lane, nine content types (eight primary, one supporting):**
 
-1. **Values Audit**, examining whether a value is real or just marketing: critiquing a specific real company's stated values against what it actually does; reacting to something she personally observed; picking apart a generic corporate gesture.
+1. **Proof Over Promise** *(reframed from "Values Audit" per her edit note 9, she does not critique other companies)*, examining whether a value is real by showing it in action: spotlighting a specific real company whose stated values visibly show up in what they actually do; reacting to something she personally witnessed that impressed her; breaking down what makes a specific corporate action genuine instead of performative. No naming a company without a real, verified example from her own network, this only works with something she's actually seen.
 2. **Where the Belief Came From**, formative personal moments that explain why she believes what she believes: the Syria repair-culture contrast; the specific moment she and her husband decided to start Tad More; an early mistake that reshaped her thinking.
 3. **Built Around People**, recognizing and building around individual strengths instead of one mold: Maen not being a natural teacher while Noor and Adriana are, and building training around that.
 4. **Second Life, Public**, community-facing proof framed as an explicit argument, real ongoing investment versus a one-time performative gesture: Restyle the Runway, Green Threads.

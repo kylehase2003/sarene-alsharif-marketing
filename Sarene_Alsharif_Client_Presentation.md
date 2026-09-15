@@ -39,12 +39,12 @@ She also built the nation's first Department of Labor-registered apprenticeship 
 - Investing in training and developing her employees as a smart business move, not charity.
 - The belief that people and things both deserve a second chance before being thrown away.
 - Being genuinely involved in her local community, not a speaker who only shows up for a paycheck.
+- Leading by example, she works hard and keeps growing herself first, and brings that same care to her team.
 
 ## What She Should Avoid
 
-- Any company or person who says one thing and does another, this is the exact problem she calls out, so she can never be guilty of it herself.
+- Any company or person who says one thing and does another, including hustle culture that glamorizes success at the cost of other people or their own values, this is the exact problem she calls out, so she can never be guilty of it herself.
 - Fast fashion companies, which is the opposite of everything her TEDx talk argues for.
-- Generic "hustle harder" business influencer content, it doesn't match how she actually talks.
 - Being seen as just a stylist or fashion person, that undersells the real business point she's making.
 
 ## What She's Actually Selling
@@ -69,7 +69,7 @@ About 80 percent of what she posts stays on the topic above, values actually sho
 
 ### The Main Content, Nine Types
 
-- **Checking real companies' claims.** Looking at things a real company says about itself and asking whether it holds up.
+- **Spotlighting companies doing it right.** Finding real companies that are actually living up to what they say, and showing exactly what that looks like. Not calling anyone out, just pointing at the real thing.
 - **Where her belief came from.** Personal stories, like growing up in Syria, that explain why she believes what she believes.
 - **Building around what people are good at.** How she trains her own team based on each person's real strengths instead of expecting everyone to be the same.
 - **Real community involvement.** Showing the difference between a company that's genuinely involved in its community versus one that does a single donation for a photo.

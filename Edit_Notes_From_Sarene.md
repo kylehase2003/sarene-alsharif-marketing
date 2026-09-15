@@ -14,11 +14,11 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 ## What Makes Her Different
 
 7. **Resolved (2026-09-15).** Verified via independent sources (WIFR local news, The Workforce Connection) before adding: confirmed claim is "the nation's first" DOL-registered apprenticeship in industrial sewing, not "the nation's only" (her note said "only," but that's not what the evidence supports, "first" is the precisely sourced claim). Registered June 5, 2024, in partnership with The Workforce Connection, first 3 graduates September 30, 2025, 2,000+ hours hands-on plus 144 hours classroom. Added as a named differentiator in all three markdown sources, with the richer verified detail folded into the nonprofit/apprenticeship description too.
-8. **Pending.** Rework the "hustle harder" avoid-item. Her words: "I never said don't work hard. I recommend balance but I expect the owner to work harder than everyone [cut off]." Needs her fuller intent confirmed, the note was cut off at the bottom of the page.
+8. **Resolved, pending her confirmation (2026-09-15).** Split into two changes: a new "known for" point ("Leads by example first," growth and hard work start with her, same care extended to her team) and merged the old standalone "avoid hustle culture" item into the say-do-gap avoid item (hustle culture that glamorizes success at the cost of other people or their own stated values). This is our reconstruction of her intent, not her literal words past "I expect the owner to work harder than everyone", still needs a quick yes or no from her before being treated as fully settled. Updated in Master Reference, Strategy File, and Client Presentation.
 
 ## Content Types
 
-9. **Pending.** Drop or rework "Checking real companies' claims" (Values Audit) as originally framed. Her words: "This is against my values. I don't tear down other companies." She's open to "I can give good examples from other companies" instead, positive examples, not critique.
+9. **Resolved (2026-09-15).** Renamed "Values Audit" to "Proof Over Promise." Now spotlights a real company whose stated values visibly show up in what they do, or something she personally witnessed, instead of critiquing anyone. Updated in Master Reference, Strategy File, and Client Presentation. Still needs a running list of real, verified company examples from her own network before this goes into production, nothing gets named without her confirming it firsthand.
 
 ## Personal Content (20%)
 
