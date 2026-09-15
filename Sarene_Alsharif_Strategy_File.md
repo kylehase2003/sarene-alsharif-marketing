@@ -10,7 +10,7 @@ Seven items in this file need Sarene's approval, input, or action before they're
 
 ## Items Pending Approval
 
-**1. Talk titles.** Keynote: "From Having Values to Operating By Them." Workshop: "Closing the Gap: Turning Stated Values Into Everyday Business Decisions." Built from her own language, not yet confirmed by her.
+**1. Talk titles.** Not yet developed. Earlier candidate titles were pulled before this strategy went to Sarene, they don't serve the positioning. Still need to be written.
 
 **2. Ownership of booking outreach.** Someone needs to own proactively pitching conference organizers and corporate contacts. Not yet assigned.
 
@@ -235,9 +235,7 @@ Three candidate series:
 
 ## Talk Titles
 
-**Keynote:** "From Having Values to Operating By Them."
-
-**Workshop:** "Closing the Gap: Turning Stated Values Into Everyday Business Decisions."
+Not yet developed. The earlier candidate titles were pulled before the strategy went to Sarene, they don't serve the positioning. Real titles still need to be written.
 
 ## Speaker Kit
 

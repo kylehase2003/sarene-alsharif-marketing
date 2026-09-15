@@ -205,8 +205,7 @@ This resolves both open questions (13 and 15) as an internal team decision, not 
 4. The credential: MPH, LDN
 
 ### Talk Titles
-**Keynote:** "From Having Values to Operating By Them" (her own line from the discovery answers).
-**Workshop:** "Closing the Gap: Turning Stated Values Into Everyday Business Decisions."
+Not yet developed. The earlier candidate titles were pulled before the strategy went to Sarene, they don't serve the positioning. Real titles still need to be written.
 
 ### Speaker Kit
 **One-pager:** name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 35,000+ orders, the two named awards, press list), contact.

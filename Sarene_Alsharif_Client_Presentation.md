@@ -51,9 +51,9 @@ She also built the nation's first Department of Labor-registered apprenticeship 
 
 She sells two things, a keynote speech and a hands-on workshop. She is not offering ongoing consulting or advice over time. Her job is to teach and inspire during the talk or workshop, then leave the company with tools they can keep using on their own afterward.
 
-**Keynote** ("From Having Values to Operating By Them"), a speech making the business case for real values, $7,000.
+**Keynote**, a speech making the business case for real values, $7,000. Title still needs to be written.
 
-**Workshop** ("Closing the Gap: Turning Stated Values Into Everyday Business Decisions"), a hands-on session where a team works through where their own values do and don't show up in practice, $5,000.
+**Workshop**, a hands-on session where a team works through where their own values do and don't show up in practice, $5,000. Title still needs to be written.
 
 **Both together**, $10,000.
 
@@ -141,7 +141,7 @@ They sign an agreement for the keynote, the workshop, or both.
 
 ## What Still Needs Her Approval
 
-The two talk titles need her sign-off. Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. It needs to be confirmed whether her recent NAUMD conference talk was recorded, so that footage can be used. And the actual questions for the free quiz still need to be written.
+The two talk titles still need to be written, the earlier candidates were pulled before this went to her. Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. It needs to be confirmed whether her recent NAUMD conference talk was recorded, so that footage can be used. And the actual questions for the free quiz still need to be written.
 
 ## What We Need From Her
 
