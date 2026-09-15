@@ -21,7 +21,7 @@ A consolidated record of every confirmed fact, resolved decision, and open quest
 
 ### The nonprofit: Tad More Sustainability Institute
 - Two real functions:
-  1. **Tailor training**: a curriculum certified by the **U.S. Department of Labor**; graduates become certified industrial sewing machine operators, a credential comparable to an electrician or plumber certification.
+  1. **Tailor training**: **the nation's first Department of Labor-registered apprenticeship in industrial sewing**, built in partnership with The Workforce Connection, officially registered June 5, 2024 (independently verified via local news and The Workforce Connection's own site, see Point 7 in `Edit_Notes_From_Sarene.md`). Apprentices complete 2,000+ hours of hands-on training plus 144 hours of classroom instruction; graduates become certified industrial sewing machine operators, a credential comparable to an electrician or plumber certification. First three apprentices graduated September 30, 2025. Note: verified claim is "the nation's first," not "the nation's only", those aren't identical claims, use "first" as the precisely sourced one.
   2. **Community sustainability education**: classes teaching creative reuse of everyday materials (jars, fabric, plants), open to the public and kids, described as relaxing/creative in atmosphere.
 - Accepts donations to expand these programs.
 

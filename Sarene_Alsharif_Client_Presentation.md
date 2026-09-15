@@ -12,7 +12,7 @@ Sarene is the founder and CEO of Tad More Tailoring and Alterations, a clothing 
 
 She started the business as a direct response to fast fashion, an industry widely documented for its environmental damage, from textile waste to water pollution. While she and her husband were helping Syrian refugees when the war broke out, they met Maen, a tailor with real, valuable skill and no shop to use it in. Around the same time, she saw how the fast fashion industry trains people to throw clothes away instead of repairing them, not because people don't care, but because they don't have easy access to a good tailor. Tad More was built to be the alternative to that throwaway model, and that same idea doesn't stop at clothes. Skilled hands deserve a place to work, wherever they come from.
 
-The company now has 16 tailors, has completed over 35,000 orders, and runs a U.S. Department of Labor-certified training program that teaches people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans." She holds a Master's in Public Health and is a licensed dietitian.
+The company now has 16 tailors, has completed over 35,000 orders, and runs the nation's first Department of Labor-registered apprenticeship in industrial sewing, built in partnership with The Workforce Connection, teaching people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans." She holds a Master's in Public Health and is a licensed dietitian.
 
 ## Who Else Is Doing Something Similar
 
@@ -29,6 +29,8 @@ Her own phrase for this is "repair over replace, do a tad more," meaning fix wha
 ## What Makes Her Different
 
 Most people who speak about company values and culture are consultants or researchers who study the topic but have never actually run a business through it themselves. Sarene has. She put her own company through the real B Corp certification process, at real cost and real risk, before she ever told anyone else to do the same thing. She isn't citing an example, she is the example.
+
+She also built the nation's first Department of Labor-registered apprenticeship in industrial sewing, in partnership with The Workforce Connection, turning a disappearing trade into a real, credentialed career path. Nobody else in this space can point to a program like it.
 
 ## What She Should Be Known For
 
