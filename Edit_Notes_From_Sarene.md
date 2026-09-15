@@ -7,7 +7,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 1. **Resolved (2026-09-15).** Origin story now opens by framing the business as a direct response to fast fashion (with a line on its environmental damage). The Maen/Syrian refugee detail stays specific and factual, no broader generalization folded into it, per her note that doing so read as propaganda. The universal point ("skilled hands deserve a place to work, wherever they come from") now lands as a separate closing line instead. Updated in both client-facing DOCX files and the Master Reference.
 2. **Resolved (2026-09-15).** Order count updated from 10,000 to 35,000 across all three markdown sources (Strategy File, Client Presentation, Master Reference). Pricing mentions of "$10,000" (keynote plus workshop) were correctly left untouched, they're an unrelated number.
 3. **Resolved (2026-09-15).** Client Presentation updated to name it "U.S. Department of Labor-certified" specifically, instead of "government-certified." Strategy File and Master Reference already used the specific naming.
-4. **Pending.** Remove the TEDx persistence detail entirely (150 applications, 146 rejections). She doesn't want this told.
+4. **Resolved (2026-09-15).** Removed from both client-facing DOCX sources (Strategy File, Client Presentation) entirely. In Master Reference, kept as internal-only background with an explicit "not for public use" flag, since it's still a true fact worth remembering internally, but excluded from the Personal Proof list that feeds actual content.
 5. **Pending.** Correct her title from "nutritionist" to "dietitian."
 6. **Pending.** Add the line "The most sustainable clothes are the ones already in your closet" near the repair-over-replace section.
 

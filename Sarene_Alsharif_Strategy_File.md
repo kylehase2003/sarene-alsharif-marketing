@@ -44,7 +44,7 @@ Two functions. First, tailor training: a curriculum certified by the U.S. Depart
 
 ### Speaking
 
-TEDx, 2023, "How to Save the World with a Pair of Jeans" (TEDxDrewUniversity). She applied to 150 TEDx events, got 10 interviews, was offered 4 talks, accepted 1, and credits her assistant Renee McGinley for handling the applications and follow-up. The talk's key statistic: if every American bought one less pair of jeans, it would be the equivalent of keeping 2.4 million cars off the road for a year.
+TEDx, 2023, "How to Save the World with a Pair of Jeans" (TEDxDrewUniversity). The talk's key statistic: if every American bought one less pair of jeans, it would be the equivalent of keeping 2.4 million cars off the road for a year.
 
 NAUMD 2026 Convention (National Association of Uniform Manufacturers and Distributors), Boston, May 3 to 5, 2026. Her session, "From Wear to Aware: How Alterations, Mending, and Smart Uniform Strategies Drive Profit and Sustainability," ran May 4.
 
@@ -113,7 +113,7 @@ The real test of a company's values isn't what it claims, it's where those value
 
 ### Proof
 
-**Personal:** personally going through B Corp certification; 150 TEDx applications and 146 rejections before the one yes, crediting her assistant Renee for the unglamorous work of applying; how she structures her team around individual strengths, her lead tailor isn't a natural teacher, so others who are took on that role; the wedding dress reconstruction stories, told with real emotional reflection.
+**Personal:** personally going through B Corp certification; how she structures her team around individual strengths, her lead tailor isn't a natural teacher, so others who are took on that role; the wedding dress reconstruction stories, told with real emotional reflection.
 
 **Operational:** B Corp score of 115.0 against a 50.9 median; the Chick-fil-A uniform repair case, kept as a business case study, separate from her personal story; the Department of Labor-certified apprenticeship program; 35,000-plus orders, 16 tailors, roughly a 2 percent error rate; Restyle the Runway and Green Threads; the two named awards and press coverage.
 
