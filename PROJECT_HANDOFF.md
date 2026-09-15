@@ -1,0 +1,67 @@
+# Project Handoff: Sarene Alsharif, Brand & Speaking Strategy
+
+**Read this file first, before touching anything else in this repo.** This is the living context document for this project. If you're an AI assistant picking this up in a new session, or a person joining the project, this tells you what's settled, what's still open, and where everything lives. Update the Changelog at the bottom every time something meaningful changes.
+
+---
+
+## What This Project Is
+
+Sarene Alsharif is the founder and CEO of Tad More Tailoring and Alterations (Rockford, IL), a certified B Corp. This project builds her personal brand and go-to-market strategy as a paid **keynote speaker and workshop facilitator**. The work covers positioning, her brand story, content strategy, sales materials, and the practical steps to get her booked.
+
+---
+
+## Critical Facts, Do Not Re-Litigate These
+
+These were settled after real back-and-forth and correction. Re-deriving them from scratch wastes time and risks reintroducing errors already caught once.
+
+1. **She sells keynote speaking and an optional workshop. There is no ongoing consulting product.** This was confirmed directly by Sarene in her own words after an earlier draft of this project mistakenly built the entire strategy around a "consulting" offer that didn't actually exist. Don't reintroduce consulting language anywhere.
+2. **Fixed pricing:** Keynote $7,000, Workshop $5,000, both $10,000.
+3. **Two personal "facts" were misattributed and retracted, do not use them:** an earlier pass on a podcast transcript (no speaker labels) wrongly attributed a "dislikes wearing pants" detail and a "$10,000 prize, thinking too small" ambition to Sarene. Both were actually the podcast host talking about himself. These do not belong in any material about her.
+4. **House style: no em dashes, anywhere, in any file.** Use commas, periods, or colons instead. This applies to every document in this project.
+5. **The core positioning ("the trunk"):** does a company's stated values actually show up in practice, or is it just marketing, and what is that gap costing them. Financial framing first, ethical payoff as the result, not the pitch.
+6. **Power Look (her separate personal-style brand) does not become a second keynote topic.** It has a narrow, low-frequency place in the content plan (see Strategy File), nothing more.
+
+---
+
+## Current State
+
+As of the latest session, the full strategy has been built and written into two client-facing documents (full detail + plain-language summary). Sarene has since reviewed a version and returned it with handwritten edits. **We are now working through her edit notes point by point, this is the active task.** See `Edit_Notes_From_Sarene.md` for the full list and status of each point.
+
+---
+
+## File Index
+
+- **`PROJECT_HANDOFF.md`**: this file. Start here.
+- **`Sereen_Strategic_Plan_EN.md`**: English translation of the original (pre-audit) Arabic strategic plan. Historical reference only, largely superseded.
+- **`Sereen_Brand_Audit_Brief.md`** (+ `.rtf` / `.docx`): the audit of that original plan: what was wrong, what the corrected approach should be.
+- **`Branding_Methodology_Reference.md`**: the branding framework/toolkit (Brand Journey Framework, Brand Story Framework, 80/20 rule, etc.) used to build the actual strategy.
+- **`Sereen_Master_Reference.md`**: the full internal working document. Every confirmed fact, every resolved decision, the complete reasoning trail. This is the most detailed and most current source of truth for the strategy itself.
+- **`Sarene Alsharif's Strategy File.docx`**: full-detail, client-facing strategy document, plain black text, no jargon stripped out (full depth).
+- **`Sarene Alsharif - Client Presentation.docx`**: condensed, plain-language version of the same strategy, every section summarized simply, no strategy jargon. This is the version used to brief Sarene directly.
+- **`Edit_Notes_From_Sarene.md`**: her handwritten edit notes from reviewing the presentation, transcribed and logged point by point. **This is the active punch list right now.**
+
+---
+
+## Open Items / Active Work
+
+Full list with status lives in `Edit_Notes_From_Sarene.md`. Headline items:
+- Several factual corrections needed (order count is 35,000 not 10,000; "dietitian" not "nutritionist"; DOL certification named specifically).
+- She wants the TEDx rejection-count story removed entirely.
+- She rejected the "critique other companies" content type, wants positive examples instead.
+- She wants family content removed, replaced with real personal interests (fitness, art, coffee, reading, orchids).
+- She says her LinkedIn presence is already stronger than Instagram, current platform weighting may need revisiting.
+- She has 3 to 4 existing recorded talks that can be used for content, this is new and valuable, not yet secured or used.
+- A speaker reel needs to be built and added to the speaker kit, currently missing from the plan.
+- Open questions from her, not yet answered: how much weekly time she can give to content shooting, what posting cadence should be, and what "the podcast" refers to (needs clarification, could be an existing show, a guest strategy, or a new show).
+
+---
+
+## How to Update This File
+
+After any meaningful change (a decision gets made, a file gets created or restructured, an open item gets resolved), add a dated entry to the Changelog below. Keep entries short, one or two lines. If a "Critical Fact" above changes, update that section directly rather than leaving it stale.
+
+---
+
+## Changelog
+
+- **2026-09-15**: Created this handoff file ahead of pushing the project to GitHub for multi-person collaboration. Logged Sarene's 19 handwritten edit points from her review of the strategy presentation into `Edit_Notes_From_Sarene.md`.
