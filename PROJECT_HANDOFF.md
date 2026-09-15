@@ -38,6 +38,7 @@ As of the latest session, the full strategy has been built and written into two 
 - **`Sereen_Master_Reference.md`**: the full internal working document. Every confirmed fact, every resolved decision, the complete reasoning trail. This is the most detailed and most current source of truth for the strategy itself.
 - **`Sarene Alsharif's Strategy File.docx`**: full-detail, client-facing strategy document, plain black text, no jargon stripped out (full depth).
 - **`Sarene Alsharif - Client Presentation.docx`**: condensed, plain-language version of the same strategy, every section summarized simply, no strategy jargon. This is the version used to brief Sarene directly.
+- **`Sarene_Alsharif_Client_Presentation.md`**: the markdown source of truth for the file above. Edit this one, not the DOCX directly, then regenerate the DOCX from it. See "Working With Multiple People" below.
 - **`Edit_Notes_From_Sarene.md`**: her handwritten edit notes from reviewing the presentation, transcribed and logged point by point. **This is the active punch list right now.**
 
 ---
@@ -56,6 +57,14 @@ Full list with status lives in `Edit_Notes_From_Sarene.md`. Headline items:
 
 ---
 
+## Working With Multiple People
+
+Markdown files merge cleanly with git, DOCX files do not, git can't merge two different edited versions of a Word document. To avoid conflicts: treat the `.md` files as the real source of truth, edit those, and regenerate the DOCX files from them afterward, rather than editing a DOCX directly.
+
+Basic workflow: `git pull` before starting work, make edits, commit locally, `git pull` again before pushing to catch anything the other person pushed in the meantime, then `git push`. If a conflict shows up in a markdown file, git marks the conflicting section directly in the file, resolve it by hand, then commit and push.
+
+---
+
 ## How to Update This File
 
 After any meaningful change (a decision gets made, a file gets created or restructured, an open item gets resolved), add a dated entry to the Changelog below. Keep entries short, one or two lines. If a "Critical Fact" above changes, update that section directly rather than leaving it stale.
@@ -67,3 +76,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-15**: Created this handoff file ahead of pushing the project to GitHub for multi-person collaboration. Logged Sarene's 19 handwritten edit points from her review of the strategy presentation into `Edit_Notes_From_Sarene.md`.
 - **2026-09-15**: Added `CLAUDE.md` so Claude Code automatically reads this handoff file at the start of every session in this repo.
 - **2026-09-15**: Resolved edit note 1 (origin story reframed as a response to fast fashion, Maen/Syria detail kept specific rather than generalized). Updated in `Sarene Alsharif's Strategy File.docx`, `Sarene Alsharif - Client Presentation.docx`, and `Sereen_Master_Reference.md`. Working through the remaining 17 pending points one at a time, see `Edit_Notes_From_Sarene.md` for live status.
+- **2026-09-15**: Created `Sarene_Alsharif_Client_Presentation.md` as the markdown source of truth for the Client Presentation DOCX, and added a "Working With Multiple People" section here covering the git workflow for two people editing this repo.
