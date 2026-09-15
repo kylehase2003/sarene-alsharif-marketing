@@ -181,6 +181,14 @@ What she does now, on stages and in workshops, is take that same interrogation t
 - **Ask Sereen.** Real questions, answered directly and unscripted. Its own type and format at once.
 - **Voiceover Content, held for later.** Narrating over real b-roll only, no still images, reserved for more motivational material once the core formats are running consistently.
 
+### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
+Target: daily posting, a minimum of 26 video posts and 4 non-video posts per month, weighted toward reels. Three sources feed that volume:
+1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
+2. **Keynote and conference footage.** Whenever a stage appearance gets secured and recorded, the strongest content available.
+3. **A weekly shoot day.** Her one committed block of on-camera time, once a week, one to three hours depending on her pace, producing four to eight raw videos in that session. Some scripted, some an unscripted two-to-four-minute answer to a prompt. Editors chop each raw video into multiple finished pieces. This weekly session alone (roughly 17 to 34 raw videos a month) is what backs up daily posting if podcast clips and keynote footage fall short.
+
+This resolves both open questions (13 and 15) as an internal team decision, not a cold question thrown at her. The actual ask that goes to her: block one to three hours, once a week, to record four to eight videos in a single sitting.
+
 ### Platform Specification
 - **Instagram**: co-primary channel, the growth engine at the center of the platform strategy, built for reach and discovery, the place bringing new audience in.
 - **LinkedIn**: co-primary channel, and the platform the content strategy leans into hardest, since she's already active there and gaining real traction *(confirmed directly, per edit note 12)*. Gets the heavier production focus, leads with the 80% business-case content.

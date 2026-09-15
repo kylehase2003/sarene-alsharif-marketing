@@ -90,6 +90,10 @@ About 80 percent of what she posts stays on the topic above, values actually sho
 
 Whenever real footage exists of her actually speaking on a stage, that gets used first, since it's the strongest proof that she's a real, working speaker, not just someone with opinions in front of a camera. When that footage doesn't exist yet, content gets filmed simply and honestly, talking straight to the camera with no heavy editing, so it feels like she's actually talking to the person watching, not performing.
 
+### How Often She'll Post and Shoot
+
+The goal is posting every day, at least 26 videos and 4 non-video posts a month, mostly short video. Three things feed that: her podcast clips (four episodes a month), any real footage from her talks and keynotes, and one shoot day a week where she sits down for one to three hours and records four to eight videos in a row, some planned out, some just her talking through an idea for a couple of minutes. Editors cut that footage into everything that gets posted. That weekly session alone, roughly 17 to 34 videos a month, is what makes daily posting possible even if the other two sources come up short.
+
 ### Where It Gets Posted
 
 Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
@@ -145,6 +149,7 @@ There's also one quick yes or no needed on how we described her leading by examp
 
 - **Her existing recordings.** Send us every recording she has of her talks and seminars, at least three or four, not just the NAUMD footage which still needs to be tracked down. This is the actual footage, not just a note that it exists, we need the files to build the media library and cut a speaker reel.
 - **A decision on the podcast format.** Will there ever be a co-host or guests on the show, or does it stay one voice throughout? This changes the format and how episodes get planned, so it needs an answer before production starts.
+- **One shoot day a week.** She needs to block one to three hours, once a week, to record four to eight videos in a single sitting. This is what makes daily posting possible.
 
 ## The First 90 Days
 

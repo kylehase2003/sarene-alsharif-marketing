@@ -6,7 +6,7 @@ Full Strategy, Personal Brand and Speaking Business
 
 This is the complete strategy for Sarene Alsharif's personal brand as a keynote speaker and workshop facilitator. It covers who she is, what she stands for, how that gets proven, the competitive landscape, what she should be known for and what she should avoid, the full content plan, the materials needed to sell and book her, and the practical steps that turn all of it into revenue.
 
-Seven items in this file need Sarene's approval, input, or action before they're finalized and put into use.
+Eight items in this file need Sarene's approval, input, or action before they're finalized and put into use.
 
 ## Items Pending Approval
 
@@ -23,6 +23,8 @@ Seven items in this file need Sarene's approval, input, or action before they're
 **6. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four, not just the uncertain NAUMD footage. The media library and speaker reel can't be built until this footage is actually in hand.
 
 **7. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
+
+**8. Weekly shoot day.** She needs to block one to three hours, once a week, depending on her pace, to record four to eight on-camera videos in a single sitting. This is what makes the daily posting plan possible.
 
 ## Who She Is
 
@@ -204,6 +206,14 @@ Things earned or accomplished on a personal level with no business angle require
 Real keynote and conference footage comes first, whenever a clip exists that makes the point, the single strongest trust-builder in the plan, proof she's an actual, working, paid speaker delivering this on a real stage. Genuine, unedited to-camera content comes second, for everything without stage footage yet, no heavy editing or montage, feels like she's actually talking to the viewer.
 
 Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. Story-Time, a single personal experience told start to finish, fits types 2, 3, and 5. Risky Text, quote something real, then react to it directly on screen, fits type 1. Rating and Ranking (1 through 10), real workplace systems, behaviors, or stated values rated fast and opinionated, a punchier delivery of types 1 and 6. Ask Sarene, real questions answered directly and unscripted, its own type and format at once. Voiceover Content, held for later, narrating over real footage only, no still images, reserved for more motivational material once the core formats are running consistently.
+
+### Posting Cadence and Shooting Schedule
+
+Target: daily posting, a minimum of 26 video posts and 4 non-video posts each month, weighted toward reels. Three sources feed that volume:
+
+1. **Podcast clips**, four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
+2. **Keynote and conference footage**, whenever a stage appearance is secured and recorded, the strongest content available.
+3. **A weekly shoot day**, her one committed block of on-camera time, once a week, one to three hours depending on her pace, producing four to eight raw videos in that session. Some scripted, some an unscripted two-to-four-minute answer to a prompt. Editors chop each raw video into multiple finished reels. This weekly session alone, roughly 17 to 34 raw videos a month, backs up daily posting if podcast clips and keynote footage fall short.
 
 ### Platforms
 

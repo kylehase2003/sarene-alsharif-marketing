@@ -31,9 +31,9 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Open Questions She Raised
 
-13. **Pending, blocks 15.** Weekly shooting capacity gets set once we find out what she can actually shoot, this isn't a question thrown at her cold, it's a number we work out together once we know her real schedule and what footage already exists.
+13. **Resolved (2026-09-15).** Weekly shooting capacity set as a team decision: one shoot day a week, one to three hours depending on her pace, producing four to eight raw videos per session (roughly 17 to 34 a month). Not a cold question thrown at her, a specific ask that now appears in both client-facing docs.
 14. **Deferred, ours to write, holding until after strategy approval.** The Values Gap Self-Assessment questions don't exist yet. This is on us to write, not something to wait on from her, but intentionally held until the overall strategy is approved, no point writing quiz content against a plan that could still shift.
-15. **Pending, blocked on 13 and 17/18.** Posting cadence gets decided by the team once weekly shooting capacity (13) and the media library (17/18) are settled, that conversation happens after those are in hand, not guessed at now.
+15. **Resolved (2026-09-15).** Posting cadence set: daily posting, minimum 26 video posts and 4 non-video posts a month, weighted toward reels. Fed by podcast clips (4/month), keynote/conference footage when secured, and the weekly shoot day from note 13, which alone covers the minimum with room to spare.
 16. **Resolved, revised (2026-09-15).** Direction changed after further discussion: a self-produced, solo-hosted show, not guest appearances on other shows (superseding the earlier guest-appearance answer). Released as limited series, five episodes each, teaching one real lesson per episode, illustrated with real experience. Three candidate series logged: Workplace Culture, Becoming a Certified B Corp, The Business Case for Values. Updated across all three markdown sources.
 19. **New, open.** Whether a co-host or recurring guest will ever be added to the podcast. Flagged as a real decision, not a default, since it changes the narrative direction of each episode and the kind of connection built with the audience. Not yet resolved.
 
@@ -41,6 +41,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 17. **Pending, high value, direct ask.** Request from her: send us the media, every recording she has of her talks and seminars, at least 3, possibly 4, not just the uncertain NAUMD footage. This is the actual ask, not just a fact to note, we need the files themselves to move forward.
 18. **Pending, blocked on 17.** Build a media library from what she sends, then cut a speaker reel from it, a short highlight video for booking purposes. Can't start this until the footage in item 17 is actually in hand.
+20. **New, direct ask.** Block one to three hours, once a week, to shoot four to eight on-camera videos in a single sitting. This is the actual mechanism resolving notes 13 and 15, now a standing weekly commitment we're asking of her, not a one-time thing.
 
 ## Summary Count
-18 points originally transcribed from her 10 annotated pages (the initial "19" count was a miscount, one annotation was double-counted). Item 19 above is new, added during follow-up discussion, not from her original markup, the co-host/guest question for the podcast.
+18 points originally transcribed from her 10 annotated pages (the initial "19" count was a miscount, one annotation was double-counted). Items 19 and 20 above are new, added during follow-up discussion, not from her original markup: the co-host/guest question for the podcast, and the weekly shoot-day ask.
