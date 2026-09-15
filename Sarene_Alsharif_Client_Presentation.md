@@ -93,7 +93,7 @@ Whenever real footage exists of her actually speaking on a stage, that gets used
 
 ### Where It Gets Posted
 
-Instagram and LinkedIn are both her main platforms. Instagram is her biggest platform overall, so it keeps carrying the content that doesn't fit as well on LinkedIn. LinkedIn is where she actually performs best and where her real clients spend their time, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
+Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
 
 ## How She's Introduced
 
