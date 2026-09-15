@@ -83,3 +83,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-15**: Resolved edit note 3 (Client Presentation now names the certification specifically as U.S. Department of Labor-certified, matching the other two sources).
 - **2026-09-15**: Resolved edit note 4. Removed the TEDx 150-applications/146-rejections story from both client-facing sources entirely. Kept as internal-only background in Master Reference with a "not for public use" flag, since Sarene explicitly does not want this story told.
 - **2026-09-15**: Resolved edit note 5 ("nutritionist" corrected to "dietitian" in Client Presentation, the other two sources were already correct).
+- **2026-09-15**: Resolved edit note 6, added her quote "the most sustainable clothes are the ones already in your closet" next to the repair-over-replace line across all three markdown sources.

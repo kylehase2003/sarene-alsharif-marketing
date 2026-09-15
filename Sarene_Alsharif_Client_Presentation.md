@@ -24,7 +24,7 @@ Sarene's main point is simple: a lot of companies say they have good values, but
 
 She doesn't argue this is just the right thing to do morally. She argues it's good for business, too, companies that actually live their values keep employees longer, earn more customer trust, and stand out from competitors who are just saying the same things without proof.
 
-Her own phrase for this is "repair over replace, do a tad more," meaning fix what you have instead of throwing it away and buying something new. That phrase applies to clothes, but she uses it as an example of a bigger idea that applies to how a company treats its people, its community, and its customers too, not just the environment.
+Her own phrase for this is "repair over replace, do a tad more," meaning fix what you have instead of throwing it away and buying something new. As she puts it, "the most sustainable clothes are the ones already in your closet." That phrase applies to clothes, but she uses it as an example of a bigger idea that applies to how a company treats its people, its community, and its customers too, not just the environment.
 
 ## What Makes Her Different
 
