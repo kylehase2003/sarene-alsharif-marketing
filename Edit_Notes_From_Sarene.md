@@ -27,7 +27,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Platforms
 
-12. **Resolved (2026-09-15).** Confirmed with real data (1,624 LinkedIn followers, 500+ connections, higher than her Instagram numbers). Instagram and LinkedIn are now co-primary platforms: Instagram keeps the reach and content that doesn't fit LinkedIn, LinkedIn gets the heavier production focus as her top performer and leads with business-case content. Updated in Master Reference, Strategy File, and Client Presentation.
+12. **Resolved (2026-09-15).** Confirmed directly against her live LinkedIn profile: she's already active there and gaining real traction, and that's where her actual clients are. Instagram and LinkedIn are now co-primary platforms, each with a distinct role: Instagram is the growth engine (reach and discovery, bringing new audience in), LinkedIn is where the strategy doubles down (heavier production focus, leads with business-case content). Updated in Master Reference, Strategy File, and Client Presentation.
 
 ## Open Questions She Raised
 
