@@ -183,8 +183,8 @@ What she does now, on stages and in workshops, is take that same interrogation t
 - **Voiceover Content, held for later.** Narrating over real b-roll only, no still images, reserved for more motivational material once the core formats are running consistently.
 
 ### Platform Specification
-- **Instagram**: existing, active channel, continues with the 80/20 mix as built.
-- **LinkedIn**: new, primary channel for the 80% business-case content, this is professionally where corporate and HR buyers actually are.
+- **Instagram**: co-primary channel, her largest platform by overall reach, continues with the 80/20 mix as built. Carries the content types that don't translate well to LinkedIn.
+- **LinkedIn**: co-primary channel, her strongest-performing platform by followers and connections *(confirmed directly, per edit note 12)*, and where her actual clients spend their time. Gets the heavier production focus since it's already outperforming, leads with the 80% business-case content.
 - **Facebook**: secondary distribution for the same LinkedIn-style content, plus better suited for local/community-facing material given her existing Rockford audience.
 - **YouTube**: home for full, uncut keynote and conference footage specifically, not just clips, the flagship credibility asset a conference organizer would search for and watch before booking. Clips get cut from this footage for the other three platforms.
 

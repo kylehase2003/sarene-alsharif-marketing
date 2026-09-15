@@ -205,7 +205,7 @@ Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. 
 
 ### Platforms
 
-Instagram stays the existing, active channel, continues with the 80/20 mix as built. LinkedIn is new and becomes the primary channel for the 80 percent business-case content, since that's professionally where corporate and HR buyers actually are. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking.
+Instagram and LinkedIn both serve as co-primary channels. Instagram is her largest platform by overall reach and continues with the 80/20 mix as built, carrying content that doesn't translate well to LinkedIn. LinkedIn is her strongest-performing platform by followers and connections, and where her actual clients spend their time, so it gets the heavier production focus and leads with the 80 percent business-case content. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking.
 
 ## Bio Order
 

@@ -27,7 +27,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Platforms
 
-12. **Pending.** Her words: "My LinkedIn presence is stronger than Insta. My clients are on LinkedIn." May mean LinkedIn should be treated as equal to or ahead of Instagram, not secondary.
+12. **Resolved (2026-09-15).** Confirmed with real data (1,624 LinkedIn followers, 500+ connections, higher than her Instagram numbers). Instagram and LinkedIn are now co-primary platforms: Instagram keeps the reach and content that doesn't fit LinkedIn, LinkedIn gets the heavier production focus as her top performer and leads with business-case content. Updated in Master Reference, Strategy File, and Client Presentation.
 
 ## Open Questions She Raised
 
