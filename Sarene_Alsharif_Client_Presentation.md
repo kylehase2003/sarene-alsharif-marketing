@@ -141,7 +141,7 @@ They sign an agreement for the keynote, the workshop, or both.
 
 ## What Still Needs Her Approval
 
-Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. The actual questions for the free quiz haven't been started, that needs her approval on the overall strategy first.
+The actual questions for the free quiz haven't been started, that needs her approval on the overall strategy first.
 
 ## What We Need From Her
 
@@ -151,7 +151,7 @@ Someone needs to be assigned to actually reach out to conferences and companies 
 
 ## The First 90 Days
 
-**Month 1.** Finish the bio, one-page summary, case study, and free quiz. Get her set up properly on LinkedIn and YouTube. Decide who's handling outreach to book her. Start actually filming and posting content.
+**Month 1.** Finish the bio, one-page summary, case study, and free quiz. Get her set up properly on LinkedIn and YouTube. Start actually filming and posting content.
 
 **Month 2.** Start posting regularly across all the content types. Begin actively reaching out to HR and leadership conferences and companies directly.
 

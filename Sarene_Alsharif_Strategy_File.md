@@ -6,19 +6,17 @@ Full Strategy, Personal Brand and Speaking Business
 
 This is the complete strategy for Sarene Alsharif's personal brand as a keynote speaker and workshop facilitator. It covers who she is, what she stands for, how that gets proven, the competitive landscape, what she should be known for and what she should avoid, the full content plan, the materials needed to sell and book her, and the practical steps that turn all of it into revenue.
 
-Five items in this file need Sarene's approval, input, or action before they're finalized and put into use. Talk titles are intentionally left out of this round, not being pursued for now.
+Four items in this file need Sarene's approval, input, or action before they're finalized and put into use. Talk titles are intentionally left out of this round, not being pursued for now.
 
 ## Items Pending Approval
 
-**1. Ownership of booking outreach.** Someone needs to own proactively pitching conference organizers and corporate contacts. Not yet assigned.
+**1. The Values Gap Self-Assessment.** Named and its purpose defined. Content creation hasn't started and won't until she approves the overall strategy.
 
-**2. The Values Gap Self-Assessment.** Named and its purpose defined. Content creation hasn't started and won't until she approves the overall strategy.
+**2. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four. Her NAUMD 2026 session was not recorded, per her direct instruction, no footage exists from that event. The media library and speaker reel can't be built until this footage is actually in hand.
 
-**3. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four. Her NAUMD 2026 session was not recorded, per her direct instruction, no footage exists from that event. The media library and speaker reel can't be built until this footage is actually in hand.
+**3. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
 
-**4. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
-
-**5. Weekly shoot day.** She needs to block one to three hours, once a week, depending on her pace, to record four to eight on-camera videos in a single sitting. This is what makes the daily posting plan possible.
+**4. Weekly shoot day.** She needs to block one to three hours, once a week, depending on her pace, to record four to eight on-camera videos in a single sitting. This is what makes the daily posting plan possible.
 
 ## Who She Is
 
@@ -259,7 +257,7 @@ One page, the B Corp certification journey specifically: the catalyst, the decis
 
 ### Month 1, Foundation
 
-Finalize the bio, one-pager, case study appendix, and lead magnet. Establish LinkedIn and YouTube presence. Confirm who owns booking outreach and equip them with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
+Finalize the bio, one-pager, case study appendix, and lead magnet. Establish LinkedIn and YouTube presence. Equip the booking outreach function with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
 
 ### Month 2, Launch
 
