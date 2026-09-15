@@ -203,6 +203,8 @@ Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. 
 
 Instagram stays the existing, active channel, continues with the 80/20 mix as built. LinkedIn is new and becomes the primary channel for the 80 percent business-case content, since that's professionally where corporate and HR buyers actually are. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking.
 
+Podcasts, as guest appearances, not a new show: rather than producing her own podcast, a heavy new commitment on top of already-limited weekly capacity, the stronger move is appearing as a guest on established podcasts already reaching the right audience, HR, leadership, sustainability, and business shows. This runs through the same booking-outreach function as conference targeting, not as a new content-production line.
+
 ## Bio Order
 
 1. What she does now: keynote speaker and workshop facilitator on why values-based businesses win.

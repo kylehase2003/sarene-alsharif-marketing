@@ -186,6 +186,7 @@ What she does now, on stages and in workshops, is take that same interrogation t
 - **LinkedIn**: new, primary channel for the 80% business-case content, this is professionally where corporate and HR buyers actually are.
 - **Facebook**: secondary distribution for the same LinkedIn-style content, plus better suited for local/community-facing material given her existing Rockford audience.
 - **YouTube**: home for full, uncut keynote and conference footage specifically, not just clips, the flagship credibility asset a conference organizer would search for and watch before booking. Clips get cut from this footage for the other three platforms.
+- **Podcasts, resolved (edit note 16, 2026-09-15)**: guest appearances, not a new show. Producing her own podcast is a heavy new commitment on top of already-limited weekly capacity; the stronger move is appearing as a guest on established podcasts already reaching the right audience (HR, leadership, sustainability, business shows). Runs through the same booking-outreach function as conference targeting, not a new content-production line.
 
 ### Bio Ordering
 1. What she does now: keynote speaker and workshop facilitator on why values-based businesses win

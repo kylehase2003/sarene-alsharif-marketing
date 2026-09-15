@@ -31,15 +31,15 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Open Questions She Raised
 
-13. **Pending.** How much time can she devote to shooting content every week? Needs an answer from her before content cadence can be finalized.
+13. **Pending, blocks 15.** How much time can she devote to shooting content every week? Needs an answer from her before content cadence can be finalized.
 14. **Noted, already flagged as open.** The Values Gap Self-Assessment "does not exist" yet, confirmed still needs to be written.
-15. **Pending.** How often will things actually be posted? Cadence was never defined.
-16. **Pending.** What about the podcast? Not mentioned anywhere in the plan, needs clarification on whether this means her own existing show, a guest-appearance strategy, or a new show to start.
+15. **Pending, blocked on 13 and 17/18.** How often will things actually be posted? Can't be answered responsibly until we know her real weekly shooting capacity (item 13) and what existing footage the media library (items 17/18) already gives us to work with, cadence should be set against real capacity, not guessed at.
+16. **Resolved (2026-09-15).** Answered as: guest appearances on established, relevant podcasts (HR, leadership, sustainability, business shows), not producing her own show. Runs through the same booking-outreach function as conference targeting. Added to Platforms across all three markdown sources.
 
-## New Real Assets She Confirmed
+## Things Needed From Her To Move Forward
 
-17. **Pending, high value.** She has at least 3, possibly 4, recorded talks that can be used for content creation, not just the uncertain NAUMD footage. Need to identify which talks and get the files.
-18. **Pending.** Build a speaker reel using this footage, a short highlight video for booking purposes, currently missing from the plan entirely.
+17. **Pending, high value, direct ask.** Request from her: send us the media, every recording she has of her talks and seminars, at least 3, possibly 4, not just the uncertain NAUMD footage. This is the actual ask, not just a fact to note, we need the files themselves to move forward.
+18. **Pending, blocked on 17.** Build a media library from what she sends, then cut a speaker reel from it, a short highlight video for booking purposes. Can't start this until the footage in item 17 is actually in hand.
 
 ## Summary Count
 19 total marked points across 10 pages, all logged above.
