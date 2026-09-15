@@ -34,7 +34,8 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 13. **Pending, blocks 15.** How much time can she devote to shooting content every week? Needs an answer from her before content cadence can be finalized.
 14. **Noted, already flagged as open.** The Values Gap Self-Assessment "does not exist" yet, confirmed still needs to be written.
 15. **Pending, blocked on 13 and 17/18.** How often will things actually be posted? Can't be answered responsibly until we know her real weekly shooting capacity (item 13) and what existing footage the media library (items 17/18) already gives us to work with, cadence should be set against real capacity, not guessed at.
-16. **Resolved (2026-09-15).** Answered as: guest appearances on established, relevant podcasts (HR, leadership, sustainability, business shows), not producing her own show. Runs through the same booking-outreach function as conference targeting. Added to Platforms across all three markdown sources.
+16. **Resolved, revised (2026-09-15).** Direction changed after further discussion: a self-produced, solo-hosted show, not guest appearances on other shows (superseding the earlier guest-appearance answer). Released as limited series, five episodes each, teaching one real lesson per episode, illustrated with real experience. Three candidate series logged: Workplace Culture, Becoming a Certified B Corp, The Business Case for Values. Updated across all three markdown sources.
+19. **New, open.** Whether a co-host or recurring guest will ever be added to the podcast. Flagged as a real decision, not a default, since it changes the narrative direction of each episode and the kind of connection built with the audience. Not yet resolved.
 
 ## Things Needed From Her To Move Forward
 
@@ -42,4 +43,4 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 18. **Pending, blocked on 17.** Build a media library from what she sends, then cut a speaker reel from it, a short highlight video for booking purposes. Can't start this until the footage in item 17 is actually in hand.
 
 ## Summary Count
-19 total marked points across 10 pages, all logged above.
+18 points originally transcribed from her 10 annotated pages (the initial "19" count was a miscount, one annotation was double-counted). Item 19 above is new, added during follow-up discussion, not from her original markup, the co-host/guest question for the podcast.

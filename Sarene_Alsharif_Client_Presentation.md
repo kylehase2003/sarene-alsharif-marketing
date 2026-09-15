@@ -94,7 +94,14 @@ Whenever real footage exists of her actually speaking on a stage, that gets used
 
 Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
 
-For podcasts, instead of starting her own show, she goes on other people's podcasts as a guest, the ones already reaching the right audience. That's a lighter lift than producing a whole new show, and it works the same way as getting booked for conferences.
+For podcasts, the plan changed, she'll produce her own show instead of being a guest on other people's. It won't run as an ongoing weekly show, it'll come out in short series of five episodes at a time, so it's manageable alongside everything else. Each episode teaches one real, useful lesson, backed up by something that actually happened to her, not just a story for the sake of telling it.
+
+Three ideas for what the first series could be about:
+- **Workplace Culture**, what a genuinely healthy culture actually looks like, and how to build one.
+- **Becoming a Certified B Corp**, what the real certification process actually involves.
+- **The Business Case for Values**, one real way values pay off financially, per episode.
+
+One thing still open: whether she'll ever bring on a co-host or guests. That's not a small detail, it would change how each episode feels and how listeners connect with the show, one steady voice feels different than a conversation between two or more people. Needs a real decision before we go further with production.
 
 ## How She's Introduced
 

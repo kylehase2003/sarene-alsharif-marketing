@@ -203,7 +203,14 @@ Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. 
 
 Instagram and LinkedIn both serve as co-primary channels, each with a distinct role in the platform strategy. Instagram is the growth engine, built for reach and discovery, bringing new audience in and continuing with the 80/20 mix as built. LinkedIn is where the strategy doubles down: she's already active there and gaining real traction, so it gets the heavier production focus and leads with the 80 percent business-case content. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking.
 
-Podcasts, as guest appearances, not a new show: rather than producing her own podcast, a heavy new commitment on top of already-limited weekly capacity, the stronger move is appearing as a guest on established podcasts already reaching the right audience, HR, leadership, sustainability, and business shows. This runs through the same booking-outreach function as conference targeting, not as a new content-production line.
+Podcasts, revised direction, a self-produced, solo-hosted show, not guest appearances on other shows. Released as limited series, five episodes each, rather than an ongoing weekly commitment, matching her limited production capacity. Each episode teaches one specific, actionable lesson, illustrated by a real moment from her own experience, not narrated story for its own sake. Full episodes go on YouTube, clips get cut for LinkedIn, Instagram, and Facebook, the same as conference footage.
+
+Three candidate series:
+1. **Workplace Culture**, what a genuinely healthy culture looks like versus a performative one, and how to actually build it.
+2. **Becoming a Certified B Corp**, demystifying the actual certification process, not just the badge.
+3. **The Business Case for Values**, one business mechanism per episode, breaking down exactly how values pay off.
+
+**Open question, not yet resolved:** whether a co-host or recurring guest will ever be added to the format. This isn't a minor detail, if a co-host or guest becomes part of it, the narrative direction of each episode changes, and so does the kind of connection built with the audience. A solo teaching show builds one kind of bond with a listener, a single, consistent voice; a co-hosted or guest-driven show builds a different one, through dialogue and differing perspectives. This needs a real decision before production planning goes further, not a default.
 
 ## Bio Order
 
