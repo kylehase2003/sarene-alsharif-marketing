@@ -26,7 +26,7 @@ Founder and CEO, based in Rockford, Illinois, founded 2017, as a direct response
 
 Business model: mail-in alterations and repairs, ship clothes in, get them altered, shipped back, plus a physical storefront in Rockford. The current site launched April 2020. Two competitors that tried the same mail-in model, Altered and Air Tailor, both went out of business. The physical storefront helps fund and stabilize the business while the online side grows.
 
-Scale: 16 tailors on staff, actively hiring, 10,000-plus orders processed, roughly a 2 percent redo rate. One loyalty example: a customer in Texas has placed 75-plus orders over three years.
+Scale: 16 tailors on staff, actively hiring, 35,000-plus orders processed, roughly a 2 percent redo rate. One loyalty example: a customer in Texas has placed 75-plus orders over three years.
 
 Business-to-business clients: Chick-fil-A (repaired weatherproof drive-thru uniforms instead of replacing them), Hard Rock, the City of Rockford, plus dry cleaners across Chicago and Wisconsin. Also unusual jobs: horse blankets, boat sail and buoy covers.
 
@@ -115,7 +115,7 @@ The real test of a company's values isn't what it claims, it's where those value
 
 **Personal:** personally going through B Corp certification; 150 TEDx applications and 146 rejections before the one yes, crediting her assistant Renee for the unglamorous work of applying; how she structures her team around individual strengths, her lead tailor isn't a natural teacher, so others who are took on that role; the wedding dress reconstruction stories, told with real emotional reflection.
 
-**Operational:** B Corp score of 115.0 against a 50.9 median; the Chick-fil-A uniform repair case, kept as a business case study, separate from her personal story; the Department of Labor-certified apprenticeship program; 10,000-plus orders, 16 tailors, roughly a 2 percent error rate; Restyle the Runway and Green Threads; the two named awards and press coverage.
+**Operational:** B Corp score of 115.0 against a 50.9 median; the Chick-fil-A uniform repair case, kept as a business case study, separate from her personal story; the Department of Labor-certified apprenticeship program; 35,000-plus orders, 16 tailors, roughly a 2 percent error rate; Restyle the Runway and Green Threads; the two named awards and press coverage.
 
 ### The Story, Assembled
 
@@ -224,7 +224,7 @@ Instagram stays the existing, active channel, continues with the 80/20 mix as bu
 
 ### One-Pager
 
-Name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score of 115 against a 50.9 median, the Department of Labor-certified apprenticeship program, 10,000-plus orders, the two named awards, press list), and contact information.
+Name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score of 115 against a 50.9 median, the Department of Labor-certified apprenticeship program, 35,000-plus orders, the two named awards, press list), and contact information.
 
 ### Case Study Appendix
 

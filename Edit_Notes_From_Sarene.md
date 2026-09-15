@@ -5,7 +5,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 ## Who She Is
 
 1. **Resolved (2026-09-15).** Origin story now opens by framing the business as a direct response to fast fashion (with a line on its environmental damage). The Maen/Syrian refugee detail stays specific and factual, no broader generalization folded into it, per her note that doing so read as propaganda. The universal point ("skilled hands deserve a place to work, wherever they come from") now lands as a separate closing line instead. Updated in both client-facing DOCX files and the Master Reference.
-2. **Pending.** Order count is wrong, update from 10,000 to 35,000.
+2. **Resolved (2026-09-15).** Order count updated from 10,000 to 35,000 across all three markdown sources (Strategy File, Client Presentation, Master Reference). Pricing mentions of "$10,000" (keynote plus workshop) were correctly left untouched, they're an unrelated number.
 3. **Pending.** Name the training program's certification specifically as "DOL certification" (Department of Labor), not just "government-certified."
 4. **Pending.** Remove the TEDx persistence detail entirely (150 applications, 146 rejections). She doesn't want this told.
 5. **Pending.** Correct her title from "nutritionist" to "dietitian."

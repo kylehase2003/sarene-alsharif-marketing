@@ -12,7 +12,7 @@ Sarene is the founder and CEO of Tad More Tailoring and Alterations, a clothing 
 
 She started the business as a direct response to fast fashion, an industry widely documented for its environmental damage, from textile waste to water pollution. While she and her husband were helping Syrian refugees when the war broke out, they met Maen, a tailor with real, valuable skill and no shop to use it in. Around the same time, she saw how the fast fashion industry trains people to throw clothes away instead of repairing them, not because people don't care, but because they don't have easy access to a good tailor. Tad More was built to be the alternative to that throwaway model, and that same idea doesn't stop at clothes. Skilled hands deserve a place to work, wherever they come from.
 
-The company now has 16 tailors, has completed over 10,000 orders, and runs a government-certified training program that teaches people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans," after applying to 150 different TEDx events and getting turned down by 146 of them before one said yes. She holds a Master's in Public Health and is a licensed nutritionist.
+The company now has 16 tailors, has completed over 35,000 orders, and runs a government-certified training program that teaches people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans," after applying to 150 different TEDx events and getting turned down by 146 of them before one said yes. She holds a Master's in Public Health and is a licensed nutritionist.
 
 ## Who Else Is Doing Something Similar
 

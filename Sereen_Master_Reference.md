@@ -11,7 +11,7 @@ A consolidated record of every confirmed fact, resolved decision, and open quest
 - **Origin story:** She and her husband were supporting Syrian refugees at the start of the Syrian Civil War. Through that work they met **Maen**, a tailor from Syria with years of sewing experience but no shop. Around the same time they researched the fast-fashion industry and identified the real problem: people throw away clothes instead of mending them mainly because they don't have access to a good tailor. That gap is what the business was built to close.
 - Business model: mail-in alterations/repairs (ship clothes in, get them altered, shipped back) plus a physical storefront in Rockford. Went through 3–4 site redesigns before the current version launched April 2020.
 - Differentiator vs. two failed competitors ("Altered" and "Air Tailor," both mail-in alteration startups that went out of business): the physical storefront helps fund and stabilize the business while the online side grows, she compares this to early Amazon, where people simply hadn't learned yet that ordering online was even an option.
-- Scale: **16 tailors** on staff (actively hiring, especially for prom season), **10,000+ orders** processed (crossed that mark in October, tracked via Shopify), roughly **2% redo/error rate**. Uses Shopify and Square.
+- Scale: **16 tailors** on staff (actively hiring, especially for prom season), **35,000+ orders** processed (updated per Sarene's correction on 2026-09-15, previously recorded as 10,000+), roughly **2% redo/error rate**. Uses Shopify and Square.
 - Loyalty example: one customer in Texas has placed 75+ orders over three years.
 - B2B alteration clients: **Chick-fil-A** (repaired weatherproof drive-thru uniforms instead of replacing them), **Hard Rock**, the **City of Rockford**, plus dry cleaners across Chicago and Wisconsin. Also unusual jobs: horse blankets, boat sail/buoy covers, industrial machines can handle leather, fur, heavy fabric.
 - Certified **B Corp**: first in Rockford, IL. B Impact score **115.0** vs. a **50.9** median for ordinary businesses.
@@ -126,7 +126,7 @@ Most competitors in leadership/values speaking are theorists. Sereen's gap to ow
 
 **Proof, split into two categories:**
 - *Personal* (builds trust in her as a person): personally going through B Corp certification; 150 TEDx applications and 146 rejections before the one yes, crediting her assistant Renee for the unglamorous work of applying; how she structures her team around individual strengths (her lead tailor isn't a natural teacher, so others who are took on that role); the wedding dress reconstruction stories, told with real emotional reflection.
-- *Operational* (builds credibility for the business at scale): B Corp score of 115.0 vs. a 50.9 median; the Chick-fil-A uniform repair case (a business case study, kept separate from her personal story); the DOL-certified apprenticeship program; 10,000+ orders, 16 tailors, ~2% error rate; Restyle the Runway and Green Threads; the two named awards and press coverage.
+- *Operational* (builds credibility for the business at scale): B Corp score of 115.0 vs. a 50.9 median; the Chick-fil-A uniform repair case (a business case study, kept separate from her personal story); the DOL-certified apprenticeship program; 35,000+ orders, 16 tailors, ~2% error rate; Restyle the Runway and Green Threads; the two named awards and press coverage.
 
 **Assembled narrative (final version, business-challenge framing, not a biography):**
 
@@ -198,7 +198,7 @@ What she does now, on stages and in workshops, is take that same interrogation t
 **Workshop:** "Closing the Gap: Turning Stated Values Into Everyday Business Decisions."
 
 ### Speaker Kit
-**One-pager:** name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 10,000+ orders, the two named awards, press list), contact.
+**One-pager:** name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 35,000+ orders, the two named awards, press list), contact.
 **Case study appendix:** one page, the B Corp certification journey specifically, Catalyst, the decision to certify despite the cost, what the audit actually required, the score, the result. The Brand Story condensed into proof format.
 
 ### Lead Magnet
