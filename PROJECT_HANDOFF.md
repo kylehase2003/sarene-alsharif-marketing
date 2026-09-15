@@ -46,7 +46,7 @@ As of the latest session, the full strategy has been built and written into two 
 
 ## Open Items / Active Work
 
-Full list with status lives in `Edit_Notes_From_Sarene.md`. Points 1 through 13, 15, and 16 are resolved. What's actually still open:
+Full list with status lives in `Edit_Notes_From_Sarene.md`. Points 1 through 13, 15, and 16 are resolved. What's actually still open, all of it sequenced after Sarene approves the overall strategy, not simultaneous asks:
 - **Note 14**, the Values Gap Self-Assessment questions, ours to write, but held until after the overall strategy is approved, not started yet.
 - **Note 17/18**, one continuous ask: get her existing talk/seminar recordings from her, then build the media library and cut the speaker reel from what she sends.
 - **Note 19**, whether the podcast ever adds a co-host or guest, open decision, now surfaced to her in both client-facing docs.
