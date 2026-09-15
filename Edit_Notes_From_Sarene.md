@@ -13,7 +13,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## What Makes Her Different
 
-7. **Pending.** Add: she built the nation's only DOL-certified apprenticeship program, as a named differentiator.
+7. **Resolved (2026-09-15).** Verified via independent sources (WIFR local news, The Workforce Connection) before adding: confirmed claim is "the nation's first" DOL-registered apprenticeship in industrial sewing, not "the nation's only" (her note said "only," but that's not what the evidence supports, "first" is the precisely sourced claim). Registered June 5, 2024, in partnership with The Workforce Connection, first 3 graduates September 30, 2025, 2,000+ hours hands-on plus 144 hours classroom. Added as a named differentiator in all three markdown sources, with the richer verified detail folded into the nonprofit/apprenticeship description too.
 8. **Pending.** Rework the "hustle harder" avoid-item. Her words: "I never said don't work hard. I recommend balance but I expect the owner to work harder than everyone [cut off]." Needs her fuller intent confirmed, the note was cut off at the bottom of the page.
 
 ## Content Types
