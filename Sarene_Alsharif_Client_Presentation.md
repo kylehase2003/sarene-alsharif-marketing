@@ -12,7 +12,7 @@ Sarene is the founder and CEO of Tad More Tailoring and Alterations, a clothing 
 
 She started the business as a direct response to fast fashion, an industry widely documented for its environmental damage, from textile waste to water pollution. While she and her husband were helping Syrian refugees when the war broke out, they met Maen, a tailor with real, valuable skill and no shop to use it in. Around the same time, she saw how the fast fashion industry trains people to throw clothes away instead of repairing them, not because people don't care, but because they don't have easy access to a good tailor. Tad More was built to be the alternative to that throwaway model, and that same idea doesn't stop at clothes. Skilled hands deserve a place to work, wherever they come from.
 
-The company now has 16 tailors, has completed over 35,000 orders, and runs a U.S. Department of Labor-certified training program that teaches people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans." She holds a Master's in Public Health and is a licensed nutritionist.
+The company now has 16 tailors, has completed over 35,000 orders, and runs a U.S. Department of Labor-certified training program that teaches people to become professional sewing machine operators, a real career credential. She also gave a TEDx talk in 2023 called "How to Save the World with a Pair of Jeans." She holds a Master's in Public Health and is a licensed dietitian.
 
 ## Who Else Is Doing Something Similar
 
@@ -95,7 +95,7 @@ Instagram stays her main, already-active platform. LinkedIn is new and becomes t
 
 ## How She's Introduced
 
-In order: what she does now (a speaker and workshop leader on why good values make a business more successful), then the proof (founder of a certified B Corp company), then her platform (TEDx speaker), then her academic credentials (Master's in Public Health, licensed nutritionist).
+In order: what she does now (a speaker and workshop leader on why good values make a business more successful), then the proof (founder of a certified B Corp company), then her platform (TEDx speaker), then her academic credentials (Master's in Public Health, licensed dietitian).
 
 ## Materials Needed to Book Her
 

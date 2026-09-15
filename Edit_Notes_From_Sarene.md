@@ -8,7 +8,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 2. **Resolved (2026-09-15).** Order count updated from 10,000 to 35,000 across all three markdown sources (Strategy File, Client Presentation, Master Reference). Pricing mentions of "$10,000" (keynote plus workshop) were correctly left untouched, they're an unrelated number.
 3. **Resolved (2026-09-15).** Client Presentation updated to name it "U.S. Department of Labor-certified" specifically, instead of "government-certified." Strategy File and Master Reference already used the specific naming.
 4. **Resolved (2026-09-15).** Removed from both client-facing DOCX sources (Strategy File, Client Presentation) entirely. In Master Reference, kept as internal-only background with an explicit "not for public use" flag, since it's still a true fact worth remembering internally, but excluded from the Personal Proof list that feeds actual content.
-5. **Pending.** Correct her title from "nutritionist" to "dietitian."
+5. **Resolved (2026-09-15).** Fixed both instances in Client Presentation, "licensed nutritionist" to "licensed dietitian." Strategy File and Master Reference were already correct, both use the full credential name "LDN (Licensed Dietitian Nutritionist)."
 6. **Pending.** Add the line "The most sustainable clothes are the ones already in your closet" near the repair-over-replace section.
 
 ## What Makes Her Different
