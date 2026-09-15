@@ -67,7 +67,7 @@ About 80 percent of what she posts stays on the topic above, values actually sho
 
 ### The Main Content, Nine Types
 
-- **Checking real companies' claims.** Looking at things a real company says about itself and asking whether it holds up.
+- **Spotlighting companies doing it right.** Finding real companies that are actually living up to what they say, and showing exactly what that looks like. Not calling anyone out, just pointing at the real thing.
 - **Where her belief came from.** Personal stories, like growing up in Syria, that explain why she believes what she believes.
 - **Building around what people are good at.** How she trains her own team based on each person's real strengths instead of expecting everyone to be the same.
 - **Real community involvement.** Showing the difference between a company that's genuinely involved in its community versus one that does a single donation for a photo.

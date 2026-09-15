@@ -139,9 +139,9 @@ What doesn't lead right now: Power Look, public health and nutrition material, a
 
 ### 80 Percent, the Core Lane
 
-#### 1. Values Audit
+#### 1. Proof Over Promise
 
-Examining whether a value is real or just marketing. Critiquing a specific real company's stated values against what it actually does; reacting to something she personally observed and giving her honest take; picking apart a generic corporate gesture, a sustainability page, a values poster, a PTO policy.
+Examining whether a value is real by showing it in action. Spotlighting a specific real company whose stated values visibly show up in what they actually do; reacting to something she personally witnessed that impressed her and explaining why it stood out; breaking down what makes a specific action genuine instead of performative, a sustainability program that's actually funded, a PTO policy people actually use, a promise kept under pressure. This is a positive format, not a critique of other companies, in line with her own values.
 
 #### 2. Where the Belief Came From
 

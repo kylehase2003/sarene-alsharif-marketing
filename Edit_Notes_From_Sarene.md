@@ -18,7 +18,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Content Types
 
-9. **Pending.** Drop or rework "Checking real companies' claims" (Values Audit) as originally framed. Her words: "This is against my values. I don't tear down other companies." She's open to "I can give good examples from other companies" instead, positive examples, not critique.
+9. **Resolved (2026-09-15).** Renamed "Values Audit" to "Proof Over Promise." Now spotlights a real company whose stated values visibly show up in what they do, or something she personally witnessed, instead of critiquing anyone. Updated in Master Reference, Strategy File, and Client Presentation. Still needs a running list of real, verified company examples from her own network before this goes into production, nothing gets named without her confirming it firsthand.
 
 ## Personal Content (20%)
 

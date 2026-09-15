@@ -151,7 +151,7 @@ What she does now, on stages and in workshops, is take that same interrogation t
 
 **80%, the core lane, nine content types (eight primary, one supporting):**
 
-1. **Values Audit**, examining whether a value is real or just marketing: critiquing a specific real company's stated values against what it actually does; reacting to something she personally observed; picking apart a generic corporate gesture.
+1. **Proof Over Promise** *(reframed from "Values Audit" per her edit note 9, she does not critique other companies)*, examining whether a value is real by showing it in action: spotlighting a specific real company whose stated values visibly show up in what they actually do; reacting to something she personally witnessed that impressed her; breaking down what makes a specific corporate action genuine instead of performative. No naming a company without a real, verified example from her own network, this only works with something she's actually seen.
 2. **Where the Belief Came From**, formative personal moments that explain why she believes what she believes: the Syria repair-culture contrast; the specific moment she and her husband decided to start Tad More; an early mistake that reshaped her thinking.
 3. **Built Around People**, recognizing and building around individual strengths instead of one mold: Maen not being a natural teacher while Noor and Adriana are, and building training around that.
 4. **Second Life, Public**, community-facing proof framed as an explicit argument, real ongoing investment versus a one-time performative gesture: Restyle the Runway, Green Threads.
