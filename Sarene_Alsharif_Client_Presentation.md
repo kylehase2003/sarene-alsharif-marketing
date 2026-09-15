@@ -92,7 +92,7 @@ Whenever real footage exists of her actually speaking on a stage, that gets used
 
 ### Where It Gets Posted
 
-Instagram stays her main, already-active platform. LinkedIn is new and becomes the main place for the business-focused content, since that's where companies and HR professionals actually spend their time. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
+Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
 
 For podcasts, instead of starting her own show, she goes on other people's podcasts as a guest, the ones already reaching the right audience. That's a lighter lift than producing a whole new show, and it works the same way as getting booked for conferences.
 
