@@ -37,12 +37,12 @@ Most people who speak about company values and culture are consultants or resear
 - Investing in training and developing her employees as a smart business move, not charity.
 - The belief that people and things both deserve a second chance before being thrown away.
 - Being genuinely involved in her local community, not a speaker who only shows up for a paycheck.
+- Leading by example, she works hard and keeps growing herself first, and brings that same care to her team.
 
 ## What She Should Avoid
 
-- Any company or person who says one thing and does another, this is the exact problem she calls out, so she can never be guilty of it herself.
+- Any company or person who says one thing and does another, including hustle culture that glamorizes success at the cost of other people or their own values, this is the exact problem she calls out, so she can never be guilty of it herself.
 - Fast fashion companies, which is the opposite of everything her TEDx talk argues for.
-- Generic "hustle harder" business influencer content, it doesn't match how she actually talks.
 - Being seen as just a stylist or fashion person, that undersells the real business point she's making.
 
 ## What She's Actually Selling

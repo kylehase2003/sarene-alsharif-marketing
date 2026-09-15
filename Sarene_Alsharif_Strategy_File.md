@@ -93,13 +93,13 @@ Most competitors in leadership and values speaking are theorists. Her gap to own
 3. Investing in people as strategy, not charity, demonstrated through the apprenticeship program.
 4. The "second chance" philosophy, repair over replace, do a tad more, applied to clothes, people, and community.
 5. Rooted in a real community, not a distant, faceless speaker.
+6. **Leads by example first.** Growth and hard work start with her, and she brings that same care to how she shows up for her team every day.
 
 ### What to Actively Avoid
 
-1. The say-do gap in any form, greenwashing, a waste-driven business marketed as sustainable, or any claim that can't be backed up with proof. This is the exact contradiction her whole positioning exists to call out.
+1. The say-do gap in any form, greenwashing, a waste-driven business marketed as sustainable, hustle-culture messaging that glamorizes success at the cost of other people or their own stated values, or any claim that can't be backed up with proof. This is the exact contradiction her whole positioning exists to call out.
 2. Fast fashion, in any form, a direct contradiction of her TEDx thesis.
-3. Generic hustle-culture business influencer content, doesn't match her actual tone.
-4. Being flattened into "just a stylist," disconnected from the values thesis, undercuts her credibility as a serious business voice.
+3. Being flattened into "just a stylist," disconnected from the values thesis, undercuts her credibility as a serious business voice.
 
 ## The Brand Story
 

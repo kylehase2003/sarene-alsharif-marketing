@@ -14,7 +14,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 ## What Makes Her Different
 
 7. **Pending.** Add: she built the nation's only DOL-certified apprenticeship program, as a named differentiator.
-8. **Pending.** Rework the "hustle harder" avoid-item. Her words: "I never said don't work hard. I recommend balance but I expect the owner to work harder than everyone [cut off]." Needs her fuller intent confirmed, the note was cut off at the bottom of the page.
+8. **Resolved, pending her confirmation (2026-09-15).** Split into two changes: a new "known for" point ("Leads by example first," growth and hard work start with her, same care extended to her team) and merged the old standalone "avoid hustle culture" item into the say-do-gap avoid item (hustle culture that glamorizes success at the cost of other people or their own stated values). This is our reconstruction of her intent, not her literal words past "I expect the owner to work harder than everyone—", still needs a quick yes or no from her before being treated as fully settled. Updated in Master Reference, Strategy File, and Client Presentation.
 
 ## Content Types
 
