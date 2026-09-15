@@ -31,9 +31,9 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 ## Open Questions She Raised
 
-13. **Pending, blocks 15.** How much time can she devote to shooting content every week? Needs an answer from her before content cadence can be finalized.
-14. **Noted, already flagged as open.** The Values Gap Self-Assessment "does not exist" yet, confirmed still needs to be written.
-15. **Pending, blocked on 13 and 17/18.** How often will things actually be posted? Can't be answered responsibly until we know her real weekly shooting capacity (item 13) and what existing footage the media library (items 17/18) already gives us to work with, cadence should be set against real capacity, not guessed at.
+13. **Pending, blocks 15.** Weekly shooting capacity gets set once we find out what she can actually shoot, this isn't a question thrown at her cold, it's a number we work out together once we know her real schedule and what footage already exists.
+14. **In progress, ours to write.** The Values Gap Self-Assessment questions don't exist yet. This is on us to write, not something to wait on from her.
+15. **Pending, blocked on 13 and 17/18.** Posting cadence gets decided by the team once weekly shooting capacity (13) and the media library (17/18) are settled, that conversation happens after those are in hand, not guessed at now.
 16. **Resolved, revised (2026-09-15).** Direction changed after further discussion: a self-produced, solo-hosted show, not guest appearances on other shows (superseding the earlier guest-appearance answer). Released as limited series, five episodes each, teaching one real lesson per episode, illustrated with real experience. Three candidate series logged: Workplace Culture, Becoming a Certified B Corp, The Business Case for Values. Updated across all three markdown sources.
 19. **New, open.** Whether a co-host or recurring guest will ever be added to the podcast. Flagged as a real decision, not a default, since it changes the narrative direction of each episode and the kind of connection built with the audience. Not yet resolved.
 

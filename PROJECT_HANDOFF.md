@@ -46,16 +46,15 @@ As of the latest session, the full strategy has been built and written into two 
 
 ## Open Items / Active Work
 
-Full list with status lives in `Edit_Notes_From_Sarene.md`. Headline items:
-- Several factual corrections needed (order count is 35,000 not 10,000; "dietitian" not "nutritionist"; DOL certification named specifically).
-- She wants the TEDx rejection-count story removed entirely.
-- She rejected the "critique other companies" content type, wants positive examples instead.
-- She wants family content removed, replaced with real personal interests (fitness, art, coffee, reading, orchids).
-- She says her LinkedIn presence is already stronger than Instagram, current platform weighting may need revisiting.
-- She has 3 to 4 existing recorded talks that can be used for content, this is new and valuable, not yet secured or used.
-- A speaker reel needs to be built and added to the speaker kit, currently missing from the plan.
-- Open questions from her, not yet answered: how much weekly time she can give to content shooting, what posting cadence should be, and what "the podcast" refers to (needs clarification, could be an existing show, a guest strategy, or a new show).
-- New, not one of her 19 edit points: her live LinkedIn headline/bio currently leads with confidence-coaching language ("discover their authentic selves and build confidence for lasting impact"), which is Power Look messaging, not the finalized values-as-business-advantage positioning. Needs to be rewritten to match the finalized Bio Ordering once that copy is ready, this is a live-profile fix, not just a document fix.
+Full list with status lives in `Edit_Notes_From_Sarene.md`. Points 1 through 12 and 16 are resolved. What's actually still open:
+- **Note 8**, confirmed as-is, still needs her literal yes/no before it's fully settled (it's our reconstruction of a cut-off note, not her exact words).
+- **Note 13**, her weekly shooting capacity, to be worked out with her directly once we know her real schedule, not thrown at her as a cold open question.
+- **Note 14**, the Values Gap Self-Assessment questions, ours to write.
+- **Note 15**, posting cadence, decided by the team after 13 and 17/18 are settled.
+- **Note 17/18**, one continuous ask: get her existing talk/seminar recordings from her, then build the media library and cut the speaker reel from what she sends.
+- **Note 19**, whether the podcast ever adds a co-host or guest, open decision, now surfaced to her in both client-facing docs.
+
+Deferred, not active right now: her live LinkedIn bio still uses old Power Look/confidence-coaching language that contradicts the finalized positioning. Real, needs fixing eventually, but that's an action-phase task, not part of the current point-by-point resolution work.
 
 ---
 
@@ -94,3 +93,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-15**: Resolved edit note 16 (podcasts as guest appearances on established shows, not a new show, runs through the booking-outreach function), then revised further per direct discussion: podcast direction changed to a self-produced, solo-hosted limited series instead of guest appearances, see the podcast strategy discussion in session notes. Restructured edit notes 17 and 18 into a direct ask, we need Sarene to send her existing talk/seminar recordings so a media library and speaker reel can be built, 18 is explicitly blocked on 17. Also flagged that edit note 15 (posting cadence) is blocked on both 13 (her weekly capacity, which will itself be calculated by us rather than asked as an open question) and 17/18 (what footage we'll actually have), not something to guess at in isolation.
 - **2026-09-15**: Finalized the podcast strategy across all three markdown sources: self-produced, solo-hosted, five-episode limited series, each episode teaching one real lesson illustrated by actual experience. Three candidate series logged: Workplace Culture, Becoming a Certified B Corp, The Business Case for Values. Added a new open item (not from her original markup), whether a co-host or recurring guest will ever be added, logged as edit note 19, since it would meaningfully change the show's format and the connection built with the audience.
 - **2026-09-15**: Caught and fixed a sync bug: Client Presentation still said "Five Types" of personal content under a header that only listed four, left over from edit note 10 removing the family category. Corrected to "Four Types." Also brought both client-facing "pending approval" sections up to date, they only listed the original 4 items and were missing everything surfaced since: note 8's pending yes/no on the "leads by example" framing, note 17's direct ask for her existing talk recordings, and note 19's co-host/guest decision. Strategy File's "Items Pending Approval" now lists 7 items, Client Presentation split its list into "What Still Needs Her Approval" (sign-off items) and a new "What We Need From Her" section (the recordings ask and the podcast format decision).
+- **2026-09-15**: Clarified sequencing on the remaining open notes. Note 13 (weekly shooting capacity) and note 15 (posting cadence) aren't cold questions thrown at her, they get worked out with her directly once we know her real schedule, then cadence follows from that. Note 14 (Values Gap Self-Assessment questions) is ours to write, not something to wait on her for. Notes 17 and 18 are one continuous ask: get her recordings, then build the media library and speaker reel from what she sends. Rewrote the "Open Items / Active Work" section above to reflect current status instead of the original point-by-point list, most of which is now resolved. Confirmed the note 8 framing stands as written, still needs her literal yes/no before final. Noted for later, not now: the LinkedIn bio rewrite is a deferred action-phase task, not part of active point resolution.
