@@ -83,7 +83,7 @@ About 80 percent of what she posts stays on the topic above, values actually sho
 
 - Everyday moments with her team, shown rather than explained.
 - Her community events and fundraisers, shared casually, without turning them into a lesson.
-- Her fitness training, including training for a long-distance bike ride.
+- Her real personal interests, fitness (including training for a long-distance bike ride), art, coffee, reading, and orchids, brought in occasionally so she reads as a real person, not just an expert.
 - Personal accomplishments unrelated to business, like a recent certification she earned in color analysis.
 
 ### How It Gets Filmed

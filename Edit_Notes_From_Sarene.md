@@ -23,7 +23,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 ## Personal Content (20%)
 
 10. **Resolved (2026-09-15).** Removed the family/marriage category entirely from all three markdown sources. The 20% personal split is now four categories instead of five, updated every place that referenced "five personal categories" (production-ready detail note, Month 2 plan) to say "four."
-11. **Pending.** Add real personal-interest topics: fitness, art, coffee, reading, orchids, etc.
+11. **Resolved (2026-09-15).** Broadened the "Fitness" category into "Fitness and Personal Interests" across all three markdown sources, now includes art, coffee, reading, and orchids alongside the existing bike-ride training.
 
 ## Platforms
 

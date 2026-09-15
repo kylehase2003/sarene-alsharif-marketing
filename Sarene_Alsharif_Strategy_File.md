@@ -185,9 +185,9 @@ Shown, not told, a specific action with the value implied, never stated outright
 
 The same real events as the 80 percent version, but light and un-argued, just her present, no lesson attached.
 
-#### 3. Fitness
+#### 3. Fitness and Personal Interests
 
-Century bike ride training, confirmed from her own posts, a real, ongoing personal thread.
+Real, ongoing threads beyond the business: century bike ride training, confirmed from her own posts, plus other genuine interests, art, coffee, reading, and orchids, brought in occasionally to round her out as a person.
 
 #### 4. Personal Achievements
 

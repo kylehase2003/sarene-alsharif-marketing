@@ -164,7 +164,7 @@ What she does now, on stages and in workshops, is take that same interrogation t
 **20%, personal, four categories (family/marriage category removed per her explicit note, "No family content," 2026-09-15):**
 1. **Workshop/team moments.** Show, don't tell, a specific action with the value implied, never stated outright.
 2. **Fundraisers and community involvement.** Same events as the 80% version, but light and un-argued, just her present, no lesson attached.
-3. **Fitness.** Century bike ride training, confirmed from her own posts.
+3. **Fitness and personal interests.** Century bike ride training, confirmed from her own posts, plus other genuine interests she named directly, art, coffee, reading, and orchids (per her edit note 11), brought in occasionally to round her out as a person.
 4. **Personal achievements.** Things earned or accomplished on a personal level with no business angle required, e.g., her Color Analysis certification. Doesn't need to justify itself to the target buyer, that's what makes it 20%, not 80%.
 
 **Power Look, resolved:** it does not become a second keynote topic. The underlying principle (presentation affects confidence affects performance) earns a place in the 80% via type 9, run occasionally, not prominently. Specific personal credentials or skills tied to individual styling (like the Color Analysis certification) stay in the 20% only, since they speak to an individual consumer, not the organizational buyer this whole strategy targets.
