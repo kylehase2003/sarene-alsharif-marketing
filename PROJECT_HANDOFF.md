@@ -37,6 +37,7 @@ As of the latest session, the full strategy has been built and written into two 
 - **`Branding_Methodology_Reference.md`**: the branding framework/toolkit (Brand Journey Framework, Brand Story Framework, 80/20 rule, etc.) used to build the actual strategy.
 - **`Sereen_Master_Reference.md`**: the full internal working document. Every confirmed fact, every resolved decision, the complete reasoning trail. This is the most detailed and most current source of truth for the strategy itself.
 - **`Sarene Alsharif's Strategy File.docx`**: full-detail, client-facing strategy document, plain black text, no jargon stripped out (full depth).
+- **`Sarene_Alsharif_Strategy_File.md`**: the markdown source of truth for the file above. Edit this one, not the DOCX directly, then regenerate the DOCX from it.
 - **`Sarene Alsharif - Client Presentation.docx`**: condensed, plain-language version of the same strategy, every section summarized simply, no strategy jargon. This is the version used to brief Sarene directly.
 - **`Sarene_Alsharif_Client_Presentation.md`**: the markdown source of truth for the file above. Edit this one, not the DOCX directly, then regenerate the DOCX from it. See "Working With Multiple People" below.
 - **`Edit_Notes_From_Sarene.md`**: her handwritten edit notes from reviewing the presentation, transcribed and logged point by point. **This is the active punch list right now.**
@@ -77,3 +78,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-15**: Added `CLAUDE.md` so Claude Code automatically reads this handoff file at the start of every session in this repo.
 - **2026-09-15**: Resolved edit note 1 (origin story reframed as a response to fast fashion, Maen/Syria detail kept specific rather than generalized). Updated in `Sarene Alsharif's Strategy File.docx`, `Sarene Alsharif - Client Presentation.docx`, and `Sereen_Master_Reference.md`. Working through the remaining 17 pending points one at a time, see `Edit_Notes_From_Sarene.md` for live status.
 - **2026-09-15**: Created `Sarene_Alsharif_Client_Presentation.md` as the markdown source of truth for the Client Presentation DOCX, and added a "Working With Multiple People" section here covering the git workflow for two people editing this repo.
+- **2026-09-15**: Created `Sarene_Alsharif_Strategy_File.md` as the markdown source of truth for the full-detail Strategy File DOCX, with the edit note 1 fix already applied. Both DOCX outputs now have a proper mergeable markdown source.
