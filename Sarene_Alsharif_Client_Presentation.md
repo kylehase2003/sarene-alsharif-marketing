@@ -51,9 +51,9 @@ She also built the nation's first Department of Labor-registered apprenticeship 
 
 She sells two things, a keynote speech and a hands-on workshop. She is not offering ongoing consulting or advice over time. Her job is to teach and inspire during the talk or workshop, then leave the company with tools they can keep using on their own afterward.
 
-**Keynote**, a speech making the business case for real values, $7,000. Title still needs to be written.
+**Keynote**, a speech making the business case for real values, $7,000.
 
-**Workshop**, a hands-on session where a team works through where their own values do and don't show up in practice, $5,000. Title still needs to be written.
+**Workshop**, a hands-on session where a team works through where their own values do and don't show up in practice, $5,000.
 
 **Both together**, $10,000.
 
