@@ -65,3 +65,5 @@ After any meaningful change (a decision gets made, a file gets created or restru
 ## Changelog
 
 - **2026-09-15**: Created this handoff file ahead of pushing the project to GitHub for multi-person collaboration. Logged Sarene's 19 handwritten edit points from her review of the strategy presentation into `Edit_Notes_From_Sarene.md`.
+- **2026-09-15**: Added `CLAUDE.md` so Claude Code automatically reads this handoff file at the start of every session in this repo.
+- **2026-09-15**: Resolved edit note 1 (origin story reframed as a response to fast fashion, Maen/Syria detail kept specific rather than generalized). Updated in `Sarene Alsharif's Strategy File.docx`, `Sarene Alsharif - Client Presentation.docx`, and `Sereen_Master_Reference.md`. Working through the remaining 17 pending points one at a time, see `Edit_Notes_From_Sarene.md` for live status.
