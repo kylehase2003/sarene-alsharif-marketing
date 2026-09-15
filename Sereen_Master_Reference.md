@@ -81,7 +81,7 @@ Full detail lives in `Sereen_Brand_Audit_Brief.md`. Summary:
 2. **Three separate engines:** booking (background outreach to organizers, currently unstaffed, flagged as a real gap, now higher priority since bookings are the direct revenue engine), presence content (ongoing, principle-first, independent of any single event), event promotion (activates only once a booking is confirmed, full promotional push reserved for buyer-aligned bookings).
 3. **Power Look** does not become a second keynote topic. The underlying principle (presentation affects confidence affects performance) has a place in the 80% content plan as its own low-frequency, supporting content type, not a pillar. Individual styling credentials (like the Color Analysis certification) stay in the 20%, personal-only.
 4. **Content leads with principle, not company.** Her real Tad More experience is the constant evidence base behind nearly everything she teaches; naming "B Corp" specifically is an occasional, tactical proof-point, not a scheduled mention. Her public health background (MPH/LDN) stays in the mix as another source of insight. Thread tying everything together: intentionality and care applied at different scales (wardrobe, body, team, company).
-5. **Production-ready detail**: the full 80/20 content plan (nine content types, five personal categories) and content formats are built, see Part 4. Actual scripts/sample posts are the next layer, not yet written.
+5. **Production-ready detail**: the full 80/20 content plan (nine content types, four personal categories) and content formats are built, see Part 4. Actual scripts/sample posts are the next layer, not yet written.
 6. **Use what's real**: replace placeholder claims with her actual credentials, TEDx talk, certification score, awards, and press, not yet fully compiled into finished materials.
 
 **Open items still unresolved:**
@@ -161,12 +161,11 @@ What she does now, on stages and in workshops, is take that same interrogation t
 8. **Ask Sereen**, direct answers to real questions, self-generating.
 9. **Confidence Shows Up as Performance** *(low-frequency, supporting, not a pillar)*, the business case for personal presentation, comfort and intentional style affecting confidence and leadership presence. This is how Power Look integrates, not as a second keynote topic, occasional and supporting only.
 
-**20%, personal, five categories:**
+**20%, personal, four categories (family/marriage category removed per her explicit note, "No family content," 2026-09-15):**
 1. **Workshop/team moments.** Show, don't tell, a specific action with the value implied, never stated outright.
 2. **Fundraisers and community involvement.** Same events as the 80% version, but light and un-argued, just her present, no lesson attached.
 3. **Fitness.** Century bike ride training, confirmed from her own posts.
-4. **Family, scoped to her marriage.** Low-frequency, implied rather than explained, nothing beyond what's confirmed.
-5. **Personal achievements.** Things earned or accomplished on a personal level with no business angle required, e.g., her Color Analysis certification. Doesn't need to justify itself to the target buyer, that's what makes it 20%, not 80%.
+4. **Personal achievements.** Things earned or accomplished on a personal level with no business angle required, e.g., her Color Analysis certification. Doesn't need to justify itself to the target buyer, that's what makes it 20%, not 80%.
 
 **Power Look, resolved:** it does not become a second keynote topic. The underlying principle (presentation affects confidence affects performance) earns a place in the 80% via type 9, run occasionally, not prominently. Specific personal credentials or skills tied to individual styling (like the Color Analysis certification) stay in the 20% only, since they speak to an individual consumer, not the organizational buyer this whole strategy targets.
 
@@ -210,7 +209,7 @@ Awareness (LinkedIn/Instagram/Facebook content plus YouTube keynote footage plus
 
 ### 90-Day Execution Plan
 **Month 1, Foundation:** finalize bio, talk titles, one-pager, case study appendix, lead magnet. The NAUMD 2026 Convention already took place May 3 to 5, 2026, her session ran May 4 (confirmed from the event listing she posted herself), so Month 1 confirms whether it was recorded and secures that footage rather than preparing for a future event. Establish LinkedIn and YouTube presence. Confirm Renee's role expands to cover booking outreach, equipped with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
-**Month 2, Launch:** publish across the nine content types and five personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR/leadership conferences and direct corporate contacts begins, NAUMD clips repurposed per the format hierarchy.
+**Month 2, Launch:** publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR/leadership conferences and direct corporate contacts begins, NAUMD clips repurposed per the format hierarchy.
 **Month 3, Momentum:** target securing at least one new booking. Case study appendix included in every outreach. Begin narrowing the buyer further using real response patterns from Month 2 outreach.
 
 ### Open question: Power Look's place

@@ -189,11 +189,7 @@ The same real events as the 80 percent version, but light and un-argued, just he
 
 Century bike ride training, confirmed from her own posts, a real, ongoing personal thread.
 
-#### 4. Family
-
-Scoped to her marriage, low-frequency, implied rather than explained.
-
-#### 5. Personal Achievements
+#### 4. Personal Achievements
 
 Things earned or accomplished on a personal level with no business angle required, such as her Color Analysis certification. Doesn't need to justify itself to the target buyer, that's what makes it 20 percent, not 80 percent.
 
@@ -254,7 +250,7 @@ Finalize the bio, talk titles, one-pager, case study appendix, and lead magnet. 
 
 ### Month 2, Launch
 
-Publish across the nine content types and five personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR and leadership conferences and direct corporate contacts begins. NAUMD clips, if secured, get repurposed per the format hierarchy.
+Publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR and leadership conferences and direct corporate contacts begins. NAUMD clips, if secured, get repurposed per the format hierarchy.
 
 ### Month 3, Momentum
 
