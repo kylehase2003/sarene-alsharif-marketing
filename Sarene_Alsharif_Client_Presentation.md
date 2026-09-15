@@ -79,7 +79,7 @@ About 80 percent of what she posts stays on the topic above, values actually sho
 - **Answering real questions.** Taking real questions from people and answering them directly and honestly.
 - **Confidence and presentation.** A smaller, occasional topic about how looking and feeling put-together affects confidence and leadership, used sparingly, not a main focus.
 
-### The Personal Content, Five Types
+### The Personal Content, Four Types
 
 - Everyday moments with her team, shown rather than explained.
 - Her community events and fundraisers, shared casually, without turning them into a lesson.
@@ -138,6 +138,13 @@ They sign an agreement for the keynote, the workshop, or both.
 ## What Still Needs Her Approval
 
 The two talk titles need her sign-off. Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. It needs to be confirmed whether her recent NAUMD conference talk was recorded, so that footage can be used. And the actual questions for the free quiz still need to be written.
+
+There's also one quick yes or no needed on how we described her leading by example ("she works harder than everyone else, and expects that same standard of herself first"), just to confirm we captured her point correctly.
+
+## What We Need From Her
+
+- **Her existing recordings.** Send us every recording she has of her talks and seminars, at least three or four, not just the NAUMD footage which still needs to be tracked down. This is the actual footage, not just a note that it exists, we need the files to build the media library and cut a speaker reel.
+- **A decision on the podcast format.** Will there ever be a co-host or guests on the show, or does it stay one voice throughout? This changes the format and how episodes get planned, so it needs an answer before production starts.
 
 ## The First 90 Days
 

@@ -6,7 +6,7 @@ Full Strategy, Personal Brand and Speaking Business
 
 This is the complete strategy for Sarene Alsharif's personal brand as a keynote speaker and workshop facilitator. It covers who she is, what she stands for, how that gets proven, the competitive landscape, what she should be known for and what she should avoid, the full content plan, the materials needed to sell and book her, and the practical steps that turn all of it into revenue.
 
-Four items in this file need Sarene's approval before they're finalized and put into use.
+Seven items in this file need Sarene's approval, input, or action before they're finalized and put into use.
 
 ## Items Pending Approval
 
@@ -17,6 +17,12 @@ Four items in this file need Sarene's approval before they're finalized and put 
 **3. NAUMD 2026 footage.** Sarene's session ran May 4, 2026. It needs to be confirmed whether this was recorded, and if so, that footage needs to be secured.
 
 **4. The Values Gap Self-Assessment.** Named and its purpose defined. The actual questions and content still need to be written.
+
+**5. "Leads by example" framing.** Reconstructed from her cut-off note ("I expect the owner to work harder than everyone"), not her literal words. Needs a quick yes or no from her before treated as fully settled.
+
+**6. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four, not just the uncertain NAUMD footage. The media library and speaker reel can't be built until this footage is actually in hand.
+
+**7. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
 
 ## Who She Is
 
