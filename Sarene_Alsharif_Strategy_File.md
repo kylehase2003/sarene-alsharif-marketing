@@ -6,23 +6,19 @@ Full Strategy, Personal Brand and Speaking Business
 
 This is the complete strategy for Sarene Alsharif's personal brand as a keynote speaker and workshop facilitator. It covers who she is, what she stands for, how that gets proven, the competitive landscape, what she should be known for and what she should avoid, the full content plan, the materials needed to sell and book her, and the practical steps that turn all of it into revenue.
 
-Seven items in this file need Sarene's approval, input, or action before they're finalized and put into use.
+Five items in this file need Sarene's approval, input, or action before they're finalized and put into use. Talk titles are intentionally left out of this round, not being pursued for now.
 
 ## Items Pending Approval
 
-**1. Talk titles.** Not yet developed. Earlier candidate titles were pulled before this strategy went to Sarene, they don't serve the positioning. Still need to be written.
+**1. Ownership of booking outreach.** Someone needs to own proactively pitching conference organizers and corporate contacts. Not yet assigned.
 
-**2. Ownership of booking outreach.** Someone needs to own proactively pitching conference organizers and corporate contacts. Not yet assigned.
+**2. The Values Gap Self-Assessment.** Named and its purpose defined. Content creation hasn't started and won't until she approves the overall strategy.
 
-**3. NAUMD 2026 footage.** Sarene's session ran May 4, 2026. It needs to be confirmed whether this was recorded, and if so, that footage needs to be secured.
+**3. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four. Her NAUMD 2026 session was not recorded, per her direct instruction, no footage exists from that event. The media library and speaker reel can't be built until this footage is actually in hand.
 
-**4. The Values Gap Self-Assessment.** Named and its purpose defined. The actual questions and content still need to be written.
+**4. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
 
-**5. Existing talk/seminar recordings, direct ask.** She needs to send every recording she has of her talks and seminars, at least three, possibly four, not just the uncertain NAUMD footage. The media library and speaker reel can't be built until this footage is actually in hand.
-
-**6. Podcast co-host/guest decision.** Whether the show ever brings on a co-host or guests. Not a default, it changes the format and the kind of connection built with the audience per episode. Needs a real decision before production planning goes further.
-
-**7. Weekly shoot day.** She needs to block one to three hours, once a week, depending on her pace, to record four to eight on-camera videos in a single sitting. This is what makes the daily posting plan possible.
+**5. Weekly shoot day.** She needs to block one to three hours, once a week, depending on her pace, to record four to eight on-camera videos in a single sitting. This is what makes the daily posting plan possible.
 
 ## Who She Is
 
@@ -52,7 +48,7 @@ Two functions. First, tailor training: the nation's first Department of Labor-re
 
 TEDx, 2023, "How to Save the World with a Pair of Jeans" (TEDxDrewUniversity). The talk's key statistic: if every American bought one less pair of jeans, it would be the equivalent of keeping 2.4 million cars off the road for a year.
 
-NAUMD 2026 Convention (National Association of Uniform Manufacturers and Distributors), Boston, May 3 to 5, 2026. Her session, "From Wear to Aware: How Alterations, Mending, and Smart Uniform Strategies Drive Profit and Sustainability," ran May 4.
+NAUMD 2026 Convention (National Association of Uniform Manufacturers and Distributors), Boston, May 3 to 5, 2026. Her session, "From Wear to Aware: How Alterations, Mending, and Smart Uniform Strategies Drive Profit and Sustainability," ran May 4. Not recorded, per her direct instruction, no footage exists from this session.
 
 Her offer: keynote speaking is the primary offering, with an optional workshop. There is no ongoing consulting product. In her own words: "My primary offering is keynote speaking. I am not looking to provide ongoing consulting. My role is to inspire, challenge, educate, and give organizations practical tools they can continue using after I leave." Three fixed offerings: Keynote ($7,000), Workshop ($5,000), Keynote plus Workshop ($10,000). Her audience: companies, conferences, leadership teams, and professional organizations.
 
@@ -233,15 +229,11 @@ Three candidate series:
 3. The platform: TEDx speaker, "How to Save the World with a Pair of Jeans."
 4. The credential: MPH, LDN.
 
-## Talk Titles
-
-Not yet developed. The earlier candidate titles were pulled before the strategy went to Sarene, they don't serve the positioning. Real titles still need to be written.
-
 ## Speaker Kit
 
 ### One-Pager
 
-Name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score of 115 against a 50.9 median, the Department of Labor-certified apprenticeship program, 35,000-plus orders, the two named awards, press list), and contact information.
+Name, the two offerings with one-line descriptions, the three pricing tiers, five proof points (B Corp score of 115 against a 50.9 median, the Department of Labor-certified apprenticeship program, 35,000-plus orders, the two named awards, press list), and contact information.
 
 ### Case Study Appendix
 
@@ -267,11 +259,11 @@ One page, the B Corp certification journey specifically: the catalyst, the decis
 
 ### Month 1, Foundation
 
-Finalize the bio, talk titles, one-pager, case study appendix, and lead magnet. The NAUMD 2026 Convention already took place, confirm whether the session was recorded and secure that footage rather than preparing for a future event. Establish LinkedIn and YouTube presence. Confirm who owns booking outreach and equip them with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
+Finalize the bio, one-pager, case study appendix, and lead magnet. Establish LinkedIn and YouTube presence. Confirm who owns booking outreach and equip them with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
 
 ### Month 2, Launch
 
-Publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR and leadership conferences and direct corporate contacts begins. NAUMD clips, if secured, get repurposed per the format hierarchy.
+Publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR and leadership conferences and direct corporate contacts begins.
 
 ### Month 3, Momentum
 

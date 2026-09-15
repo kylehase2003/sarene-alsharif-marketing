@@ -28,7 +28,7 @@ A consolidated record of every confirmed fact, resolved decision, and open quest
 ### Speaking
 - **TEDx**, 2023: *"How to Save the World with a Pair of Jeans"* (TEDxDrewUniversity). States a goal of eventually helping bring a TEDx event to Rockford itself. Talk's key stat: if every American bought one less pair of jeans, it would be the equivalent of keeping 2.4 million cars off the road for a year.
 - **Not for public use (per her edit note, 2026-09-15):** the fact that she applied to 150 TEDx events, got 10 interviews, was offered 4 talks, and accepted 1, crediting Renee McGinley for the applications, is kept here only as internal background. She explicitly does not want this story told publicly. Do not use it in any client-facing material or content.
-- **NAUMD 2026 Convention** (National Association of Uniform Manufacturers & Distributors), Boston, May 3–5, 2026. Her session: *"From Wear to Aware: How Alterations, Mending, and Smart Uniform Strategies Drive Profit and Sustainability,"* Monday May 4, 11:10 AM–12:00 PM EDT. Framed around reducing replacement costs, improving employee comfort, and supporting ESG goals for organizations with uniform programs.
+- **NAUMD 2026 Convention** (National Association of Uniform Manufacturers & Distributors), Boston, May 3–5, 2026. Her session: *"From Wear to Aware: How Alterations, Mending, and Smart Uniform Strategies Drive Profit and Sustainability,"* Monday May 4, 11:10 AM–12:00 PM EDT. Framed around reducing replacement costs, improving employee comfort, and supporting ESG goals for organizations with uniform programs. **Not recorded, per her direct instruction, no footage exists from this session.**
 - Separate personal-brand site, **sarenealsharif.com**, positioned around **"The Power Look: Upgrade Your Style, Boost Your Income"**: style/confidence/income keynotes plus **The Power Look Workshop**, a corporate team-training product on first impressions and leadership presence.
 
 ### Speaking offer (confirmed directly, in her own words, resolves earlier confusion)
@@ -204,11 +204,8 @@ This resolves both open questions (13 and 15) as an internal team decision, not 
 3. The platform: TEDx speaker, "How to Save the World with a Pair of Jeans"
 4. The credential: MPH, LDN
 
-### Talk Titles
-Not yet developed. The earlier candidate titles were pulled before the strategy went to Sarene, they don't serve the positioning. Real titles still need to be written.
-
 ### Speaker Kit
-**One-pager:** name, the two talk titles with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 35,000+ orders, the two named awards, press list), contact.
+**One-pager:** name, the two offerings with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 35,000+ orders, the two named awards, press list), contact.
 **Case study appendix:** one page, the B Corp certification journey specifically, Catalyst, the decision to certify despite the cost, what the audit actually required, the score, the result. The Brand Story condensed into proof format.
 
 ### Lead Magnet
@@ -218,8 +215,8 @@ Not yet developed. The earlier candidate titles were pulled before the strategy 
 Awareness (LinkedIn/Instagram/Facebook content plus YouTube keynote footage plus press) → Interest (downloads the Values Gap Self-Assessment, or discovers her through a past booking) → Consideration (receives the one-pager and case study appendix, watches YouTube footage) → Decision (the self-assessment's CTA or a direct inquiry, booking availability check) → Conversion (signed booking agreement, one of the three fixed offerings).
 
 ### 90-Day Execution Plan
-**Month 1, Foundation:** finalize bio, talk titles, one-pager, case study appendix, lead magnet. The NAUMD 2026 Convention already took place May 3 to 5, 2026, her session ran May 4 (confirmed from the event listing she posted herself), so Month 1 confirms whether it was recorded and secures that footage rather than preparing for a future event. Establish LinkedIn and YouTube presence. Confirm Renee's role expands to cover booking outreach, equipped with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
-**Month 2, Launch:** publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR/leadership conferences and direct corporate contacts begins, NAUMD clips repurposed per the format hierarchy.
+**Month 1, Foundation:** finalize bio, one-pager, case study appendix, lead magnet. Establish LinkedIn and YouTube presence. Confirm Renee's role expands to cover booking outreach, equipped with the speaker kit. Begin actual content shooting and production using the finalized content types, not waiting until Month 2.
+**Month 2, Launch:** publish across the nine content types and four personal categories, LinkedIn-led, YouTube for full footage. Active outreach to HR/leadership conferences and direct corporate contacts begins.
 **Month 3, Momentum:** target securing at least one new booking. Case study appendix included in every outreach. Begin narrowing the buyer further using real response patterns from Month 2 outreach.
 
 ### Open question: Power Look's place

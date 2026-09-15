@@ -113,7 +113,7 @@ In order: what she does now (a speaker and workshop leader on why good values ma
 
 ## Materials Needed to Book Her
 
-A one-page summary with her bio, her two talk titles, her pricing, and her key proof points, sent to anyone considering booking her. A second one-page document telling the specific story of her B Corp certification, what it took, what it cost, and what it proved, used to back up any pitch or proposal.
+A one-page summary with her bio, her pricing, and her key proof points, sent to anyone considering booking her. A second one-page document telling the specific story of her B Corp certification, what it took, what it cost, and what it proved, used to back up any pitch or proposal.
 
 ## The Free Tool That Brings People In
 
@@ -141,17 +141,17 @@ They sign an agreement for the keynote, the workshop, or both.
 
 ## What Still Needs Her Approval
 
-The two talk titles still need to be written, the earlier candidates were pulled before this went to her. Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. It needs to be confirmed whether her recent NAUMD conference talk was recorded, so that footage can be used. And the actual questions for the free quiz still need to be written.
+Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. The actual questions for the free quiz haven't been started, that needs her approval on the overall strategy first.
 
 ## What We Need From Her
 
-- **Her existing recordings.** Send us every recording she has of her talks and seminars, at least three or four, not just the NAUMD footage which still needs to be tracked down. This is the actual footage, not just a note that it exists, we need the files to build the media library and cut a speaker reel.
+- **Her existing recordings.** Send us every recording she has of her talks and seminars, at least three or four. This is the actual footage, not just a note that it exists, we need the files to build the media library and cut a speaker reel.
 - **A decision on the podcast format.** Will there ever be a co-host or guests on the show, or does it stay one voice throughout? This changes the format and how episodes get planned, so it needs an answer before production starts.
 - **One shoot day a week.** She needs to block one to three hours, once a week, to record four to eight videos in a single sitting. This is what makes daily posting possible.
 
 ## The First 90 Days
 
-**Month 1.** Finish the bio, talk titles, one-page summary, case study, and free quiz. Check on the NAUMD recording. Get her set up properly on LinkedIn and YouTube. Decide who's handling outreach to book her. Start actually filming and posting content.
+**Month 1.** Finish the bio, one-page summary, case study, and free quiz. Get her set up properly on LinkedIn and YouTube. Decide who's handling outreach to book her. Start actually filming and posting content.
 
 **Month 2.** Start posting regularly across all the content types. Begin actively reaching out to HR and leadership conferences and companies directly.
 
