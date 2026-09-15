@@ -110,7 +110,7 @@ Most competitors in leadership/values speaking are theorists. Sereen's gap to ow
 3. Investing in people as strategy, not charity (the apprenticeship program)
 4. The "second chance" philosophy, repair over replace, do a tad more, applied to clothes, people, and community
 5. Rooted in a real community, not a distant, faceless speaker
-6. **Leads by example first** *(added per edit note 8, our reconstruction of her cut-off statement on working harder as the owner, pending her direct confirmation)*: growth and hard work start with her, and she brings that same care to how she shows up for her team every day.
+6. **Leads by example first** *(added per edit note 8, our reconstruction of her cut-off statement on working harder as the owner, confirmed accurate by her directly)*: growth and hard work start with her, and she brings that same care to how she shows up for her team every day.
 
 **What to actively avoid:**
 1. The say-do gap, in any form: greenwashing, a waste-driven business marketed as sustainable, hustle-culture messaging that glamorizes success at the cost of other people or their own stated values, or any claim that can't be backed up with proof. This is the exact contradiction her whole positioning exists to call out, so she can't be caught standing next to it, or guilty of it herself.

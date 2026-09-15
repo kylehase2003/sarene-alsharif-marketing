@@ -143,8 +143,6 @@ They sign an agreement for the keynote, the workshop, or both.
 
 The two talk titles need her sign-off. Someone needs to be assigned to actually reach out to conferences and companies to book her, that's not decided yet. It needs to be confirmed whether her recent NAUMD conference talk was recorded, so that footage can be used. And the actual questions for the free quiz still need to be written.
 
-There's also one quick yes or no needed on how we described her leading by example ("she works harder than everyone else, and expects that same standard of herself first"), just to confirm we captured her point correctly.
-
 ## What We Need From Her
 
 - **Her existing recordings.** Send us every recording she has of her talks and seminars, at least three or four, not just the NAUMD footage which still needs to be tracked down. This is the actual footage, not just a note that it exists, we need the files to build the media library and cut a speaker reel.
