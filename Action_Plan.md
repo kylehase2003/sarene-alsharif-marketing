@@ -115,6 +115,16 @@ Ready to shoot now unless noted otherwise.
 
 **Month 3:** target securing at least one new booking. Include the case study appendix in every outreach. Narrow the buyer definition using real response patterns from Month 2.
 
+## 12. Draft Scripts, For Her Review Tonight
+
+Three unscripted talking-head prompts (Section 4's weekly shoot day format), built using the hook-formula logic from `External-Skills/instagram-skills/skills/ig-hook-extractor/` and `ig-caption-writer/`, written against the Voice Reference in `Internal-Strategy/Sereen_Master_Reference.md`. Every fact below is already confirmed in the Master Reference, nothing here is invented. Each is written as a prompt she answers on camera, not a word-for-word script to read.
+
+- [ ] **1. "The Weatherproof Uniforms."** Content type 7 (The Business Case). Hook formula IG2, Contrarian Truth: most companies assume replacing something broken is the cheap option. Prompt for her: talk through the Chick-fil-A drive-thru uniform job, repairing their weatherproof uniforms instead of replacing them, and why that math actually works out in a company's favor, not just the planet's.
+- [ ] **2. "Why I Don't Throw Things Away."** Content type 2 (Where the Belief Came From). Hook formula IG4, Mini-Story Confession: roughly ten years living in Syria as a teenager, where something got repaired until there was truly nothing left to do with it. Prompt for her: describe the actual culture shock moving back to the US, the American default of "something's slightly wrong, throw it away, buy new," and connect it directly to why Tad More exists.
+- [ ] **3. "What a Values Gap Actually Costs."** Content type 7 (The Business Case). Hook formula IG1, Number-First: lead with a concrete number before explaining it. Prompt for her: unpack her own line, a company that claims to value its people but loses a third of its staff every year isn't just being hypocritical, it's paying, constantly, to re-hire and re-train what it could have kept. Needs a flag: this specific "a third of its staff" figure is illustrative language already used in her finalized Brand Story, not a confirmed Tad More statistic, so it should be delivered as an illustrative example, not stated as her own company's real number.
+
+**Gap surfaced, not filled in:** none of the three scripts above use a company for Proof Over Promise (content type 1), since that type is still blocked on a real, verified list of companies from her network (see Section 5, item 1). If tonight's batch needs a fourth script in that lane, that's the one piece we can't generate ourselves, it has to come from her directly.
+
 ---
 
 *Update this file's checkboxes as work actually gets done. If the underlying strategy changes, fix `Sereen_Master_Reference.md` and the two client-facing files first, then bring this file in line with them.*
