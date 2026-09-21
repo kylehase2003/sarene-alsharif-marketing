@@ -181,6 +181,19 @@ What she does now, on stages and in workshops, is take that same interrogation t
 - **Ask Sereen.** Real questions, answered directly and unscripted. Its own type and format at once.
 - **Voiceover Content, held for later.** Narrating over real b-roll only, no still images, reserved for more motivational material once the core formats are running consistently.
 
+### Voice Reference (how she actually talks, not what to say)
+
+Pulled directly from her TEDx delivery, "How to Save the World with a Pair of Jeans." The talk itself is fashion and sustainability specific, that subject doesn't carry over, she's more than a fashion brand owner and the current keynote lane is values-based business, not fashion. What does carry over is the delivery style, and every piece of content in this plan should sound like her, not a generic sustainability-speaker voice. Confirmed as a reliable source: the talk's headline stat, keeping one less pair of jeans off the shelf per American equaling 2.4 million cars off the road for a year, matches what's already logged in this document.
+
+**Traits to write toward:**
+- Serious data delivered with dry, self-deprecating humor, never flat statistics on their own.
+- Raises big, heavy questions, then explicitly steps back from taking a side on them ("that's debatable"), staying anchored to what's concrete and actionable rather than political.
+- Every statistic lands with a tangible, human-scale comparison, never a bare number on its own.
+- One sustained metaphor carries a whole section of practical advice, instead of a disconnected list of tips.
+- Closes on a single, quotable line that compresses the entire point.
+
+House style still governs the writing itself: no em dashes, ever, regardless of how any source transcript happens to be formatted.
+
 ### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
 Target: daily posting, a minimum of 26 video posts and 4 non-video posts per month, weighted toward reels. Three sources feed that volume:
 1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
