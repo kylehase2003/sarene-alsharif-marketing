@@ -257,7 +257,7 @@ Step 4 (topic selection, the one narrow lane to open with) and Step 5 (the 80/20
 
 ## PART 6, Index of Working Documents
 
-- `Sereen_Strategic_Plan_EN.md`, full English translation of the original Arabic strategic plan.
-- `Sereen_Brand_Audit_Brief.md` (+ `.rtf` / `.docx` exports), the finished audit: what's wrong with the original plan and the corrected approach, six points plus open items.
-- `Branding_Methodology_Reference.md`, the extracted branding toolkit (definitions, Brand Journey Framework, associations, positioning, story, Brand Story Framework, topic selection, 80/20 rule) used to build the actual strategy.
-- `Sereen_Master_Reference.md`, this document.
+- `Archive/Sereen_Strategic_Plan_EN.md`, full English translation of the original Arabic strategic plan.
+- `Archive/Sereen_Brand_Audit_Brief.md` (+ `.docx` export), the finished audit: what's wrong with the original plan and the corrected approach, six points plus open items.
+- `Internal-Strategy/Branding_Methodology_Reference.md`, the extracted branding toolkit (definitions, Brand Journey Framework, associations, positioning, story, Brand Story Framework, topic selection, 80/20 rule) used to build the actual strategy.
+- `Internal-Strategy/Sereen_Master_Reference.md`, this document.

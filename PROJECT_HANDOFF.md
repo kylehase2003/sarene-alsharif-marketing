@@ -31,17 +31,31 @@ As of the latest session, the full strategy has been built and written into two 
 
 ## File Index
 
+The repo is organized into four subfolders plus a root layer of living working files. Root stays flat on purpose, these are the files every session touches:
+
 - **`PROJECT_HANDOFF.md`**: this file. Start here.
-- **`Sereen_Strategic_Plan_EN.md`**: English translation of the original (pre-audit) Arabic strategic plan. Historical reference only, largely superseded.
-- **`Sereen_Brand_Audit_Brief.md`** (+ `.rtf` / `.docx`): the audit of that original plan: what was wrong, what the corrected approach should be.
-- **`Branding_Methodology_Reference.md`**: the branding framework/toolkit (Brand Journey Framework, Brand Story Framework, 80/20 rule, etc.) used to build the actual strategy.
-- **`Sereen_Master_Reference.md`**: the full internal working document. Every confirmed fact, every resolved decision, the complete reasoning trail. This is the most detailed and most current source of truth for the strategy itself.
+- **`CLAUDE.md`**: auto-read instructions pointing Claude Code sessions to this file.
+- **`Edit_Notes_From_Sarene.md`**: her handwritten edit notes from reviewing the presentation, transcribed and logged point by point. **This is the active punch list right now.**
+- **`Action_Plan.md`**: execution task list derived from the finalized strategy, organized by what's blocked on Sarene, what's blocked behind that, and what's actionable now. Tracks work, not decisions, if it contradicts the Master Reference or the two client-facing files, those win.
+
+**`Client-Facing/`**, the two deliverables actually sent to or reviewed by Sarene:
 - **`Sarene Alsharif's Strategy File.docx`**: full-detail, client-facing strategy document, plain black text, no jargon stripped out (full depth).
 - **`Sarene_Alsharif_Strategy_File.md`**: the markdown source of truth for the file above. Edit this one, not the DOCX directly, then regenerate the DOCX from it.
 - **`Sarene Alsharif - Client Presentation.docx`**: condensed, plain-language version of the same strategy, every section summarized simply, no strategy jargon. This is the version used to brief Sarene directly.
 - **`Sarene_Alsharif_Client_Presentation.md`**: the markdown source of truth for the file above. Edit this one, not the DOCX directly, then regenerate the DOCX from it. See "Working With Multiple People" below.
-- **`Edit_Notes_From_Sarene.md`**: her handwritten edit notes from reviewing the presentation, transcribed and logged point by point. **This is the active punch list right now.**
-- **`Action_Plan.md`**: execution task list derived from the finalized strategy, organized by what's blocked on Sarene, what's blocked behind that, and what's actionable now. Tracks work, not decisions, if it contradicts the Master Reference or the two client-facing files, those win.
+
+**`Internal-Strategy/`**, the working reference documents, not shown to Sarene:
+- **`Sereen_Master_Reference.md`**: the full internal working document. Every confirmed fact, every resolved decision, the complete reasoning trail. This is the most detailed and most current source of truth for the strategy itself.
+- **`Branding_Methodology_Reference.md`**: the branding framework/toolkit (Brand Journey Framework, Brand Story Framework, 80/20 rule, etc.) used to build the actual strategy.
+
+**`Source-Materials/`**, raw inputs, not edited, just referenced:
+- **`Doc1 13.pdf`**: the original Arabic strategic plan PDF.
+- **`Sarene Alsharif's Strategy File-2.pdf`**: her annotated review copy, the source for `Edit_Notes_From_Sarene.md`.
+- **`How to Create the Right Content (What to Say, How to Say It).md`**: content-strategy source material referenced early in building the content plan.
+
+**`Archive/`**, superseded, kept for history only, don't build on these:
+- **`Sereen_Strategic_Plan_EN.md`**: English translation of the original (pre-audit) Arabic strategic plan. Historical reference only, largely superseded.
+- **`Sereen_Brand_Audit_Brief.md`** (+ `.docx`): the audit of that original plan: what was wrong, what the corrected approach should be.
 
 ---
 
@@ -100,3 +114,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-15**: Dropped "ownership of booking outreach" as a surfaced pending item too. Removed from Strategy File's "Items Pending Approval" (now 4 items) and from Client Presentation's "What Still Needs Her Approval" and Month 1 task list. Master Reference's internal execution note about Renee's role expanding to cover outreach stays as is, that's a specific internal plan, not the generic "not yet assigned" ask that was being surfaced to her.
 - **2026-09-21**: Created `Action_Plan.md`, an execution task list pulled from the finalized strategy, organized by what's blocked on Sarene, what's blocked behind that, and what's actionable now. Tracks work, not decisions, kept in sync with the Master Reference and the two client-facing files rather than duplicating their reasoning.
 - **2026-09-21**: Added a "Voice Reference" section to the Master Reference, pulled from her actual TEDx delivery. The talk's fashion/sustainability subject matter doesn't carry over to the current values-based-business keynote lane, but the delivery style does: dry self-deprecating humor with serious data, stepping back from political stances, statistics always paired with a human-scale comparison, one sustained metaphor carrying a section of advice, a single quotable closing line. Meant to guide how all future content actually gets written.
+- **2026-09-21**: Reorganized the repo into subfolders. `Client-Facing/` (the two deliverables sent to or reviewed by Sarene), `Internal-Strategy/` (Master Reference, Branding Methodology), `Source-Materials/` (raw PDFs and content-strategy source), `Archive/` (superseded documents). Root stays flat with just the living working files: this handoff, `CLAUDE.md`, `Edit_Notes_From_Sarene.md`, `Action_Plan.md`. Used `git mv` to preserve history. Updated every cross-reference in this file, `Action_Plan.md`, and the Master Reference's own document index to the new paths.

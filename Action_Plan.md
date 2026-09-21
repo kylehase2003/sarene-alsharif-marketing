@@ -1,6 +1,6 @@
 # Action Plan
 
-Execution tasks pulled from the finalized strategy in `Sereen_Master_Reference.md` and `Sarene_Alsharif_Strategy_File.md`. This file tracks work, not decisions. If something here contradicts those two files, they win, fix this file to match, not the other way around.
+Execution tasks pulled from the finalized strategy in `Internal-Strategy/Sereen_Master_Reference.md` and `Client-Facing/Sarene_Alsharif_Strategy_File.md`. This file tracks work, not decisions. If something here contradicts those two files, they win, fix this file to match, not the other way around.
 
 Sections are ordered so status is visible at a glance: what's blocked on Sarene, what's blocked behind that, then what's actually actionable now.
 
