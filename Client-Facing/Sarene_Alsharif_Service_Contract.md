@@ -202,32 +202,19 @@ The affected Party must notify the other in writing within **5 business days** o
 
 ---
 
-## 15 LIABILITY
-
-The Agency is not liable for:
-
-- Results, sales, or revenue outcomes, marketing results depend on many variables outside the Agency's control
-- Platform algorithm changes or policy updates
-- Delays or quality issues caused by the Client's failure to provide footage, approvals, or direction on time
-- Any third-party costs including but not limited to paid advertising spend, platform fees, or production costs approved under Section 4
-
-The Agency's total liability under this agreement shall not exceed the total fees paid in the three months preceding the claim.
-
----
-
-## 16 COMMUNICATION
+## 15 COMMUNICATION
 
 The Parties agree to maintain regular communication through WhatsApp. The Agency will provide a monthly performance report no later than the 5th day of the following month. Response time from the Agency during business hours: within **24 hours**.
 
 ---
 
-## 17 GOVERNING LAW
+## 16 GOVERNING LAW
 
 This agreement is governed by the laws of the **Republic of Turkey**. Any disputes arising from this agreement shall be resolved in the courts of **Istanbul, Turkey**.
 
 ---
 
-## 18 ENTIRE AGREEMENT
+## 17 ENTIRE AGREEMENT
 
 This document constitutes the entire agreement between the Parties and supersedes all prior discussions, proposals, or representations. Any changes to this agreement must be made in writing and signed by both Parties.
 
