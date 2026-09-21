@@ -183,14 +183,20 @@ What she does now, on stages and in workshops, is take that same interrogation t
 
 ### Voice Reference (how she actually talks, not what to say)
 
-Pulled directly from her TEDx delivery, "How to Save the World with a Pair of Jeans." The talk itself is fashion and sustainability specific, that subject doesn't carry over, she's more than a fashion brand owner and the current keynote lane is values-based business, not fashion. What does carry over is the delivery style, and every piece of content in this plan should sound like her, not a generic sustainability-speaker voice. Confirmed as a reliable source: the talk's headline stat, keeping one less pair of jeans off the shelf per American equaling 2.4 million cars off the road for a year, matches what's already logged in this document.
+Pulled from two real talks she's given: her TEDx delivery, "How to Save the World with a Pair of Jeans," and a live talk at Restyle the Runway, a Women's Space community fundraiser. Both are fashion and sustainability specific, that subject doesn't carry over, she's more than a fashion brand owner and the current keynote lane is values-based business, not fashion. What carries over from both is the delivery style, and every piece of content in this plan should sound like her, not a generic sustainability-speaker voice.
 
-**Traits to write toward:**
-- Serious data delivered with dry, self-deprecating humor, never flat statistics on their own.
+**Traits to write toward, confirmed across both talks:**
+- Serious data delivered with dry, self-deprecating humor on a TEDx-style stage; warmer, more hosting and instructional in a community-talk setting. The humor level flexes with the room, the underlying habits below don't.
+- Every statistic lands with a tangible, human-scale comparison, never a bare number on its own (7,500 liters of water per pair of jeans framed as seven years of a person's drinking water; a jeans-and-t-shirt outfit framed as 12 years of drinking water).
+- Every claim gets a named, credible source attached, the UN, the EPA, the NIH, never a vague "studies show." Worth treating as a hard rule for scripts, not just a style note.
+- She holds herself to the same standard she's asking of the audience. Before challenging a room to shop their own closet, she opens her own closet and points to something she's worn twice. She demonstrates the point on herself before asking anyone else to try it.
+- She generalizes a principle across an unrelated part of her own life to make it land bigger than clothes (a completely unrelated story, replacing plastic kitchen containers gradually during her MPH years, used to illustrate the same "gradual change" principle she's applying to a closet).
+- In Q&A or when pushed, she admits plainly when something is outside what she knows, rather than faking authority ("I've heard of the organization, but I'm not familiar with their specific practices").
 - Raises big, heavy questions, then explicitly steps back from taking a side on them ("that's debatable"), staying anchored to what's concrete and actionable rather than political.
-- Every statistic lands with a tangible, human-scale comparison, never a bare number on its own.
 - One sustained metaphor carries a whole section of practical advice, instead of a disconnected list of tips.
-- Closes on a single, quotable line that compresses the entire point.
+- Closes on a single, quotable line, or a short numbered, concrete action list, confirmed as a real structural pattern across both talks, not a one-off.
+
+**New material from the Restyle the Runway talk, her own account, not yet independently verified, same treatment the TEDx material got before it was cross-checked:** the "No-Buy New Year Challenge" her team did in 2023 (a year of not buying new clothes, thrifting only if necessary); "23,000 alterations completed in 2022"; being described as the "#1 website in the US for online alterations." Usable as personal-voice color, not yet settled fact for public claims.
 
 House style still governs the writing itself: no em dashes, ever, regardless of how any source transcript happens to be formatted.
 
