@@ -80,17 +80,7 @@ The Onboarding Period is included within the first paid month and does not exten
 
 ## 04 PRODUCTION COSTS
 
-Production costs, including but not limited to professional equipment and location or travel costs for filming, are not included in the monthly retainer. These costs vary by content type and scale.
-
-The Parties agree to one of the following production models, selected at signing:
-
-**OPTION A · PER-SHOOT APPROVAL**
-The Agency provides a cost estimate for each production. Work begins only upon written approval from the Client.
-
-**OPTION B · MONTHLY PRODUCTION BUDGET**
-A fixed monthly production budget is agreed upon at the start of each month. The Agency operates within that budget.
-
-**Selected model:** ☐ Option A   ☐ Option B
+Production costs, including but not limited to professional equipment and location or travel costs for filming, are the Client's responsibility and are not included in the monthly retainer. The Client handles these costs directly.
 
 ---
 
