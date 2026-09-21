@@ -90,11 +90,13 @@ Production costs, including but not limited to professional equipment and locati
 
 MONTHLY RETAINER **$2,000 USD**
 
-Payment is made by bank transfer to the Agency's company account, via IBAN or SWIFT code, at the start of each month before work begins.
+Payment is made by bank transfer to the Agency's company account at the start of each month before work begins, using the account details below.
 
 IBAN: _________________________
 
 SWIFT/BIC: _________________________
+
+Company Number: _________________________
 
 If payment is not received within 10 business days of the due date, the Client must provide written cause for the delay via WhatsApp. Failure to provide written cause within that period constitutes grounds for immediate termination under Section 7.3.
 
