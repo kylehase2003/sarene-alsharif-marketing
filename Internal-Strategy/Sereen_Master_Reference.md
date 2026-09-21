@@ -201,7 +201,7 @@ Pulled from two real talks she's given: her TEDx delivery, "How to Save the Worl
 House style still governs the writing itself: no em dashes, ever, regardless of how any source transcript happens to be formatted.
 
 ### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
-Target: daily posting, 26 to 34 video posts and 4 non-video posts per month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number, three sources feed that volume:
+Target: daily posting, 20 to 30 video posts and 4 non-video posts per month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number, three sources feed that volume:
 1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
 2. **Keynote and conference footage.** Whenever a stage appearance gets secured and recorded, the strongest content available.
 3. **A weekly shoot day.** Her one committed block of on-camera time, once a week, one to three hours depending on her pace, producing four to eight raw videos in that session. Some scripted, some an unscripted two-to-four-minute answer to a prompt. Editors chop each raw video into multiple finished pieces. This weekly session alone (roughly 17 to 34 raw videos a month) is what backs up daily posting if podcast clips and keynote footage fall short.

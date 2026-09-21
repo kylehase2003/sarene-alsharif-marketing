@@ -37,7 +37,7 @@ This is the mechanism behind the posting cadence, once Note 20 is confirmed:
 - [ ] Lock in the weekly shoot day.
 - [ ] Each session produces four to eight raw videos, some scripted, some unscripted two to four minute answers to a prompt.
 - [ ] Editor cuts each raw video into multiple finished pieces.
-- [ ] Track monthly output against the target range: 26 to 34 video posts plus 4 non-video posts, exact count depends on footage actually available that month.
+- [ ] Track monthly output against the target range: 20 to 30 video posts plus 4 non-video posts, exact count depends on footage actually available that month.
 - [ ] Track LinkedIn separately: daily posting targeted, minimum 5 posts a week guaranteed regardless of overall output.
 - [ ] Once the podcast is in production: four episodes a month, each cut into multiple shorter pieces for the other platforms.
 - [ ] Whenever keynote or conference footage gets secured, cut from that first, it's the strongest trust-builder in the plan.

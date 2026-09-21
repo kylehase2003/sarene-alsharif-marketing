@@ -201,7 +201,7 @@ Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. 
 
 ### Posting Cadence and Shooting Schedule
 
-Target: daily posting, 26 to 34 video posts and 4 non-video posts each month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number. Three sources feed that volume:
+Target: daily posting, 20 to 30 video posts and 4 non-video posts each month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number. Three sources feed that volume:
 
 1. **Podcast clips**, four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
 2. **Keynote and conference footage**, whenever a stage appearance is secured and recorded, the strongest content available.

@@ -92,7 +92,7 @@ Whenever real footage exists of her actually speaking on a stage, that gets used
 
 ### How Often She'll Post and Shoot
 
-The goal is posting every day, somewhere between 26 and 34 videos plus 4 non-video posts a month, mostly short video. The exact number depends on how much footage actually comes together that month, not a fixed target. Three things feed that: her podcast clips (four episodes a month), any real footage from her talks and keynotes, and one shoot day a week where she sits down for one to three hours and records four to eight videos in a row, some planned out, some just her talking through an idea for a couple of minutes. Editors cut that footage into everything that gets posted. That weekly session alone, roughly 17 to 34 videos a month, is what makes daily posting possible even if the other two sources come up short.
+The goal is posting every day, somewhere between 20 and 30 videos plus 4 non-video posts a month, mostly short video. The exact number depends on how much footage actually comes together that month, not a fixed target. Three things feed that: her podcast clips (four episodes a month), any real footage from her talks and keynotes, and one shoot day a week where she sits down for one to three hours and records four to eight videos in a row, some planned out, some just her talking through an idea for a couple of minutes. Editors cut that footage into everything that gets posted. That weekly session alone, roughly 17 to 34 videos a month, is what makes daily posting possible even if the other two sources come up short.
 
 On LinkedIn specifically, the goal is also daily, with a guaranteed floor of at least 5 posts a week even in a slower week.
 
