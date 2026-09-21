@@ -33,6 +33,7 @@ The Agency agrees to provide the following services to the Client on a monthly b
 - Copywriting (scripts, captions, blog copy, and series copy)
 - Social media plan
 - Social media management
+- Blog writing (English, optimized for traditional search and AI search engines)
 - Marketing plan and funnel development
 - Full team direction
 - Consultation and refinement
@@ -48,6 +49,7 @@ The Agency commits to delivering the following each month:
 
 - 26 edited videos
 - 4 designed posts
+- 4 blog posts (English)
 - 1 monthly content calendar, delivered before the start of each month
 - 1 monthly social media plan
 - 1 monthly performance report, delivered no later than the 5th of the following month
@@ -172,15 +174,7 @@ Verbal requests do not constitute an agreed scope change. All scope changes must
 
 ---
 
-## 11 EXCLUSIVITY
-
-For the duration of this agreement, the Agency will not take on a direct competitor of Sarene Alsharif operating in the Arabic-speaking tourism market in Istanbul and Turkey.
-
-This exclusivity applies solely to direct competitors in the above-defined market and does not restrict the Agency from working with clients in other industries or sectors.
-
----
-
-## 12 INTELLECTUAL PROPERTY
+## 11 INTELLECTUAL PROPERTY
 
 All content produced by the Agency under this agreement becomes the property of the Client upon receipt of full payment for the month in which it was produced.
 
@@ -190,7 +184,7 @@ The Agency retains the right to use completed work in its portfolio unless the C
 
 ---
 
-## 13 NON-SOLICITATION
+## 12 NON-SOLICITATION
 
 The Client agrees not to directly hire, contract, or engage any individual member of the Agency's team during the term of this agreement and for a period of **12 months** following its termination.
 
@@ -198,7 +192,7 @@ This clause applies regardless of whether the individual approaches the Client d
 
 ---
 
-## 14 CONFIDENTIALITY
+## 13 CONFIDENTIALITY
 
 Both Parties agree to keep confidential all business information, strategies, pricing, client data, and internal communications shared during this engagement.
 
@@ -206,7 +200,7 @@ This obligation remains in effect for **24 months** following termination of the
 
 ---
 
-## 15 FORCE MAJEURE
+## 14 FORCE MAJEURE
 
 Neither Party shall be considered in breach of this agreement if performance is prevented or delayed by circumstances genuinely beyond their reasonable control, including but not limited to acts of war, natural disasters, government restrictions, or platform shutdowns.
 
@@ -214,7 +208,7 @@ The affected Party must notify the other in writing within **5 business days** o
 
 ---
 
-## 16 LIABILITY
+## 15 LIABILITY
 
 The Agency is not liable for:
 
@@ -227,19 +221,19 @@ The Agency's total liability under this agreement shall not exceed the total fee
 
 ---
 
-## 17 COMMUNICATION
+## 16 COMMUNICATION
 
 The Parties agree to maintain regular communication through WhatsApp. The Agency will provide a monthly performance report no later than the 5th day of the following month. Response time from the Agency during business hours: within **24 hours**.
 
 ---
 
-## 18 GOVERNING LAW
+## 17 GOVERNING LAW
 
 This agreement is governed by the laws of the **Republic of Turkey**. Any disputes arising from this agreement shall be resolved in the courts of **Istanbul, Turkey**.
 
 ---
 
-## 19 ENTIRE AGREEMENT
+## 18 ENTIRE AGREEMENT
 
 This document constitutes the entire agreement between the Parties and supersedes all prior discussions, proposals, or representations. Any changes to this agreement must be made in writing and signed by both Parties.
 
