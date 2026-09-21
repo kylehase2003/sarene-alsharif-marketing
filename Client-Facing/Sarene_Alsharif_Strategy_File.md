@@ -201,15 +201,17 @@ Talking-Head Take, straight to camera, one clear point, fits types 6, 7, and 9. 
 
 ### Posting Cadence and Shooting Schedule
 
-Target: daily posting, a minimum of 26 video posts and 4 non-video posts each month, weighted toward reels. Three sources feed that volume:
+Target: daily posting, 26 to 34 video posts and 4 non-video posts each month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number. Three sources feed that volume:
 
 1. **Podcast clips**, four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
 2. **Keynote and conference footage**, whenever a stage appearance is secured and recorded, the strongest content available.
 3. **A weekly shoot day**, her one committed block of on-camera time, once a week, one to three hours depending on her pace, producing four to eight raw videos in that session. Some scripted, some an unscripted two-to-four-minute answer to a prompt. Editors chop each raw video into multiple finished reels. This weekly session alone, roughly 17 to 34 raw videos a month, backs up daily posting if podcast clips and keynote footage fall short.
 
+LinkedIn specifically targets daily posting, with a guaranteed minimum of 5 posts a week, about 20 a month, if daily isn't hit every week.
+
 ### Platforms
 
-Instagram and LinkedIn both serve as co-primary channels, each with a distinct role in the platform strategy. Instagram is the growth engine, built for reach and discovery, bringing new audience in and continuing with the 80/20 mix as built. LinkedIn is where the strategy doubles down: she's already active there and gaining real traction, so it gets the heavier production focus and leads with the 80 percent business-case content. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking.
+Instagram and LinkedIn both serve as co-primary channels, each with a distinct role in the platform strategy. Instagram is the growth engine, built for reach and discovery, bringing new audience in and continuing with the 80/20 mix as built. LinkedIn is where the strategy doubles down: she's already active there and gaining real traction, so it gets the heavier production focus and leads with the 80 percent business-case content, targeting daily posting with a guaranteed floor of 5 posts a week. Facebook serves as secondary distribution for the same content, plus community-facing material given her existing Rockford audience. YouTube becomes home for full, uncut keynote and conference footage specifically, the flagship credibility asset a conference organizer would search for and watch before booking. TikTok is a resharing destination only, existing videos get reposted there, nothing gets separately produced for it.
 
 Podcasts, revised direction, a self-produced, solo-hosted show, not guest appearances on other shows. Released as limited series, five episodes each, rather than an ongoing weekly commitment, matching her limited production capacity. Each episode teaches one specific, actionable lesson, illustrated by a real moment from her own experience, not narrated story for its own sake. Full episodes go on YouTube, clips get cut for LinkedIn, Instagram, and Facebook, the same as conference footage.
 

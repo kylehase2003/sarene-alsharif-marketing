@@ -47,9 +47,11 @@ The Agency commits to delivering the following each month:
 
 **RECURRING MONTHLY**
 
-- 26 edited videos
+- 26 to 34 edited videos. The exact count depends on the footage available that month (weekly shoot day output, podcast clips, and any keynote or conference footage secured), calibrated to maintain daily posting.
 - 4 designed posts
 - 4 blog posts (English)
+- LinkedIn: daily posting targeted, minimum 5 posts a week (about 20 a month) guaranteed.
+- TikTok: resharing of existing video content, not separately produced.
 - 1 monthly content calendar, delivered before the start of each month
 - 1 monthly social media plan
 - 1 monthly performance report, delivered no later than the 5th of the following month
@@ -58,7 +60,7 @@ The Agency commits to delivering the following each month:
 
 - Full marketing funnel
 - Brand guidelines
-- Account setup and optimization (Instagram, LinkedIn, Facebook, YouTube)
+- Account setup and optimization (Instagram, LinkedIn, Facebook, YouTube, TikTok)
 
 One-time deliverables are produced during the Trial Period and are considered complete once approved by the Client in writing. They do not repeat monthly.
 

@@ -195,18 +195,23 @@ Pulled directly from her TEDx delivery, "How to Save the World with a Pair of Je
 House style still governs the writing itself: no em dashes, ever, regardless of how any source transcript happens to be formatted.
 
 ### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
-Target: daily posting, a minimum of 26 video posts and 4 non-video posts per month, weighted toward reels. Three sources feed that volume:
+Target: daily posting, 26 to 34 video posts and 4 non-video posts per month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number, three sources feed that volume:
 1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
 2. **Keynote and conference footage.** Whenever a stage appearance gets secured and recorded, the strongest content available.
 3. **A weekly shoot day.** Her one committed block of on-camera time, once a week, one to three hours depending on her pace, producing four to eight raw videos in that session. Some scripted, some an unscripted two-to-four-minute answer to a prompt. Editors chop each raw video into multiple finished pieces. This weekly session alone (roughly 17 to 34 raw videos a month) is what backs up daily posting if podcast clips and keynote footage fall short.
 
 This resolves both open questions (13 and 15) as an internal team decision, not a cold question thrown at her. The actual ask that goes to her: block one to three hours, once a week, to record four to eight videos in a single sitting.
 
+**Per-platform cadence:**
+- **LinkedIn:** daily posting targeted, minimum 5 posts a week guaranteed (about 20 a month).
+- **TikTok:** resharing of existing video content only, not separately produced or scripted for.
+
 ### Platform Specification
 - **Instagram**: co-primary channel, the growth engine at the center of the platform strategy, built for reach and discovery, the place bringing new audience in.
 - **LinkedIn**: co-primary channel, and the platform the content strategy leans into hardest, since she's already active there and gaining real traction *(confirmed directly, per edit note 12)*. Gets the heavier production focus, leads with the 80% business-case content.
 - **Facebook**: secondary distribution for the same LinkedIn-style content, plus better suited for local/community-facing material given her existing Rockford audience.
 - **YouTube**: home for full, uncut keynote and conference footage specifically, not just clips, the flagship credibility asset a conference organizer would search for and watch before booking. Clips get cut from this footage for the other three platforms.
+- **TikTok**: resharing destination only. Existing videos from the other platforms get reposted here, nothing gets separately produced or scripted for TikTok specifically.
 - **Podcasts, revised direction (edit note 16, updated 2026-09-15)**: a self-produced, solo-hosted show, not guest appearances on other shows (superseding the earlier guest-appearance resolution). Released as limited series, five episodes each, rather than an ongoing weekly commitment, matching her limited production capacity. Each episode teaches one specific, actionable lesson, illustrated by a real moment from her own experience, not narrated story for its own sake. Full episodes go on YouTube, clips get cut for LinkedIn, Instagram, and Facebook, the same as conference footage.
   - Three candidate series: **Workplace Culture** (what a genuinely healthy culture looks like versus a performative one, and how to actually build it), **Becoming a Certified B Corp** (demystifying the actual certification process, not just the badge), **The Business Case for Values** (one business mechanism per episode, breaking down exactly how values pay off).
   - **Open question, not yet resolved:** whether a co-host or recurring guest will ever be added. If so, the narrative direction of each episode changes, and so does the kind of connection built with the audience, a solo teaching show builds one kind of bond (a single, consistent voice), a co-hosted or guest-driven show builds a different one (through dialogue and differing perspectives). Needs a real decision before production planning goes further.

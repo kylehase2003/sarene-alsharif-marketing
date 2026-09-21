@@ -92,11 +92,13 @@ Whenever real footage exists of her actually speaking on a stage, that gets used
 
 ### How Often She'll Post and Shoot
 
-The goal is posting every day, at least 26 videos and 4 non-video posts a month, mostly short video. Three things feed that: her podcast clips (four episodes a month), any real footage from her talks and keynotes, and one shoot day a week where she sits down for one to three hours and records four to eight videos in a row, some planned out, some just her talking through an idea for a couple of minutes. Editors cut that footage into everything that gets posted. That weekly session alone, roughly 17 to 34 videos a month, is what makes daily posting possible even if the other two sources come up short.
+The goal is posting every day, somewhere between 26 and 34 videos plus 4 non-video posts a month, mostly short video. The exact number depends on how much footage actually comes together that month, not a fixed target. Three things feed that: her podcast clips (four episodes a month), any real footage from her talks and keynotes, and one shoot day a week where she sits down for one to three hours and records four to eight videos in a row, some planned out, some just her talking through an idea for a couple of minutes. Editors cut that footage into everything that gets posted. That weekly session alone, roughly 17 to 34 videos a month, is what makes daily posting possible even if the other two sources come up short.
+
+On LinkedIn specifically, the goal is also daily, with a guaranteed floor of at least 5 posts a week even in a slower week.
 
 ### Where It Gets Posted
 
-Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage.
+Instagram and LinkedIn are both her main platforms, and each plays a different role in the strategy. Instagram is built for growth, bringing in new people who don't know her yet. LinkedIn is where the strategy doubles down, since she's already active there and getting real traction, so it gets extra focus and leads with the business-focused content. Facebook is a secondary place to share the same content. YouTube becomes the home for her full, uncut speaking footage. TikTok is just a resharing spot, existing videos get reposted there, nothing gets made specifically for it.
 
 For podcasts, the plan changed, she'll produce her own show instead of being a guest on other people's. It won't run as an ongoing weekly show, it'll come out in short series of five episodes at a time, so it's manageable alongside everything else. Each episode teaches one real, useful lesson, backed up by something that actually happened to her, not just a story for the sake of telling it.
 
