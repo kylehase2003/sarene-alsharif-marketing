@@ -2,7 +2,7 @@ CONFIDENTIAL
 
 # Marketing Services Agreement
 
-**SIX% Marketing**
+**Nova Media**
 "Agency"
 
 &
@@ -222,7 +222,7 @@ This document constitutes the entire agreement between the Parties and supersede
 
 ---
 
-**SIX% MARKETING**
+**NOVA MEDIA**
 
 NAME _________________________
 
