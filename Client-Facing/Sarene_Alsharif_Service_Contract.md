@@ -76,6 +76,8 @@ During this period, the Agency will present prototypes covering content types, d
 
 Any adjustments to the agreed direction will be made during this period. Once prototypes are approved in writing, they serve as the foundation for all work that follows.
 
+If prototypes are approved in writing before the ten business days are up, full production and posting begin immediately, the Onboarding Period does not need to run its full length.
+
 The Onboarding Period is included within the first paid month and does not extend the contract term.
 
 ---

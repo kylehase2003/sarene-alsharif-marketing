@@ -136,3 +136,4 @@ After any meaningful change (a decision gets made, a file gets created or restru
 - **2026-09-21**: Renamed the Agency in the contract from "SIX% Marketing" to "Nova Media," both instances (title block and signature block).
 - **2026-09-21**: Reframed the designed-posts deliverable in the contract, "4 designed posts" is now stated as a floor, not a target, with an explicit note that the real goal is daily posting overall rather than hitting that number in isolation.
 - **2026-09-21**: Reworded Section 05's payment paragraph and added a blank Company Number field, positioned under the IBAN and SWIFT/BIC fields.
+- **2026-09-21**: Added a line to Section 03 (Onboarding Period), if prototypes get approved in writing before the ten business days are up, full production and posting start immediately rather than waiting out the full period.
