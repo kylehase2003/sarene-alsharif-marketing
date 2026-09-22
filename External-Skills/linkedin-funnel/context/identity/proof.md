@@ -4,7 +4,7 @@ status: draft
 owner: unassigned
 created: 2026-09-07
 updated: 2026-09-22
-sources: [raw/sources/2026-09-22-sarene-master-reference]
+sources: [raw/sources/2026-09-22-sarene-master-reference, raw/sources/2026-09-22-web-verification]
 tags: []
 ---
 
@@ -15,7 +15,9 @@ tags: []
 | Claim or metric | Value | Period | Source | Cleared by / date |
 | --- | --- | --- | --- | --- |
 | B Corp Impact Score | 115.0, vs. a 50.9 median for ordinary businesses, more than double | Current, as of certification | Third-party B Lab audit | Master Reference, 2026-09-15 |
-| B Corp certification rank | First in Rockford, IL | As of certification | B Lab | Master Reference |
+| B Corp certification rank | First in Rockford, IL | Certified February 26, 2026 | Independently verified, Rockford News First/WIFR, ceremony attended by the mayor and county chairman | Master Reference, 2026-09-22 |
+| B Corp global rarity | Roughly 6,000 companies worldwide hold this certification | Current | Rockford News First/WIFR | Master Reference, 2026-09-22 |
+| Her own quote on the certification | "For us, becoming a B Corp is about accountability. This certification validates the way we already operate: putting people first, reducing waste, investing in our team, and using our business as a force for good in our community." | February 26, 2026 | Rockford News First/WIFR, direct quote | Master Reference, 2026-09-22 |
 | DOL apprenticeship program | Nation's first Department of Labor-registered apprenticeship in industrial sewing, built with The Workforce Connection | Registered June 5, 2024 | Independently verified via WIFR local news and The Workforce Connection's own site | Master Reference, edit note 7, 2026-09-15 |
 | Apprenticeship training scope | 2,000+ hours hands-on plus 144 hours classroom instruction | Per apprentice | Master Reference | 2026-09-15 |
 | Apprenticeship graduates | First 3 graduated | September 30, 2025 | Master Reference | 2026-09-15 |

@@ -4,7 +4,7 @@ status: draft
 owner: unassigned
 created: 2026-09-07
 updated: 2026-09-22
-sources: [raw/sources/2026-09-22-sarene-master-reference]
+sources: [raw/sources/2026-09-22-sarene-master-reference, raw/sources/2026-09-22-web-verification]
 tags: []
 ---
 
@@ -14,7 +14,12 @@ tags: []
 
 | Reference | What to preserve |
 | --- | --- |
-| None captured yet | She has an active, gaining-traction LinkedIn presence (confirmed live, edit note 12), but no actual LinkedIn posts of hers have been pulled into this project as writing samples. This table is empty on purpose, not filled with inference. Pull real published posts from her profile before treating any invented example as her voice. |
+| "#ThrowbackThursday to these awesome leather chaps that needed some shortening! Is your closet ready for cold season riding?" (LinkedIn, ~2021-2022) | Casual, local-business tone. Short, conversational, hashtag-heavy. Not the values/thought-leadership voice this strategy is building toward, an earlier era of her posting. |
+| "Congratulations to Emily for being our #weddingwednesday feature. We hope your big day was everything you could imagine!" (LinkedIn, ~2021-2022) | Same casual small-business era. Warm, direct, customer-focused, no framework or argument. |
+| Sustainability whitepaper announcement (LinkedIn, 2024): "businesses can boost their sustainability impact through innovative partnerships" | Noticeably more polished and business-forward than the earlier posts. Real evidence her voice was already shifting toward the values/sustainability framing before this project's strategy work began, not something invented for her. |
+| "Leadership starts with knowing your value and delivering it with consistency." (LinkedIn, exact date not captured) | Short, quotable, declarative, close in spirit to the confident tone this project has been pushing scripts toward. |
+
+Only 4 real samples captured so far, and the two casual ones are dated, pre-strategy posts. Still worth pulling more recent posts directly from her profile before treating this table as a complete voice picture.
 
 ## Vocabulary and rhythm
 
@@ -55,4 +60,4 @@ Real corrections made during actual script-writing sessions for this project, wo
 
 ## Source Notes
 
-Sourced from `Internal-Strategy/Sereen_Master_Reference.md`, Voice Reference section, plus real corrections made during script-writing work in this project's conversation history, captured 2026-09-22. See `raw/sources/2026-09-22-sarene-master-reference/manifest.md`. Note the gap: this page is built from spoken delivery and project script-editing history, not her actual written LinkedIn voice, that's a real capture gap worth closing before leaning on this too heavily for written copy.
+Sourced from `Internal-Strategy/Sereen_Master_Reference.md`, Voice Reference section, plus real corrections made during script-writing work in this project's conversation history, captured 2026-09-22. See `raw/sources/2026-09-22-sarene-master-reference/manifest.md`. Four real LinkedIn post excerpts added 2026-09-22 via live web search, see `raw/sources/2026-09-22-web-verification/manifest.md`. Gap mostly closed but not fully: still worth pulling more of her recent posts directly for a fuller written-voice picture.
