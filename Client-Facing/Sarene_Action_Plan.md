@@ -35,6 +35,12 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 - **Personal carousel**: [link](https://docs.google.com/document/d/10hJ-AQOFwooQft-meEgB-gIPM7ZVryBRKwDAHVgtIjI/edit?tab=t.0)
 
+## 7. What We Need From You
+
+- Recordings: your existing talk and seminar recordings, at least 3 to 4. NAUMD excluded, not recorded.
+- Weekly shoot block: 1 to 3 hours, once a week, for on-camera recording. This is what makes the posting plan possible.
+- Podcast format: solo, or with a co-host or guest.
+
 ## Response Needed
 
 Per item: approved, or note what to change. Nothing gets recorded, published, or built until approved.
