@@ -26,6 +26,7 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 - [ ] Finalize the case study appendix: the B Corp certification journey, catalyst, the decision to certify, what the audit required, the score, the result.
 - [ ] Properly establish her LinkedIn presence, this is co-primary now, not secondary.
 - [ ] Establish her YouTube presence, the home for full keynote and podcast footage.
+- [ ] Set up a TikTok account for resharing existing video content, no dedicated production.
 - [ ] Confirm who owns booking outreach. Flagged as a real operational gap, higher priority since bookings are the direct revenue engine.
 - [ ] Begin actual content shooting and production using the finalized content types, do not wait for Month 2.
 
@@ -36,7 +37,8 @@ This is the mechanism behind the posting cadence, once Note 20 is confirmed:
 - [ ] Lock in the weekly shoot day.
 - [ ] Each session produces four to eight raw videos, some scripted, some unscripted two to four minute answers to a prompt.
 - [ ] Editor cuts each raw video into multiple finished pieces.
-- [ ] Track monthly output against the minimum target: 26 video posts plus 4 non-video posts.
+- [ ] Track monthly output against the target range: 20 to 30 video posts plus 4 non-video posts, exact count depends on footage actually available that month.
+- [ ] Track LinkedIn separately: daily posting targeted, minimum 5 posts a week guaranteed regardless of overall output.
 - [ ] Once the podcast is in production: four episodes a month, each cut into multiple shorter pieces for the other platforms.
 - [ ] Whenever keynote or conference footage gets secured, cut from that first, it's the strongest trust-builder in the plan.
 
@@ -80,6 +82,7 @@ Ready to shoot now unless noted otherwise.
 - [ ] Properly establish presence (also listed in Section 3).
 - [ ] Gets the heavier production focus.
 - [ ] Leads with the 80% business-case content.
+- [ ] Daily posting targeted, minimum 5 posts a week guaranteed (about 20 a month), tracked separately from the overall video count.
 
 ### Facebook, secondary
 - [ ] Distributes the same content as LinkedIn.
@@ -89,6 +92,10 @@ Ready to shoot now unless noted otherwise.
 - [ ] Establish presence (also listed in Section 3).
 - [ ] Home for full, uncut keynote and conference footage, and full podcast episodes.
 - [ ] Source for clips distributed to the other three platforms.
+
+### TikTok, resharing only
+- [ ] Set up account (also listed in Section 3, one-time deliverable).
+- [ ] Reshare existing video content from the other platforms. Nothing gets separately produced or scripted for TikTok.
 
 ### Podcast, solo-hosted limited series
 - [ ] Resolve Note 19 before planning goes further (see Section 1).

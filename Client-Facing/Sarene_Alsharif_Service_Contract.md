@@ -2,7 +2,7 @@ CONFIDENTIAL
 
 # Marketing Services Agreement
 
-**SIX% Marketing**
+**Nova Media**
 "Agency"
 
 &
@@ -47,9 +47,11 @@ The Agency commits to delivering the following each month:
 
 **RECURRING MONTHLY**
 
-- 26 edited videos
-- 4 designed posts
+- 20 to 30 edited videos. The exact count depends on the footage available that month (weekly shoot day output, podcast clips, and any keynote or conference footage secured), calibrated to maintain daily posting.
+- A minimum of 4 designed posts a month. This also relies on maintaining a daily uploading schedule, the main goal is daily posting overall, not just hitting this floor as a standalone number.
 - 4 blog posts (English)
+- LinkedIn: daily posting targeted, minimum 5 posts a week (about 20 a month) guaranteed.
+- TikTok: resharing of existing video content, not separately produced.
 - 1 monthly content calendar, delivered before the start of each month
 - 1 monthly social media plan
 - 1 monthly performance report, delivered no later than the 5th of the following month
@@ -58,7 +60,7 @@ The Agency commits to delivering the following each month:
 
 - Full marketing funnel
 - Brand guidelines
-- Account setup and optimization (Instagram, LinkedIn, Facebook, YouTube)
+- Account setup and optimization (Instagram, LinkedIn, Facebook, YouTube, TikTok)
 
 One-time deliverables are produced during the Trial Period and are considered complete once approved by the Client in writing. They do not repeat monthly.
 
@@ -74,6 +76,8 @@ During this period, the Agency will present prototypes covering content types, d
 
 Any adjustments to the agreed direction will be made during this period. Once prototypes are approved in writing, they serve as the foundation for all work that follows.
 
+If prototypes are approved in writing before the ten business days are up, full production and posting begin immediately, the Onboarding Period does not need to run its full length.
+
 The Onboarding Period is included within the first paid month and does not extend the contract term.
 
 ---
@@ -88,11 +92,13 @@ Production costs, including but not limited to professional equipment and locati
 
 MONTHLY RETAINER **$2,000 USD**
 
-Payment is made by bank transfer to the Agency's company account, via IBAN or SWIFT code, at the start of each month before work begins.
+Payment is made by bank transfer to the Agency's company account at the start of each month before work begins, using the account details below.
 
 IBAN: _________________________
 
 SWIFT/BIC: _________________________
+
+Company Number: _________________________
 
 If payment is not received within 10 business days of the due date, the Client must provide written cause for the delay via WhatsApp. Failure to provide written cause within that period constitutes grounds for immediate termination under Section 7.3.
 
@@ -220,7 +226,7 @@ This document constitutes the entire agreement between the Parties and supersede
 
 ---
 
-**SIX% MARKETING**
+**NOVA MEDIA**
 
 NAME _________________________
 
