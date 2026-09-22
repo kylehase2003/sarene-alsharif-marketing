@@ -122,9 +122,9 @@ Ready to shoot now unless noted otherwise.
 
 **Month 3:** target securing at least one new booking. Include the case study appendix in every outreach. Narrow the buyer definition using real response patterns from Month 2.
 
-## 12. Draft Scripts, For Her Review Tonight
+## 12. Test Batch, Part A: Draft Scripts
 
-Three unscripted talking-head prompts (Section 4's weekly shoot day format), built using the hook-formula logic from `External-Skills/instagram-skills/skills/ig-hook-extractor/` and `ig-caption-writer/`, written against the Voice Reference in `Internal-Strategy/Sereen_Master_Reference.md`. Every fact below is already confirmed in the Master Reference, nothing here is invented. Each is written as a prompt she answers on camera, not a word-for-word script to read.
+Part of the test batch described in Section 14, not full-month production. Three unscripted talking-head prompts (Section 4's weekly shoot day format), built using the hook-formula logic from `External-Skills/instagram-skills/skills/ig-hook-extractor/` and `ig-caption-writer/`, written against the Voice Reference in `Internal-Strategy/Sereen_Master_Reference.md`. Every fact below is already confirmed in the Master Reference, nothing here is invented. Each is written as a prompt she answers on camera, not a word-for-word script to read.
 
 - [ ] **1. "The Weatherproof Uniforms."** Content type 7 (The Business Case). Hook formula IG2, Contrarian Truth: most companies assume replacing something broken is the cheap option. Prompt for her: talk through the Chick-fil-A drive-thru uniform job, repairing their weatherproof uniforms instead of replacing them, and why that math actually works out in a company's favor, not just the planet's.
 - [ ] **2. "Why I Don't Throw Things Away."** Content type 2 (Where the Belief Came From). Hook formula IG4, Mini-Story Confession: roughly ten years living in Syria as a teenager, where something got repaired until there was truly nothing left to do with it. Prompt for her: describe the actual culture shock moving back to the US, the American default of "something's slightly wrong, throw it away, buy new," and connect it directly to why Tad More exists.
@@ -132,9 +132,9 @@ Three unscripted talking-head prompts (Section 4's weekly shoot day format), bui
 
 **Gap surfaced, not filled in:** none of the three scripts above use a company for Proof Over Promise (content type 1), since that type is still blocked on a real, verified list of companies from her network (see Section 5, item 1). If tonight's batch needs a fourth script in that lane, that's the one piece we can't generate ourselves, it has to come from her directly.
 
-## 13. Draft LinkedIn Posts, First Week
+## 13. Test Batch, Part B: Draft LinkedIn Posts
 
-Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
+Part of the test batch described in Section 14, not full-month production. Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
 
 - [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified February 26, 2026, score 115 vs. a 50.9 median, her own quote on accountability. Approved.
 
@@ -201,6 +201,16 @@ Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `w
 - [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads.
 
 **Still open:** Saturday and Sunday have no genuinely distinct topic/evidence pair left this week without repeating a pillar too closely, left unfilled rather than fabricated. Ask Sereen (Pillar 4) stays empty until real audience questions exist.
+
+## 14. Test Batch Approval Gate
+
+Sections 12 and 13 together are the test batch: 3 video scripts and 3 LinkedIn posts, a small, representative sample across both formats, not a commitment to a full month yet. The point is to validate direction, voice, and topic/evidence approach on a small set before scaling up.
+
+- [ ] **Get the test batch reviewed and approved.** Who approves it (Sarene directly, or internal review first) is not yet decided, confirm before sending anything out for review.
+- [ ] **If approved:** move to full-month production. That means continuing the same topic-first, evidence-second method (per the corrected `strategy/pillars.md`) across the rest of the month's LinkedIn cadence (Section 8) and the weekly shoot day's video output (Section 4), not pre-writing a month of content now. Content gets drafted week by week as real evidence and shoot-day footage become available, same process as Sections 12 and 13, just repeated.
+- [ ] **If changes are requested:** revise the test batch first, don't scale a method that hasn't been validated yet.
+
+**Why the batch is this small and not larger:** committing to and writing a full month before anyone has confirmed the direction works risks producing a month of content that needs to be redone. A small, approved batch is the actual gate, everything after it should be faster because the pattern is already proven, not because more got written up front.
 
 ---
 
