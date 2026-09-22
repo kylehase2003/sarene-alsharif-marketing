@@ -206,7 +206,7 @@ Part of the test batch described in Section 14, not full-month production. Built
 
 Sections 12 and 13 together are the test batch: 3 video scripts and 3 LinkedIn posts, a small, representative sample across both formats, not a commitment to a full month yet. The point is to validate direction, voice, and topic/evidence approach on a small set before scaling up.
 
-- [ ] **Get the test batch reviewed and approved.** Who approves it (Sarene directly, or internal review first) is not yet decided, confirm before sending anything out for review.
+- [ ] **Get the test batch reviewed and approved by Sarene directly.** Not an internal-only review, she has to sign off before this scales.
 - [ ] **If approved:** move to full-month production. That means continuing the same topic-first, evidence-second method (per the corrected `strategy/pillars.md`) across the rest of the month's LinkedIn cadence (Section 8) and the weekly shoot day's video output (Section 4), not pre-writing a month of content now. Content gets drafted week by week as real evidence and shoot-day footage become available, same process as Sections 12 and 13, just repeated.
 - [ ] **If changes are requested:** revise the test batch first, don't scale a method that hasn't been validated yet.
 
