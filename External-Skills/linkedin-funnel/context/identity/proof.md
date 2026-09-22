@@ -4,7 +4,7 @@ status: draft
 owner: unassigned
 created: 2026-09-07
 updated: 2026-09-22
-sources: [raw/sources/2026-09-22-sarene-master-reference, raw/sources/2026-09-22-web-verification]
+sources: [raw/sources/2026-09-22-sarene-master-reference, raw/sources/2026-09-22-web-verification, raw/sources/2026-09-22-user-supplied-linkedin-posts]
 tags: []
 ---
 
@@ -28,6 +28,8 @@ tags: []
 | Awards | "Most Likely to Save the Planet" (Rockford Chamber of Commerce); "Influential Women in Business 2024, Executive Influencer" (Stateline Chamber) | | Master Reference | |
 | Press coverage | USA Today, Rockford Register Star, HuffPost, an NPR affiliate, SCORE Fox Valley, Chronicle Illinois, local podcasts (e.g., In Crowd 815) | | Master Reference | |
 | Credentials | MPH and LDN (Licensed Dietitian Nutritionist), both from the University of Missouri | | Master Reference | |
+| Customer reviews | 500 five-star reviews | As of her own LinkedIn post celebrating the milestone | Her own LinkedIn post, direct | 2026-09-22 |
+| Power Look speaking engagement | Delivered a real Power Look session at Rock Valley Credit Union. Real audience feedback quoted: "Thank you for saying what is a difficult topic for managers!" | Recent, per her own LinkedIn post | Her own LinkedIn post, direct | 2026-09-22 |
 
 ## Needs verification
 
@@ -45,4 +47,4 @@ tags: []
 
 ## Source Notes
 
-Sourced from `Internal-Strategy/Sereen_Master_Reference.md`, captured 2026-09-22. See `raw/sources/2026-09-22-sarene-master-reference/manifest.md`. This is the authoritative metric table for this project, cross-check any new number against it before using in a script.
+Sourced from `Internal-Strategy/Sereen_Master_Reference.md`, captured 2026-09-22. See `raw/sources/2026-09-22-sarene-master-reference/manifest.md`, plus web verification and user-supplied LinkedIn posts, same date, see the other two manifests in `raw/sources/`. This is the authoritative metric table for this project, cross-check any new number against it before using in a script.
