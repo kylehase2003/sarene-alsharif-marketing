@@ -1,6 +1,6 @@
 # Sarene's Action Plan
 
-Status of each item below, not finished content. Approve or note changes per item.
+Below is where each part of the plan currently stands, not the finished version yet. For each item, let us know if it's approved or if something needs to change.
 
 ## 1. Current Presence
 
