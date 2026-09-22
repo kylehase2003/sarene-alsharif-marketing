@@ -10,7 +10,7 @@ The original template is a 33-skill kit built around a full funnel: create conte
 
 What was kept, and why each piece is there:
 - **`skills/`**, the 29 content-focused skills (full list below). Each skill is one `SKILL.md`, except `flowchart` which also has `references/` and `scripts/`.
-- **`context/`**, the blank "second brain" scaffold every skill reads from (`identity/`, `audience/`, `strategy/`, `voice/`, `brand/`, `inspiration/`, plus `raw/`, `research/`, `output/` for working files). The skills are not functional without this, they resolve paths like `identity/proof.md` and `voice/linkedin-voice.md` relative to it. **It ships blank.** Populating it with Sarene's real information is separate work, not done yet, see below.
+- **`context/`**, the "second brain" scaffold every skill reads from (`identity/`, `audience/`, `strategy/`, `voice/`, `brand/`, `inspiration/`, plus `raw/`, `research/`, `output/` for working files). The skills are not functional without this, they resolve paths like `identity/proof.md` and `voice/linkedin-voice.md` relative to it. **Populated 2026-09-22**, see below.
 - **`AGENTS.md`** and **`CLAUDE.md`** (root of the vendored folder), the operating instructions every skill points to first ("Read AGENTS.md, then the relevant skill").
 - **`.claude/skills`** and **`.agents/skills`**, symlinks to `skills/`, this is the actual discovery mechanism, it's what lets Claude Code and Codex find these as invokable skills.
 - **`scripts/check-template.py`**, a validation helper `AGENTS.md` tells you to run before committing changes to the template files themselves.
@@ -38,10 +38,14 @@ Note: `AGENTS.md` still has a line about reading `guides/oxygen.md` before OXYGE
 - **Section 5, item 1 (Proof Over Promise).** `researcher` can help surface candidate real-world company examples. Per that item's existing constraint, nothing gets named without Sarene confirming it firsthand, that doesn't change.
 - **Section 9 (Sales and Funnel Materials).** `lead-magnet-creator` can help structure the Values Gap Self-Assessment once note 14 clears (strategy approval). `graphics-designer` and `brand-system` can help the one-pager and case study appendix look like something instead of plain text.
 
-## Not yet done
+## Context population (2026-09-22)
 
-The `context/` scaffold is still blank. These skills won't produce anything specific to Sarene until someone runs `setup-workspace` and `capture-context` against her real material (most of it already sits in `Internal-Strategy/Sereen_Master_Reference.md`). That population step is the next real task here, not done as part of this install.
+Ran `setup-workspace` then `capture-context` against `Internal-Strategy/Sereen_Master_Reference.md` as the source. Copied it in full to `context/raw/sources/2026-09-22-sarene-master-reference/` with a manifest recording provenance and public-use boundaries. Populated identity (backstory, mission, vision, life-goals, values, positioning, proof), audience/ideal-follower, strategy (goals, pillars, funnel plus its three sub-pages), and voice (linkedin-voice, formats). Set `workspace.local.json`. `python3 context/scripts/wiki_lint.py` passes clean, 19 context pages.
+
+Left as genuine stubs, no evidence exists yet: `brand/BRAND.md` (no visual identity established), `inspiration/creator-bank.md` (no outside references established). Also honestly thin rather than filled with guesses: her personal (non-business) life goals and vision, the buyer-vs-follower distinction (no real engagement data yet), and `voice/linkedin-voice.md`'s "posts written by the author" table, we don't have any of her actual published LinkedIn posts as writing samples yet, current voice notes are approximated from her spoken TEDx and Restyle the Runway delivery, not written LinkedIn copy.
+
+**Next real gaps to close:** her actual published LinkedIn posts (real written voice samples), her personal vision/life goals, and the B Corp certification journey itself, still not publicly told anywhere, flagged repeatedly across this project.
 
 ## Status
 
-Installed 2026-09-21, content-and-strategy subset only, OXYGEN cluster excluded per direct instruction. Context scaffold still blank. Instagram equivalent to be added the same way, same folder, same scoping question asked first.
+Installed 2026-09-21, content-and-strategy subset only, OXYGEN cluster excluded per direct instruction. Context scaffold populated 2026-09-22 from the Master Reference. Instagram equivalent installed separately, see `Instagram_Skills.md`.

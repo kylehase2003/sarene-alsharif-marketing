@@ -1,0 +1,13 @@
+{
+  "author": "Sarene Alsharif",
+  "company": "Tad More Tailoring and Alterations",
+  "language": "English",
+  "timezone": null,
+  "platforms": ["LinkedIn", "Instagram", "Facebook", "YouTube", "TikTok (resharing only)"],
+  "posting_days": [],
+  "posts_per_week": {
+    "linkedin_minimum": 5,
+    "linkedin_target": "daily",
+    "overall_video_target_monthly": "20 to 30"
+  }
+}
