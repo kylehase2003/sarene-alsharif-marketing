@@ -8,9 +8,7 @@ This document shows how the plan is actually going to unfold, what each piece is
 
 We went through your existing accounts. Since this is a personal brand, we're keeping the human side of it intact, none of your 1,400+ existing posts or your highlights are getting archived or deleted. History like that is part of what makes the account feel real, not a reason to clean house.
 
-The one real change: your bio. It'll be updated to match your current positioning as a keynote speaker and workshop facilitator.
-
-**New bio:** [placeholder, pending]
+The one real change: your bio needs rewriting to match your current positioning as a keynote speaker and workshop facilitator.
 
 ## The Landing Page
 
