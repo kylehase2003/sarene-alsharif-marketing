@@ -200,6 +200,53 @@ Pulled from two real talks she's given: her TEDx delivery, "How to Save the Worl
 
 House style still governs the writing itself: no em dashes, ever, regardless of how any source transcript happens to be formatted.
 
+### Script Writing Methodology (mandatory process before any script ships)
+
+**Start with the actual job of the video.** Before writing a line, answer: what should the viewer understand about her after watching this? The answer can't be generic ("she has values," "values matter"), it has to be a specific point of view she holds. Everything in the script has to support that one point of view.
+
+**Separate the topic from the insight.** Topic: business values. Insight: a value becomes operational when it changes a decision. Someone can make a hundred videos about a topic without ever saying anything distinctive. Force the test: "what I actually believe about this is..." If the answer could appear on a generic LinkedIn post, keep digging.
+
+**Never invent an experience just because the script needs a story.** A personal anecdote has to demonstrate the actual argument, not just make the video feel personal. Test: "does this experience demonstrate the argument, or am I just using it to feel personal?" If it's the second one, cut it. If the script genuinely needs a real story, it has to come from her, never manufactured to sound authentic.
+
+**Tad More is evidence, not the subject.** A brief line like "that became a real question for me when I was building Tad More" establishes she's actually lived the subject, then the script moves straight back to the viewer's own business. The audience isn't being asked to admire Tad More, they're being handed a way to think about their own company. Never let the company become the hero of the piece.
+
+**Every abstract word needs a place where it becomes visible.** Values, culture, purpose, sustainability, leadership, trust, responsibility, none of these mean anything until they're translated into an observable decision (who gets hired, how someone gets trained, what happens when something goes wrong, where money gets spent, what gets refused). "Your values should influence your operations" is corporate fog. Name the actual behavior instead.
+
+**Turn the idea into a test the viewer can use.** Don't stop at stating a belief, compress it into a diagnostic question the viewer can take back to their own work. That's what makes it useful instead of just inspirational.
+
+**Establish the principle before the business case.** Don't jump straight to values leads to retention leads to loyalty leads to competitive advantage, that reads as trying to sell the concept. Prove the idea is true first, explain the mechanism, and let the commercial benefits land as the consequence, not the premise.
+
+**The 7-part structure:**
+1. Hook, a statement that creates real tension around the topic. This is written fresh per script, from the actual insight underneath it, never reused as a template between scripts.
+2. Distinctive thesis, state what she actually believes, immediately.
+3. Practitioner credibility, a brief, non-bragging line establishing she's actually lived this.
+4. Make the abstract concrete, name the real decisions where the idea would show up.
+5. The underlying principle, compressed into one memorable, quotable line.
+6. Why it matters commercially, the consequence, not the pitch.
+7. A diagnostic question, something the viewer can actually use, not a motivational close.
+
+**Rules that prevented the earlier failures:**
+- Don't open with a generic lesson, find her specific belief instead.
+- Don't use a metaphor just because it sounds clever, it has to actually demonstrate the argument.
+- Don't invent her experiences, ever, get the real story from her or leave it as an open question.
+- Don't make Tad More the hero, the viewer's business is the destination.
+- Don't list commercial benefits before the idea is proven true.
+- Don't use abstract language when a specific behavior can be named instead.
+- Don't end on a motivational statement, end on a question, principle, or action.
+
+**Five mandatory questions before any script is considered ready.** If any of these can't be answered, the script isn't ready:
+1. What exactly does she believe?
+2. What makes that belief different from generic business advice?
+3. What real experience or evidence gives her the right to say it?
+4. What can the viewer actually learn or use from it?
+5. What single sentence should the viewer remember afterward?
+
+**Worked example, the finalized version of the first script built this way:**
+
+"One of the best ways to test whether your company's values are actually operating is to look at what you're changing, not what you announced. And that became a very important question for me when I was building Tad More, my tailoring business. If your values aren't changing who you hire, how someone gets trained, what happens when something goes wrong, or where you spend money and what you're willing to say no to, they're not really operating. A value that never changes a decision is really just a preference, and I think companies miss a real business opportunity there. When values actually help determine decisions, people have something to use when the answer isn't obvious. They don't always have to wait for someone at the top. That can affect how people experience the company, whether employees want to stay, whether customers trust what you're promising, and what makes the business different. So instead of asking, 'Do we have values?' You should be asking, 'What decision would we make differently because of them?'"
+
+Note the hook on this specific worked example was still a generic opener in early drafts ("Here's something no one will tell you..."), the fix was cut for this reference version since the hook is rewritten per script anyway, never copied as a template.
+
 ### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
 Target: daily posting, a minimum of 26 video posts and 4 non-video posts per month, weighted toward reels. Three sources feed that volume:
 1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
