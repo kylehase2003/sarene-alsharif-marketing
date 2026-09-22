@@ -23,7 +23,39 @@ Derived from the project's already-finalized 9-type, 80/20 content plan, not a f
 
 ## Topic structure
 
-Not using the default 4-topics-per-pillar/4-subtopics scaffold, the 9 content types (with their own defined angles, already specified in the Master Reference's 80/20 Content Plan) are the actual topic layer. No Notion board is connected yet, this stays as a reference table here rather than a populated Notion tree.
+**Correction, 2026-09-22:** an earlier version of this page said the 9 content types double as the topic layer. That was wrong and caused a real problem: it led directly to a week-posts draft where every day's "topic" was actually an achievement (the B Corp certification, the apprenticeship program, a customer stat), which is not sustainable, achievements are finite, they age, and a content plan built on them eventually runs dry or starts repeating stale news as if it just happened.
+
+**The real structure:** topics and evidence are two separate layers, and they must stay separate.
+- **Topics** (below) are evergreen questions or principles. They don't expire and don't need a new achievement to stay usable. The same topic can be revisited months later from a different angle without feeling repeated.
+- **Evidence** (in `identity/proof.md`) is the finite, factual layer, her real achievements, numbers, and stories. Evidence supports a topic, it never *is* the topic. Per the project's Script Writing Methodology (Master Reference): "Tad More is evidence, not the subject."
+
+Every post picks one topic first, then attaches whichever piece of evidence fits best. The same evidence can support multiple different topics over time; the same topic can be revisited with different evidence. This is what makes weekly planning sustainable instead of a hunt for something new that happened.
+
+**Pillar 1, Proof, Not Promises:**
+1. What does an outside audit actually check for that a mission statement doesn't?
+2. What's the difference between saying you value something and being willing to prove it?
+3. Why is investing in training a business decision, not a charity one?
+4. What decision would your company make differently because of its stated values?
+
+**Pillar 2, Built From Real Experience:**
+1. Why doesn't everyone on a team have to be a natural teacher, or good in the same way?
+2. What's the real cost of building a business around one person's way of doing things?
+3. What does a repair-first culture teach about how a business should be run?
+4. What's the difference between hiring for a role and hiring for a strength?
+
+**Pillar 3, Real Relationships:**
+1. What's the difference between real community investment and a good photo?
+2. Is customer loyalty built by getting it right the first time, or by what happens when you don't?
+3. What does it actually mean to give something a second life instead of a replacement?
+4. How do you tell a real partnership from a marketing collaboration?
+
+**Pillar 4, Direct and Personal:**
+1. Ask Sereen, self-generating from real audience questions, no fixed topic list.
+2. What does personal presentation actually have to do with leadership? (Power Look, kept occasional and low-frequency, not a weekly regular.)
+3. What does showing up in bad conditions actually prove, in fitness or in business?
+4. A personal achievement that doesn't need to prove anything about the business.
+
+No Notion board is connected yet, this stays as a reference table here rather than a populated Notion tree.
 
 ## Funnel fit and weekly mix
 
