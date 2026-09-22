@@ -124,13 +124,55 @@ Ready to shoot now unless noted otherwise.
 
 ## 12. Test Batch, Part A: Draft Scripts
 
-Part of the test batch described in Section 14, not full-month production. Three unscripted talking-head prompts (Section 4's weekly shoot day format), built using the hook-formula logic from `External-Skills/instagram-skills/skills/ig-hook-extractor/` and `ig-caption-writer/`, written against the Voice Reference in `Internal-Strategy/Sereen_Master_Reference.md`. Every fact below is already confirmed in the Master Reference, nothing here is invented. Each is written as a prompt she answers on camera, not a word-for-word script to read.
+Part of the test batch described in Section 14, not full-month production. Four scripts, built using the Script Writing Methodology in `Internal-Strategy/Sereen_Master_Reference.md`, going to Sarene for direct confirmation. All answers and claims are subject to change if they don't align with her.
 
-- [ ] **1. "The Weatherproof Uniforms."** Content type 7 (The Business Case). Hook formula IG2, Contrarian Truth: most companies assume replacing something broken is the cheap option. Prompt for her: talk through the Chick-fil-A drive-thru uniform job, repairing their weatherproof uniforms instead of replacing them, and why that math actually works out in a company's favor, not just the planet's.
-- [ ] **2. "Why I Don't Throw Things Away."** Content type 2 (Where the Belief Came From). Hook formula IG4, Mini-Story Confession: roughly ten years living in Syria as a teenager, where something got repaired until there was truly nothing left to do with it. Prompt for her: describe the actual culture shock moving back to the US, the American default of "something's slightly wrong, throw it away, buy new," and connect it directly to why Tad More exists.
-- [ ] **3. "What a Values Gap Actually Costs."** Content type 7 (The Business Case). Hook formula IG1, Number-First: lead with a concrete number before explaining it. Prompt for her: unpack her own line, a company that claims to value its people but loses a third of its staff every year isn't just being hypocritical, it's paying, constantly, to re-hire and re-train what it could have kept. Needs a flag: this specific "a third of its staff" figure is illustrative language already used in her finalized Brand Story, not a confirmed Tad More statistic, so it should be delivered as an illustrative example, not stated as her own company's real number.
+- [ ] **1. "A Value That Never Changes a Decision."** Content type 6 (The Five Places Values Actually Show Up).
 
-**Gap surfaced, not filled in:** none of the three scripts above use a company for Proof Over Promise (content type 1), since that type is still blocked on a real, verified list of companies from her network (see Section 5, item 1). If tonight's batch needs a fourth script in that lane, that's the one piece we can't generate ourselves, it has to come from her directly.
+  > One of the best ways to test whether your company's values are actually operating is to look at what you're changing, not what you announced. And that became a very important question for me when I was building Tad More, my tailoring business. If your values aren't changing who you hire, how someone gets trained, what happens when something goes wrong, or where you spend money and what you're willing to say no to, they're not really operating. A value that never changes a decision is really just a preference, and I think companies miss a real business opportunity there. When values actually help determine decisions, people have something to use when the answer isn't obvious. They don't always have to wait for someone at the top. That can affect how people experience the company, whether employees want to stay, whether customers trust what you're promising, and what makes the business different. So instead of asking, "Do we have values?" You should be asking, "What decision would we make differently because of them?"
+
+- [ ] **2. "What My B Corp Certification Taught Me."** Content type 1 (Proof Over Promise).
+
+  > As the owner of the first B Corp certified business in Rockford, here's what I learned in 30 seconds. It's not a marketing move. What you preach is what you do. You're not doing it for a badge of honor. You're doing it to change the world. You can't just say you have values. They need to show in the way you hire, spend, lead, and make decisions. You have to be willing to look at the parts of your business you don't want to look at. And sometimes, the hardest part isn't getting certified. It's realizing where you still have work to do. And that's how I was able to score 115, more than double the average business score.
+
+- [ ] **3. "Knowing When You Shouldn't Be the One Deciding."** Ask Sereen / leadership philosophy, no specific pillar tie.
+
+  > I am sharing this so you don't learn this the hard way. I used to think good leadership meant knowing what to do. Now I think it's knowing when you shouldn't be the one deciding. Because there's a difference between leading people and becoming the person everyone waits for. If someone comes to you with a problem and you immediately give them the answer, you've solved the problem. But if you ask them, "What do you think we should do?" you might be building their ability to solve the next one without you. A leader who needs to approve every decision creates dependence. A leader who gives people the context, the responsibility, and the room to make decisions creates ownership. And this doesn't mean you disappear. You still set the direction. You still make the decisions that actually belong to you. You still step in when the stakes are high. But you don't need to be the answer to everything. Because eventually, your job as a leader is not to make yourself indispensable. It's to make your team capable.
+
+- [ ] **4. "Good Leadership or Bad Leadership."** Ask Sereen, rapid-fire Q&A format. Direction note: after each verdict, a quick reasoning aside delivered like an afterthought helps the pacing, e.g. "Bad leadership, that would create animosity between the team."
+
+  > OFF CAMERA: Sarene, good leadership or bad leadership?
+  >
+  > OFF CAMERA: Promoting your highest-performing employee into management.
+  > SARENE: Bad leadership.
+  >
+  > OFF CAMERA: Creating the room for your team to think, then making the decision you originally wanted.
+  > SARENE: Good leadership. But I disagree with doing what I originally wanted if the idea brought a better result.
+  >
+  > OFF CAMERA: Avoiding difficult conversations because you don't want to damage the relationship with your team.
+  > SARENE: Bad leadership.
+  >
+  > OFF CAMERA: Defending your employee in front of a customer, even when your employee was wrong.
+  > SARENE: [Sarene's real answer, left open, not guessed at]
+  >
+  > OFF CAMERA: Telling your team, "I don't know yet."
+  > SARENE: Good leadership.
+  >
+  > OFF CAMERA: Giving someone responsibility before you know they're completely ready for it.
+  > SARENE: Good leadership.
+  >
+  > OFF CAMERA: Managing two employees differently because they need different things from you.
+  > SARENE: Good leadership.
+  >
+  > OFF CAMERA: Letting someone with less seniority make a decision because they're closer to the actual problem.
+  > SARENE: Good leadership.
+  >
+  > OFF CAMERA: Changing your decision because someone on your team convinced you that you were wrong.
+  > SARENE: Good leadership.
+  >
+  > OFF CAMERA: Why?
+  > SARENE: Because leadership isn't about proving that you're the smartest person in the room. It's about creating a team that can think, challenge you, take responsibility, and make good decisions. And sometimes, that means the best decision is not the one you walked into the room with.
+
+**Gap surfaced, not filled in:** none of the four scripts above use a company for Proof Over Promise's original "spotlight a real company" version (content type 1), that type is still blocked on a real, verified list of companies from her network (see Section 5, item 1). Script 2 satisfies Proof Over Promise a different way, through her own company's B Corp audit rather than another company's example.
 
 ## 13. Test Batch, Part B: Draft LinkedIn Posts
 
