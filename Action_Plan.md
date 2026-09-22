@@ -132,6 +132,76 @@ Three unscripted talking-head prompts (Section 4's weekly shoot day format), bui
 
 **Gap surfaced, not filled in:** none of the three scripts above use a company for Proof Over Promise (content type 1), since that type is still blocked on a real, verified list of companies from her network (see Section 5, item 1). If tonight's batch needs a fourth script in that lane, that's the one piece we can't generate ourselves, it has to come from her directly.
 
+## 13. Draft LinkedIn Posts, First Week
+
+Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
+
+- [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified February 26, 2026, score 115 vs. a 50.9 median, her own quote on accountability. Approved.
+
+  ```
+  Most "values" on a company website have never actually been tested.
+
+  Ours have.
+
+  Tad More was certified as a B Corp on February 26, 2026. Not because we said the right things on a mission page, an outside audit checked them. It didn't ask what we believe. It looked at who we hired, how they get trained, what happens when something goes wrong, and where the money actually goes.
+
+  We scored 115. The median for a certified business is 50.9. Roughly 6,000 companies worldwide hold this certification at all.
+
+  As I said when it happened: "For us, becoming a B Corp is about accountability. This certification validates the way we already operate: putting people first, reducing waste, investing in our team, and using our business as a force for good in our community."
+
+  A value that's never been checked is just a claim.
+
+  If an outside audit looked at your company tomorrow, what would it actually find?
+
+  #BCorp #Leadership #Accountability #SustainableBusiness #ValuesBasedLeadership #SmallBusiness #WomenInLeadership
+  ```
+
+- [ ] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Maen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Approved.
+
+  ```
+  Not everyone on a team needs to be good at the same things. Most businesses hire and train like they do anyway.
+
+  My lead tailor, Maen, is one of the most skilled people on our team. He's also not a natural teacher, he works by example, not explanation. So training new hires isn't his job.
+
+  Noor is a gifted teacher. She does it instead. Adriana trains our Spanish-speaking hires, because she can meet them where they actually are.
+
+  None of that was an accident. It was a decision not to force three different strengths into one identical job description.
+
+  Building a team isn't about hiring the same person five times. It's about knowing what each person is actually good at, and building the role around that instead of around a title.
+
+  How many roles in your company are built around a job description instead of the person actually doing it?
+
+  #Leadership #TeamCulture #PeopleDevelopment #SmallBusiness #WomenInLeadership #BuildingTeams
+  ```
+
+- [ ] **Wednesday, Pillar 3 (Real Relationships), middle of funnel.** Topic: what turns a transaction into a lifelong relationship, and the values that have to hold up every time to get there. Evidence: the Texas customer with 75+ orders over three years. Refined twice, once to cut a stat that was pulling focus, once to connect the ending back to the core values thesis instead of leaving it as a standalone loyalty tip. Approved.
+
+  ```
+  When someone orders from you for the 75th time, they've stopped comparing you to anyone else. That's a bigger deal than it sounds.
+
+  The first order is a bet. The second one means the bet paid off. But somewhere between the second and the seventy-fifth, something else happens: the customer stops checking. They stop shopping around "just to see." They stop needing proof.
+
+  That's what loyalty actually is. Not satisfaction, satisfaction is a feeling, it resets every visit. Loyalty is the absence of doubt. It's a decision that stopped needing to be remade.
+
+  Most businesses chase the first sale and call it a win. But the real signal was never the sale. It's whether the customer had to think about it the second time. If they had to think about it, you haven't earned trust yet, you've earned a transaction.
+
+  We have a customer in Texas who's placed more than 75 orders with us over three years. Not because we ran a promotion 75 times. Because somewhere along the way, we stopped being a transaction and became a relationship.
+
+  That doesn't happen by accident. It happens because of what actually shows up every time they order: how a mistake gets handled, whether they're treated the same on order 75 as they were on order one, whether the values you claim to have are the same ones showing up in the experience.
+
+  A transaction ends when the order does. A relationship is only as strong as whether your values held up every time after that.
+
+  So the real question isn't how many five-star reviews you have. It's what you're actually doing, order after order, to turn a transaction into a relationship that lasts.
+
+  #CustomerLoyalty #TrustBuilding #Leadership #BusinessStrategy #SmallBusiness #WomenInLeadership
+  ```
+
+**Not yet drafted, planned:**
+- [ ] **Thursday, Pillar 1, bottom of funnel.** Topic: investing in training is a business decision, not a charity one. Evidence: the DOL apprenticeship program.
+- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads.
+
+**Still open:** Saturday and Sunday have no genuinely distinct topic/evidence pair left this week without repeating a pillar too closely, left unfilled rather than fabricated. Ask Sereen (Pillar 4) stays empty until real audience questions exist.
+
 ---
 
 *Update this file's checkboxes as work actually gets done. If the underlying strategy changes, fix `Sereen_Master_Reference.md` and the two client-facing files first, then bring this file in line with them.*
