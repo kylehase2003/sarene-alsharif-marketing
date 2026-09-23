@@ -46,12 +46,13 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 7. What We Need From You
 
-- Recordings: your existing talk and seminar recordings, at least 3 to 4. NAUMD excluded, not recorded.
-- Weekly shoot block: 1 to 3 hours, once a week, for on-camera recording. This is what makes the posting plan possible.
-- Podcast: format is already solo-hosted. Open question is whether a co-host or recurring guest ever gets added later, not the format itself.
-- Email login: access to manage outreach and communications on your behalf.
-- Social media logins: access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
-- Media library: existing photos and video beyond the talk recordings, for use as supporting content.
+- Recordings: your existing talk and seminar recordings, at least 3 to 4.
+- Weekly shoot day: which day of the week works best for you, for a 1 to 3 hour block? We'll have scripts ready in advance so we can shoot as soon as you're available.
+- Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
+- Business email: a business email we can use to manage outreach and communications on your behalf.
+- Google Drive: a shared Google Drive, this becomes the central place where all strategy files, posts, videos, and media content live.
+- Media library: your existing photos and video beyond the talk recordings, uploaded directly to the Google Drive above.
+- Social media logins: direct access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
 
 ## Response Needed
 
