@@ -48,7 +48,10 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 - Recordings: your existing talk and seminar recordings, at least 3 to 4. NAUMD excluded, not recorded.
 - Weekly shoot block: 1 to 3 hours, once a week, for on-camera recording. This is what makes the posting plan possible.
-- Podcast format: solo, or with a co-host or guest.
+- Podcast: format is already solo-hosted. Open question is whether a co-host or recurring guest ever gets added later, not the format itself.
+- Email login: access to manage outreach and communications on your behalf.
+- Social media logins: access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
+- Media library: existing photos and video beyond the talk recordings, for use as supporting content.
 
 ## Response Needed
 
