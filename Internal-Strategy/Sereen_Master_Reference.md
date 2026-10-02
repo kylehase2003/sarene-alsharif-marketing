@@ -26,6 +26,8 @@ A consolidated record of every confirmed fact, resolved decision, and open quest
 
 **Contact information, confirmed from her existing speaker sheet (found 2026-10-02):** sarene@tmtailor.com, sarenealsharif.com, 815-200-9390.
 
+**New dedicated business email, confirmed directly (2026-10-02):** speak@sarenealsharif.com. She's actively setting it up, pending WordPress verification. This is the new, current business email for outreach going forward, distinct from the old sarene@tmtailor.com found in the speaker sheet above.
+
 **A real testimonial, from her existing speaker sheet:** "Sarene is an amazing speaker, entrepreneur, and driven individual. The ideas she shared were done in a very enthusiastic way, which made the audience inspired to take action on those points she was making." Attributed to Lulije Asani (Project Manager).
 
 **Note on her existing speaker sheet itself:** it is built entirely around her old Power Look positioning (personal style, confidence, income, "Sustainability Expert" headline), not the current values-based-business positioning. Its content (headline, intro, speaking topics) is not reusable as is, it needs a near-complete rewrite to match the finalized strategy. Only the contact info, the testimonial, and potentially the visual template/layout are reusable.
