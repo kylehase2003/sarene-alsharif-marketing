@@ -65,14 +65,14 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 11. What We Need From You
 
-- Recordings: your existing talk and seminar recordings, at least 3 to 4.
+- Recordings: received a batch of material, confirming whether it includes her actually speaking, not just coverage of other speakers at Tad More events, before marking this resolved.
 - Weekly shoot day: still needs a standing day confirmed. Not Wednesday, she moved last week's session to Monday instead. We'll have scripts ready in advance so we can shoot as soon as a regular day is set.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
 - YouTube channel: resolved, she's creating a new channel.
 - Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.
-- Google Drive: a shared Google Drive, this becomes the central place where all strategy files, posts, videos, and media content live.
-- Media library: your existing photos and video beyond the talk recordings, uploaded directly to the Google Drive above.
-- Social media logins: direct access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
+- Google Drive: in progress, set up and already holds a lot of real content.
+- Media library: in progress, received photos, logos, and video, being shared over as time allows.
+- Social media logins: not yet collected.
 
 ## Response Needed
 
