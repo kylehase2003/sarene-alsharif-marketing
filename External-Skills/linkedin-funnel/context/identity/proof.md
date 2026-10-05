@@ -15,9 +15,9 @@ tags: []
 | Claim or metric | Value | Period | Source | Cleared by / date |
 | --- | --- | --- | --- | --- |
 | B Corp Impact Score | 115.0, vs. a 50.9 median for ordinary businesses, more than double | Current, as of certification | Third-party B Lab audit | Master Reference, 2026-09-15 |
-| B Corp certification rank | First in Rockford, IL | Certified January 2026 | Her own direct answer, overrides an earlier unverified February 26 citation (source link was never saved) | Master Reference, 2026-10-05 |
+| B Corp certification rank | First in Rockford, IL | Certified January 16, 2026, celebrated with a public ribbon-cutting ceremony February 26, 2026 | Certification date confirmed directly by her; ceremony date independently verified, WIFR, Mayor Tom McNamara and County Chairman Joe Chiarelli attended | Master Reference, 2026-10-05 |
 | B Corp global rarity | Roughly 6,000 companies worldwide hold this certification | Current | Rockford News First/WIFR | Master Reference, 2026-09-22 |
-| Her own quote on the certification | "For us, becoming a B Corp is about accountability. This certification validates the way we already operate: putting people first, reducing waste, investing in our team, and using our business as a force for good in our community." | January 2026 | Her own direct answer | Master Reference, 2026-10-05 |
+| Her own quote on the certification | "For us, becoming a B Corp is about accountability. This certification validates the way we already operate: putting people first, reducing waste, investing in our team, and using our business as a force for good in our community." | January 16, 2026 | Her own direct answer | Master Reference, 2026-10-05 |
 | DOL apprenticeship program | Nation's first Department of Labor-registered apprenticeship in industrial sewing, built with The Workforce Connection | Registered June 5, 2024 | Independently verified via WIFR local news and The Workforce Connection's own site | Master Reference, edit note 7, 2026-09-15 |
 | Apprenticeship training scope | 2,000+ hours hands-on plus 144 hours classroom instruction | Per apprentice | Master Reference | 2026-09-15 |
 | Apprenticeship graduates | First 3 graduated | September 30, 2025 | Master Reference | 2026-09-15 |

@@ -20,7 +20,7 @@ An outside, independent audit, not self-graded, scored across five dimensions of
 
 ## The Result
 
-Tad More Tailoring and Alterations was certified as the first B Corp in Rockford, Illinois, in January 2026. Scored 115.0 against a median of 50.9 for an ordinary certified business, fewer than 6,000 companies worldwide hold this certification at all. Her own words: she's proud of the score but sees it as a baseline, the goal for the next certification cycle is 125.
+Tad More Tailoring and Alterations was certified as the first B Corp in Rockford, Illinois, on January 16, 2026, celebrated with a public ribbon-cutting ceremony on February 26, where Rockford Mayor Tom McNamara and Winnebago County Chairman Joe Chiarelli both attended. Scored 115.0 against a median of 50.9 for an ordinary certified business, fewer than 6,000 companies worldwide hold this certification at all. Her own words: she's proud of the score but sees it as a baseline, the goal for the next certification cycle is 125.
 
 ## In Her Own Words
 
