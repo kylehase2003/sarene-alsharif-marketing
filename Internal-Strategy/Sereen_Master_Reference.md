@@ -264,6 +264,30 @@ House style still governs the writing itself: no em dashes, ever, regardless of 
 
 Note the hook on this specific worked example was still a generic opener in early drafts ("Here's something no one will tell you..."), the fix was cut for this reference version since the hook is rewritten per script anyway, never copied as a template.
 
+**Two more worked examples, carousel format, approved (2026-10-05):**
+
+*Carousel 1, leadership/delegation, extends the already-approved "make your team capable, not yourself indispensable" script:*
+
+> Slide 1: "Being Able To Do Everything Can Hold Your Business Back. When everything depends on you, your team never gets the chance to become capable without you."
+> Slide 2: "Your Job Isn't To Be The Best At Everything. It's to help the people around you become better at what they do."
+> Slide 3: "People Spend a Lot Of Their Lives At Work. So the time they spend with you should give them more than a paycheck."
+> Slide 4: "Build a Team That Can Grow Without You. Give people responsibility, and give them room to become good at things they couldn't do before."
+> Slide 5: "The Goal Isn't To Be Needed For Everything. It's to build a team that feels stronger because they worked with you."
+
+Why it works: one clear idea carried across all five slides, not a loose collection of separate maxims. Reuses already-confirmed material (the indispensable/capable line, the retention-over-paycheck line) instead of inventing something new, building a recognizable thread across her content. The repeated "X isn't Y, it's Z" structure is fine here specifically because it's a carousel, each slide benefits from a consistent rhythm, the same repetition inside one continuous spoken script would read as mechanical.
+
+*Carousel 2, personal/reflective register, on watching a team grow:*
+
+> Slide 1: "The Moments That Make Everything Worth It. Building something from the ground up can feel heavy before you know what it will become."
+> Slide 2: "Watching Someone Become More Than They Thought They Could Be. There is something deeply rewarding about seeing confidence grow where there was once uncertainty."
+> Slide 3: "Seeing People Carry What You Once Carried Alone. That's when you realize you're not just building a business. You're building a team."
+> Slide 4: "Knowing That Something You Built Has Become Meaningful To Someone Else. Those are the moments that stay with you long after the numbers do."
+> Slide 5: "And Somehow, The Weight Feels Different. Not because the work became easier. Because now, you can see what it was all for."
+
+Why it works: personal/reflective register (same genre as the "things I didn't want to forget" notes carousel), so more universal phrasing is acceptable here than it would be in an 80%-lane business argument, that's a real genre distinction, not an inconsistent standard. Slide 5's reframe ("not because X, because Y") correctly mirrors her real demonstrated reframe pattern. One flagged, not fixed, improvement: never names a real person (Noor fits this theme exactly), naming someone specifically would make it unmistakably hers rather than a reflection anyone could post, optional for this genre, not required.
+
+**A rejected example, for contrast, what generic looks like (2026-10-04):** a carousel built around a puzzle-piece visual concept, slides built on stock phrasing ("people remember how you treat them," "what goes around comes around," "never settle for less"), unclear/ominous framing in one slide ("the world is waiting for you to make mistakes"), and tone-breaking exclamation points not present anywhere in her real demonstrated voice. The visual concept itself was strong, the text underneath it wasn't, a reminder that a good visual idea doesn't rescue generic writing.
+
 ### Posting Cadence and Shooting Schedule (edit notes 13 and 15, resolved 2026-09-15)
 Target: daily posting, 20 to 30 video posts and 4 non-video posts per month, weighted toward reels. The exact count depends on footage actually available that month, not a fixed number, three sources feed that volume:
 1. **Podcast clips.** Four episodes released monthly, each cut into multiple shorter pieces for the other platforms.
