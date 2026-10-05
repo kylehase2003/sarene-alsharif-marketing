@@ -178,14 +178,14 @@ Part of the test batch described in Section 14, not full-month production. Four 
 
 Part of the test batch described in Section 14, not full-month production. Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
 
-- [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified February 26, 2026, score 115 vs. a 50.9 median, her own quote on accountability. Approved.
+- [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified January 2026 (date resolved 2026-10-05, her direct answer overrides the earlier unverified February 26 citation), score 115 vs. a 50.9 median, her own quote on accountability. Approved, but the post text below needs the date corrected, flagged, the live Google Doc sent to Sarene likely still has the old date too.
 
   ```
   Most "values" on a company website have never actually been tested.
 
   Ours have.
 
-  Tad More was certified as a B Corp on February 26, 2026. Not because we said the right things on a mission page, an outside audit checked them. It didn't ask what we believe. It looked at who we hired, how they get trained, what happens when something goes wrong, and where the money actually goes.
+  Tad More was certified as a B Corp in January 2026. Not because we said the right things on a mission page, an outside audit checked them. It didn't ask what we believe. It looked at who we hired, how they get trained, what happens when something goes wrong, and where the money actually goes.
 
   We scored 115. The median for a certified business is 50.9. Roughly 6,000 companies worldwide hold this certification at all.
 
