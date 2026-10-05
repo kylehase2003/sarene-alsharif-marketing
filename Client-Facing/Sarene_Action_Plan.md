@@ -66,9 +66,9 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 ## 11. What We Need From You
 
 - Recordings: your existing talk and seminar recordings, at least 3 to 4.
-- Weekly shoot day: which day of the week works best for you, for a 1 to 3 hour block? We'll have scripts ready in advance so we can shoot as soon as you're available.
+- Weekly shoot day: still needs a standing day confirmed. Not Wednesday, she moved last week's session to Monday instead. We'll have scripts ready in advance so we can shoot as soon as a regular day is set.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
-- YouTube channel: still open, needs to be decided. Start a new channel, or keep your existing one and update it?
+- YouTube channel: resolved, she's creating a new channel.
 - Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.
 - Google Drive: a shared Google Drive, this becomes the central place where all strategy files, posts, videos, and media content live.
 - Media library: your existing photos and video beyond the talk recordings, uploaded directly to the Google Drive above.
