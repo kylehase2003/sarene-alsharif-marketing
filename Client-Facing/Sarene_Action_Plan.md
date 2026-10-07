@@ -66,7 +66,7 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 ## 11. What We Need From You
 
 - Recordings: received a batch of material, confirming whether it includes her actually speaking, not just coverage of other speakers at Tad More events, before marking this resolved.
-- Weekly shoot day: still needs a standing day confirmed. Not Wednesday, she moved last week's session to Monday instead. We'll have scripts ready in advance so we can shoot as soon as a regular day is set.
+- Weekly shoot day: resolved, every Friday. Scripts are ready in advance so we can shoot on schedule starting this week.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
 - YouTube channel: resolved, she's creating a new channel.
 - Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.

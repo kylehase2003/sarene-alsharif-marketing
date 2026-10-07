@@ -10,7 +10,7 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 
 - [ ] **Overall strategy approval.** The gate that unblocks Section 2 below.
 - [ ] **Note 17: get her talk and seminar recordings.** At least 3 to 4 needed. NAUMD is confirmed off the table, not recorded, per her direct instruction.
-- [ ] **Note 20: get her commitment to the weekly shoot day.** One to three hours, once a week, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
+- [x] **Note 20: get her commitment to the weekly shoot day.** Resolved, every Friday. One to three hours, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
 - [ ] **Note 19: decide whether the podcast gets a co-host or recurring guest.** Changes the production plan for the podcast in Section 8.
 
 ## 2. Blocked Until Section 1 Clears
@@ -34,7 +34,7 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 
 This is the mechanism behind the posting cadence, once Note 20 is confirmed:
 
-- [ ] Lock in the weekly shoot day.
+- [x] Lock in the weekly shoot day. Resolved, every Friday.
 - [ ] Each session produces four to eight raw videos, some scripted, some unscripted two to four minute answers to a prompt.
 - [ ] Editor cuts each raw video into multiple finished pieces.
 - [ ] Track monthly output against the target range: 20 to 30 video posts plus 4 non-video posts, exact count depends on footage actually available that month.

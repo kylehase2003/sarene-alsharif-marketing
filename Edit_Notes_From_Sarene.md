@@ -41,7 +41,7 @@ Pulled from her annotated PDF ("Sarene Alsharif's Strategy File-2.pdf"), read pa
 
 17. **Pending, high value, direct ask.** Request from her: send us the media, every recording she has of her talks and seminars, at least 3, possibly 4. Her NAUMD 2026 session was not recorded, per her direct instruction, no footage exists from that event, it's off the list as a possible source. This is the actual ask, not just a fact to note, we need the files themselves to move forward.
 18. **Pending, blocked on 17.** Build a media library from what she sends, then cut a speaker reel from it, a short highlight video for booking purposes. Can't start this until the footage in item 17 is actually in hand.
-20. **New, direct ask.** Block one to three hours, once a week, to shoot four to eight on-camera videos in a single sitting. This is the actual mechanism resolving notes 13 and 15, now a standing weekly commitment we're asking of her, not a one-time thing.
+20. **Resolved (2026-10-07).** Standing weekly shoot day confirmed: every Friday. This is the actual mechanism resolving notes 13 and 15, now a locked weekly commitment, not a one-time thing.
 
 ## Summary Count
 18 points originally transcribed from her 10 annotated pages (the initial "19" count was a miscount, one annotation was double-counted). Items 19 and 20 above are new, added during follow-up discussion, not from her original markup: the co-host/guest question for the podcast, and the weekly shoot-day ask.
