@@ -48,7 +48,7 @@ Ready to shoot now unless noted otherwise.
 
 1. [ ] **Proof Over Promise.** Blocked, needs a running list of real, verified companies from her network first, nothing gets named without her confirming it firsthand.
 2. [ ] **Where the Belief Came From.** Ready: Syria repair-culture contrast, the Tad More origin decision, an early mistake that reshaped her thinking.
-3. [ ] **Built Around People.** Ready: Maen, Noor, and Adriana as the working example.
+3. [ ] **Built Around People.** Ready: Mazen, Noor, and Adriana as the working example.
 4. [ ] **Second Life, Public.** Ready: Restyle the Runway, Green Threads.
 5. [ ] **Second Life, Personal.** Ready: the wedding dress reconstruction stories.
 6. [ ] **The Five Places Values Actually Show Up.** Ready: Environment, People, Community, Customers, How the business is run.
@@ -198,12 +198,12 @@ Part of the test batch described in Section 14, not full-month production. Built
   #BCorp #Leadership #Accountability #SustainableBusiness #ValuesBasedLeadership #SmallBusiness #WomenInLeadership
   ```
 
-- [ ] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Maen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Approved.
+- [ ] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Mazen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Approved.
 
   ```
   Not everyone on a team needs to be good at the same things. Most businesses hire and train like they do anyway.
 
-  My lead tailor, Maen, is one of the most skilled people on our team. He's also not a natural teacher, he works by example, not explanation. So training new hires isn't his job.
+  My lead tailor, Mazen, is one of the most skilled people on our team. He's also not a natural teacher, he works by example, not explanation. So training new hires isn't his job.
 
   Noor is a gifted teacher. She does it instead. Adriana trains our Spanish-speaking hires, because she can meet them where they actually are.
 

@@ -39,7 +39,7 @@ Pull from here whenever you need a post idea. Each one maps to a content type fr
 **Core lane (80%)**
 1. Proof Over Promise — a real company whose values visibly show up in what they do, or something she personally witnessed that impressed her.
 2. Where the Belief Came From — the Syria repair-culture contrast, the decision to start Tad More, an early mistake that reshaped her thinking.
-3. Built Around People — Maen isn't a natural teacher, Noor and Adriana are, training built around that.
+3. Built Around People — Mazen isn't a natural teacher, Noor and Adriana are, training built around that.
 4. Second Life, Public — Restyle the Runway, Green Threads, framed as a real ongoing partnership, not a one-off.
 5. Second Life, Personal — the wedding dress stories, the christening gown, any new customer story.
 6. The Five Places Values Actually Show Up — environment, people, community, customers, how the business is run, doing it right versus hollow.
