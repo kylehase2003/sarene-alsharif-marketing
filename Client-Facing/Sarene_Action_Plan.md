@@ -66,11 +66,11 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 ## 11. What We Need From You
 
 - Recordings: your existing talk and seminar recordings, at least 3 to 4.
-- B Corp story: what actually made you pursue the certification in the first place. We have the outcome and the score, we need this part from you directly to finish the case study.
+- Certification date: quick check, you mentioned January 2026, but local news coverage says February 26, 2026. Which one is right? We want to get this exactly right before it goes anywhere public.
 - Weekly shoot day: which day of the week works best for you, for a 1 to 3 hour block? We'll have scripts ready in advance so we can shoot as soon as you're available.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
 - YouTube channel: still open, needs to be decided. Start a new channel, or keep your existing one and update it?
-- Business email: a business email we can use to manage outreach and communications on your behalf.
+- Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.
 - Google Drive: a shared Google Drive, this becomes the central place where all strategy files, posts, videos, and media content live.
 - Media library: your existing photos and video beyond the talk recordings, uploaded directly to the Google Drive above.
 - Social media logins: direct access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
