@@ -69,7 +69,7 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 - Weekly shoot day: resolved, every Friday. Scripts are ready in advance so we can shoot on schedule starting this week.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
 - YouTube channel: resolved, she's creating a new channel.
-- Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.
+- Business email: resolved, speak@sarenealsharif.com is live and in active use.
 - Google Drive: in progress, set up and already holds a lot of real content.
 - Media library: in progress, received photos, logos, and video, being shared over as time allows.
 - Social media logins: not yet collected.
