@@ -240,7 +240,26 @@ Part of the test batch described in Section 14, not full-month production. Built
 
 **Not yet drafted, planned:**
 - [ ] **Thursday, Pillar 1, bottom of funnel.** Topic: investing in training is a business decision, not a charity one. Evidence: the DOL apprenticeship program.
-- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads. Note: a draft on nearly this exact topic ("A marketing partnership ends when the campaign does") was written using Restyle the Runway as evidence instead, not posted, not saved anywhere permanent. Pick one evidence source and write this once, not twice independently.
+
+- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence settled on Restyle the Runway (not Green Threads), since it was already drafted to this quality. Drafted, needs approval.
+
+  ```
+  A marketing partnership ends when the campaign does.
+
+  Restyle the Runway doesn't.
+
+  It's an annual fundraiser fashion show we do with Women's Space and Rockford University. Models shop under thirty dollars at Goodwill, and we alter the outfits for the runway. We've done it year after year, not once for a photo and then gone.
+
+  That's the actual test of a real partnership versus a marketing collaboration. A collaboration shows up when there's a campaign to promote. A partnership shows up again next year, with no new reason to.
+
+  If you want to know whether a company's community involvement is real, don't look at the announcement. Look at whether they're still there the second time, when there's nothing new to post about it.
+
+  We keep showing up because the relationship was never the campaign.
+
+  #CommunityPartnership #ValuesBasedBusiness #SmallBusinessLeadership #RestyleTheRunway #AuthenticCommunity #WomenInBusiness #Rockford
+  ```
+
+**Retired, not posting:** "Our best tailor isn't our best teacher," a demo draft that used the exact same topic and evidence as the already-posted Tuesday post (Mazen/Noor/Adriana). No genuinely new angle left on that specific evidence without just repeating what's already live, dropped rather than forced.
 
 **Still open:** Saturday and Sunday have no genuinely distinct topic/evidence pair left this week without repeating a pillar too closely, left unfilled rather than fabricated. Ask Sereen (Pillar 4) stays empty until real audience questions exist.
 
