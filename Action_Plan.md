@@ -178,7 +178,7 @@ Part of the test batch described in Section 14, not full-month production. Four 
 
 Part of the test batch described in Section 14, not full-month production. Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
 
-- [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified January 2026 (date resolved 2026-10-05, her direct answer overrides the earlier unverified February 26 citation), score 115 vs. a 50.9 median, her own quote on accountability. Approved, but the post text below needs the date corrected, flagged, the live Google Doc sent to Sarene likely still has the old date too.
+- [x] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified January 2026, score 115 vs. a 50.9 median, her own quote on accountability. Posted live on LinkedIn (confirmed 2026-10-09).
 
   ```
   Most "values" on a company website have never actually been tested.
@@ -198,7 +198,7 @@ Part of the test batch described in Section 14, not full-month production. Built
   #BCorp #Leadership #Accountability #SustainableBusiness #ValuesBasedLeadership #SmallBusiness #WomenInLeadership
   ```
 
-- [ ] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Mazen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Approved.
+- [x] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Mazen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Posted live on LinkedIn (confirmed 2026-10-09). This topic/evidence pair is now used, don't repeat it, a later draft ("Our best tailor isn't our best teacher") covered the same ground and was correctly not posted.
 
   ```
   Not everyone on a team needs to be good at the same things. Most businesses hire and train like they do anyway.
@@ -216,7 +216,7 @@ Part of the test batch described in Section 14, not full-month production. Built
   #Leadership #TeamCulture #PeopleDevelopment #SmallBusiness #WomenInLeadership #BuildingTeams
   ```
 
-- [ ] **Wednesday, Pillar 3 (Real Relationships), middle of funnel.** Topic: what turns a transaction into a lifelong relationship, and the values that have to hold up every time to get there. Evidence: the Texas customer with 75+ orders over three years. Refined twice, once to cut a stat that was pulling focus, once to connect the ending back to the core values thesis instead of leaving it as a standalone loyalty tip. Approved.
+- [x] **Wednesday, Pillar 3 (Real Relationships), middle of funnel.** Topic: what turns a transaction into a lifelong relationship, and the values that have to hold up every time to get there. Evidence: the Texas customer with 75+ orders over three years. Posted live on LinkedIn (confirmed 2026-10-09).
 
   ```
   When someone orders from you for the 75th time, they've stopped comparing you to anyone else. That's a bigger deal than it sounds.
@@ -240,7 +240,7 @@ Part of the test batch described in Section 14, not full-month production. Built
 
 **Not yet drafted, planned:**
 - [ ] **Thursday, Pillar 1, bottom of funnel.** Topic: investing in training is a business decision, not a charity one. Evidence: the DOL apprenticeship program.
-- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads.
+- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads. Note: a draft on nearly this exact topic ("A marketing partnership ends when the campaign does") was written using Restyle the Runway as evidence instead, not posted, not saved anywhere permanent. Pick one evidence source and write this once, not twice independently.
 
 **Still open:** Saturday and Sunday have no genuinely distinct topic/evidence pair left this week without repeating a pillar too closely, left unfilled rather than fabricated. Ask Sereen (Pillar 4) stays empty until real audience questions exist.
 

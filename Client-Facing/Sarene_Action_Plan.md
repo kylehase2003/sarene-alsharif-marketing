@@ -49,8 +49,8 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 9. LinkedIn Posts (3)
 
-- What this is: a draft test batch, to confirm direction before continuing.
-- What we'll build next: if approved, we continue as part of the ongoing monthly LinkedIn plan, scaling from these 3 to the full cadence, daily posting targeted, a minimum of 5 posts a week guaranteed, roughly 20 a month.
+- What this is: the test batch, now live. All three posted.
+- What we'll build next: continuing as part of the ongoing monthly LinkedIn plan, scaling from these 3 to the full cadence, daily posting targeted, a minimum of 5 posts a week guaranteed, roughly 20 a month.
 
 1. **B Corp certification**: [link](https://docs.google.com/document/d/1UT30zTUi5x0Z-Mm8f2-7dFwz3oMpsKCZxSZ17h97ZYY/edit?tab=t.0)
 2. **Team built around individual strengths**: [link](https://docs.google.com/document/d/1UT30zTUi5x0Z-Mm8f2-7dFwz3oMpsKCZxSZ17h97ZYY/edit?tab=t.mgphksbzr8v2)
