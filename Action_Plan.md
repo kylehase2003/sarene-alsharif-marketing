@@ -241,7 +241,7 @@ Part of the test batch described in Section 14, not full-month production. Built
 **Not yet drafted, planned:**
 - [ ] **Thursday, Pillar 1, bottom of funnel.** Topic: investing in training is a business decision, not a charity one. Evidence: the DOL apprenticeship program.
 
-- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence settled on Restyle the Runway (not Green Threads), since it was already drafted to this quality. Drafted, needs approval.
+- [x] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence settled on Restyle the Runway (not Green Threads), since it was already drafted to this quality. Posted live on LinkedIn (confirmed 2026-10-09).
 
   ```
   A marketing partnership ends when the campaign does.
