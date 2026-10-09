@@ -12,6 +12,7 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 - [ ] **Note 17: get her talk and seminar recordings.** At least 3 to 4 needed. NAUMD is confirmed off the table, not recorded, per her direct instruction.
 - [ ] **Note 20: get her commitment to the weekly shoot day.** One to three hours, once a week, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
 - [ ] **Note 19: decide whether the podcast gets a co-host or recurring guest.** Changes the production plan for the podcast in Section 8.
+- [ ] **Note 21: get her own account of what made her pursue B Corp certification.** The catalyst specifically, not the general Tad More origin story. Feeds the Case Study Appendix directly (Section 6), which is otherwise ready to finalize.
 
 ## 2. Blocked Until Section 1 Clears
 

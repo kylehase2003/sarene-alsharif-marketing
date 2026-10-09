@@ -66,6 +66,7 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 ## 11. What We Need From You
 
 - Recordings: your existing talk and seminar recordings, at least 3 to 4.
+- B Corp story: what actually made you pursue the certification in the first place. We have the outcome and the score, we need this part from you directly to finish the case study.
 - Weekly shoot day: which day of the week works best for you, for a 1 to 3 hour block? We'll have scripts ready in advance so we can shoot as soon as you're available.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
 - YouTube channel: still open, needs to be decided. Start a new channel, or keep your existing one and update it?
