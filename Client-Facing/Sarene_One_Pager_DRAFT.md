@@ -38,9 +38,11 @@ Environment → People → Community → Customers → How the Business Is Run
 
 ## Formats
 
-**Keynote** ($7,000) · **Workshop** ($5,000), interactive, participants translate the framework into their own organization's hiring, employee experience, customer relationships, leadership decisions, and community impact · **Keynote + Workshop** ($10,000)
+**Keynote** · **Workshop**, interactive, participants translate the framework into their own organization's hiring, employee experience, customer relationships, leadership decisions, and community impact · **Keynote + Workshop**
 
 **Speaks to:** companies, conferences, leadership teams, and professional organizations.
+
+*[Pricing deliberately left off, it lives on the landing page instead, where someone's further along and ready to see the number. Keeps this document focused on credibility, not a transaction.]*
 
 ---
 
