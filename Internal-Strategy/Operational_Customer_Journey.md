@@ -20,7 +20,7 @@ The funnel stages still matter, Awareness, Interest, Consideration, Decision, Co
 
 **Bio rewrite.** Not done until it follows the confirmed order: what she does now (speaker/facilitator), the proof (B Corp, Tad More), the platform (TEDx), the credential (MPH, LDN). Status: in progress.
 
-**Brand guidelines (one-time contract deliverable).** Not started anywhere yet, not referenced in any file in this repo. This needs an owner and a starting point this month, it's owed under the contract and currently has zero progress.
+**Brand guidelines (one-time contract deliverable).** Partial info received directly from her (2026-10-09): title font Benedict, subheadline font Proxima Nova, a six-color palette. This is from her old brand guidelines though, same risk as the outdated speaker sheet, needs confirmation it still matches the current positioning before it's built into anything. Still needs an owner.
 
 **Account setup and optimization (one-time contract deliverable, per platform):**
 - Instagram: already established, 1,400+ existing posts stay as-is, this platform needs positioning/bio alignment only, not a fresh setup. Role: growth engine, reach and discovery beyond her existing network.
@@ -140,7 +140,7 @@ This section exists so nothing named in either source document goes untracked. E
 - Social media plan: not yet produced for any month.
 - Performance report: not yet produced, no live metrics yet.
 - Full marketing funnel (one-time): in progress, planning layer exists, live mechanism does not.
-- Brand guidelines (one-time): not started.
+- Brand guidelines (one-time): partial, fonts and color palette received from her old guidelines, needs confirmation it's still current before use.
 - Account setup/optimization, 5 platforms (one-time): Instagram done, LinkedIn/YouTube in progress, Facebook and TikTok not addressed.
 
 **From the strategy file:**

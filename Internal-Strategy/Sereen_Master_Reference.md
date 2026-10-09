@@ -320,6 +320,14 @@ This resolves both open questions (13 and 15) as an internal team decision, not 
 **One-pager:** name, the two offerings with one-line descriptions, the three pricing tiers, five proof points (B Corp score 115 vs. 50.9 median, the DOL-certified apprenticeship program, 35,000+ orders, the two named awards, press list), contact.
 **Case study appendix:** one page, the B Corp certification journey specifically, Catalyst, the decision to certify despite the cost, what the audit actually required, the score, the result. The Brand Story condensed into proof format.
 
+### Brand Guidelines (partial, received directly from her, 2026-10-09)
+She has old brand guidelines and sent a few pieces of it, not the full document. Confirmed so far:
+- **Title font:** Benedict
+- **Subheadline font:** Proxima Nova
+- **Color palette:** #000000 (black), #FFFFFF (white), #F9AA21 (amber/orange), #FFD285 (light gold), #007E8F (dark teal), #3AD6DB (bright cyan)
+
+**Open question, worth raising before this gets used anywhere:** this is from her *old* brand guidelines. The old speaker sheet found in her Downloads was entirely built around the previous Power Look positioning and needed a near-total rewrite, same risk could apply here, this palette and these fonts may predate the current values-based-business positioning. Worth confirming directly whether this is still her intended look going forward, or a leftover from the earlier brand, before it gets built into the landing page, one-pager, or any other deliverable. This is also a real, contractually-owed one-time deliverable ("Brand guidelines") that's been sitting at zero progress, this is the first real input toward it.
+
 ### Lead Magnet
 **"The Values Gap Self-Assessment"**, a short, practical tool for a leadership or HR contact to check whether their own stated values actually show up in practice. After completion, a direct call to action: *"if you want a more hands-on look at where the gaps are and how to close them, let's talk about bringing the workshop to your team."* This is the on-ramp from the free tool into the paid workshop conversation, not a new product.
 

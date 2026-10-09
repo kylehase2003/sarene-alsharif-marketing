@@ -9,7 +9,7 @@ Fast-reference version. For the reasoning behind any item here, see `Operational
 **START**
 - One-Pager — in progress, finish it.
 - Bio rewrite — in progress, finish it.
-- Brand guidelines — zero progress, needs an owner today.
+- Brand guidelines — partial info received from her (fonts, color palette), still needs an owner and confirmation it's not outdated from her old positioning.
 - Instagram positioning — bio/link alignment only, account already exists.
 - LinkedIn setup — in progress.
 - YouTube setup — in progress.
