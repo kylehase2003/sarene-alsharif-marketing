@@ -71,11 +71,12 @@ The repo is organized into four subfolders plus a root layer of living working f
 
 ## Open Items / Active Work
 
-Full list with status lives in `Edit_Notes_From_Sarene.md`. Points 1 through 13, 15, and 16 are resolved. What's actually still open, all of it sequenced after Sarene approves the overall strategy, not simultaneous asks:
-- **Note 14**, the Values Gap Self-Assessment questions, ours to write, requires her approval before creation starts, not begun yet.
-- **Note 17/18**, one continuous ask: get her existing talk/seminar recordings from her, then build the media library and cut the speaker reel from what she sends. NAUMD footage is off the table entirely, confirmed not recorded per her direct instruction.
-- **Note 19**, whether the podcast ever adds a co-host or guest, open decision, now surfaced to her in both client-facing docs.
-- **Note 20**, new direct ask: block one to three hours, once a week, to shoot four to eight on-camera videos in a single sitting. This is the mechanism behind notes 13 and 15 (weekly shooting capacity and daily posting cadence), both now resolved as a team decision, minimum 26 video posts and 4 non-video posts a month, fed by podcast clips, keynote footage, and this weekly shoot day.
+Full list with status lives in `Edit_Notes_From_Sarene.md`. Points 1 through 13, 15, 16, and 20 are resolved. What's actually still open:
+- **Note 14**, the Values Gap Self-Assessment questions, ours to write, requires her approval before creation starts. In progress, a separate parallel AI was briefed to draft it, first full draft already reviewed (see 2026-10-07/08 conversation), hosting tool still undecided.
+- **Note 17**, get her existing talk/seminar recordings. Partially addressed: she confirmed (2026-10-08) there are no additional unsent recordings beyond what's already received, but whether the already-received batch actually shows her speaking (versus coverage of other speakers/events) is still unconfirmed. Note 18 (media library, speaker reel) stays blocked behind this.
+- **Note 19**, whether the podcast ever adds a co-host or guest, still open, no answer yet.
+
+**Reminder for next session, per direct instruction (2026-10-09):** the user believes they sent roughly 15 scripts total across this project, but only 8 are accounted for in repo files or this conversation (4 approved test-batch scripts, plus 4 new ones drafted 2026-10-08/09: "Your values become visible when they're expensive," "The best person on your team might never want to become a manager," "What if you're the reason your team can't make decisions?," and the Fibrebond/Eaton piece). The user said they're short on time and asked to be reminded to resend everything later so the full set can be verified and logged properly. Ask about this next session if it hasn't come up already.
 
 Deferred, not active right now: her live LinkedIn bio still uses old Power Look/confidence-coaching language that contradicts the finalized positioning. Real, needs fixing eventually, but that's an action-phase task, not part of the current point-by-point resolution work.
 
