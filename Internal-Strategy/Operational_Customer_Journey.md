@@ -51,6 +51,8 @@ The funnel stages still matter, Awareness, Interest, Consideration, Decision, Co
 
 **Landing page.** Not done until all six parts are live on one page: who she is, her offer and pricing, her proof points, the speaker reel, the Values Gap Assessment, and a direct booking inquiry form that checks date and availability. Status: not started, blocked on the reel and the quiz both existing first.
 
+**Design refinements from reviewing real speaker landing pages (2026-10-12), Codie Sanchez, Myron Golden, Carla Harris:** "who she is" should include a pull-quote from her own thesis, not just paragraph bio, since we only have one third-party testimonial. "Proof points" should render press coverage as an actual logo strip, not a text list. One single dominant CTA (the booking form) throughout the page, not a competing button at the end of every section, that was the clearest mistake across the pages reviewed.
+
 **Speaker reel.** Not done until it's actually cut from confirmed, in-hand recordings of her speaking. Status: blocked on Month 1's recordings question.
 
 **Full marketing funnel (one-time contract deliverable).** This is the deliverable that this entire document exists to satisfy. It is not done until Awareness, Interest, Consideration, and Decision are all live and actually connected to each other, meaning the landing page and quiz are built, not just planned. Status: in progress, this document and the client-facing funnel deck are the planning layer, the live mechanism isn't built yet.
