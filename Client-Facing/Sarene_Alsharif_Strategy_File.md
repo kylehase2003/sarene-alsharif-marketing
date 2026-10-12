@@ -22,7 +22,7 @@ Four items in this file need Sarene's approval, input, or action before they're 
 
 ### The Business: Tad More Tailoring and Alterations
 
-Founder and CEO, based in Rockford, Illinois, founded 2017, as a direct response to fast fashion, an industry widely documented for its environmental damage, from textile waste to water pollution. She and her husband were supporting Syrian refugees at the start of the Syrian Civil War. Through that work they met Maen, a tailor with real, valuable skill and no shop to use it in. Around the same time they researched the fast-fashion industry and identified the real problem: people throw away clothes instead of mending them mainly because they don't have access to a good tailor. That gap is what the business was built to close, and that same idea doesn't stop at clothes. Skilled hands deserve a place to work, wherever they come from.
+Founder and CEO, based in Rockford, Illinois, founded 2017, as a direct response to fast fashion, an industry widely documented for its environmental damage, from textile waste to water pollution. She and her husband were supporting Syrian refugees at the start of the Syrian Civil War. Through that work they met Mazen, a tailor with real, valuable skill and no shop to use it in. Around the same time they researched the fast-fashion industry and identified the real problem: people throw away clothes instead of mending them mainly because they don't have access to a good tailor. That gap is what the business was built to close, and that same idea doesn't stop at clothes. Skilled hands deserve a place to work, wherever they come from.
 
 Business model: mail-in alterations and repairs, ship clothes in, get them altered, shipped back, plus a physical storefront in Rockford. The current site launched April 2020. Two competitors that tried the same mail-in model, Altered and Air Tailor, both went out of business. The physical storefront helps fund and stabilize the business while the online side grows.
 
@@ -32,7 +32,7 @@ Business-to-business clients: Chick-fil-A (repaired weatherproof drive-thru unif
 
 Certified B Corp, first in Rockford, Illinois. B Impact score of 115.0 against a 50.9 median for ordinary businesses.
 
-Team: Maen (lead tailor, not a natural teacher), Noor (four years, a gifted teacher), and Adriana (studied fashion and design in Mexico, Spanish-speaking, trains Spanish-speaking new hires).
+Team: Mazen (lead tailor, not a natural teacher), Noor (four years, a gifted teacher), and Adriana (studied fashion and design in Mexico, Spanish-speaking, trains Spanish-speaking new hires).
 
 Sentimental client work: a groom wearing his father-in-law's altered suit; a bride wearing her mother's 30-year-old wedding dress, altered for the wedding; old wedding dresses reconstructed into a christening gown for a grandchild.
 
@@ -105,7 +105,7 @@ Most competitors in leadership and values speaking are theorists. Her gap to own
 
 ### Catalyst
 
-Her roughly ten years living in Syria as a teenager taught her a specific cultural habit: repairing something until there is truly nothing left to do with it. Moving back to the United States, she describes the contrast directly as a culture shock, the American default is "something's slightly wrong with it, throw it away, buy new." Years later, she and her husband did Syrian refugee support work when the civil war broke out, and through that met Maen, a trained tailor with no shop. Around the same time they identified the real problem in fast fashion: people don't repair clothes mainly because they lack access to a good tailor, not because they don't care.
+Her roughly ten years living in Syria as a teenager taught her a specific cultural habit: repairing something until there is truly nothing left to do with it. Moving back to the United States, she describes the contrast directly as a culture shock, the American default is "something's slightly wrong with it, throw it away, buy new." Years later, she and her husband did Syrian refugee support work when the civil war broke out, and through that met Mazen, a trained tailor with no shop. Around the same time they identified the real problem in fast fashion: people don't repair clothes mainly because they lack access to a good tailor, not because they don't care.
 
 ### Core Truth
 
@@ -149,7 +149,7 @@ Formative personal moments that explain why she believes what she believes. The 
 
 #### 3. Built Around People
 
-Recognizing and building around individual strengths instead of expecting one mold to fit everyone. Maen not being a natural teacher while Noor and Adriana are, and building training around that.
+Recognizing and building around individual strengths instead of expecting one mold to fit everyone. Mazen not being a natural teacher while Noor and Adriana are, and building training around that.
 
 #### 4. Second Life, Public
 

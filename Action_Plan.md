@@ -10,10 +10,10 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 
 - [ ] **Overall strategy approval.** The gate that unblocks Section 2 below.
 - [ ] **Note 17: get her talk and seminar recordings.** At least 3 to 4 needed. NAUMD is confirmed off the table, not recorded, per her direct instruction.
-- [ ] **Note 20: get her commitment to the weekly shoot day.** One to three hours, once a week, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
+- [x] **Note 20: get her commitment to the weekly shoot day.** Resolved, every Friday. One to three hours, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
 - [ ] **Note 19: decide whether the podcast gets a co-host or recurring guest.** Changes the production plan for the podcast in Section 8.
 - [x] **Note 21: get her own account of what made her pursue B Corp certification.** Resolved 2026-10-02, answered directly, filled into `Client-Facing/Sarene_Case_Study_Appendix_DRAFT.md`.
-- [ ] **Note 22: resolve the certification date discrepancy.** She states January 2026, independently verified local news states February 26, 2026. Needs her direct clarification before the Case Study Appendix (Section 6) ships.
+- [x] **Note 22: resolve the certification date discrepancy.** Resolved 2026-10-05, not a discrepancy, two real dates: certification January 16, 2026, public ceremony February 26, 2026. Both carried in the Master Reference and the Case Study Appendix (Section 6).
 
 ## 2. Blocked Until Section 1 Clears
 
@@ -36,7 +36,7 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 
 This is the mechanism behind the posting cadence, once Note 20 is confirmed:
 
-- [ ] Lock in the weekly shoot day.
+- [x] Lock in the weekly shoot day. Resolved, every Friday.
 - [ ] Each session produces four to eight raw videos, some scripted, some unscripted two to four minute answers to a prompt.
 - [ ] Editor cuts each raw video into multiple finished pieces.
 - [ ] Track monthly output against the target range: 20 to 30 video posts plus 4 non-video posts, exact count depends on footage actually available that month.
@@ -50,7 +50,7 @@ Ready to shoot now unless noted otherwise.
 
 1. [ ] **Proof Over Promise.** Blocked, needs a running list of real, verified companies from her network first, nothing gets named without her confirming it firsthand.
 2. [ ] **Where the Belief Came From.** Ready: Syria repair-culture contrast, the Tad More origin decision, an early mistake that reshaped her thinking.
-3. [ ] **Built Around People.** Ready: Maen, Noor, and Adriana as the working example.
+3. [ ] **Built Around People.** Ready: Mazen, Noor, and Adriana as the working example.
 4. [ ] **Second Life, Public.** Ready: Restyle the Runway, Green Threads.
 5. [ ] **Second Life, Personal.** Ready: the wedding dress reconstruction stories.
 6. [ ] **The Five Places Values Actually Show Up.** Ready: Environment, People, Community, Customers, How the business is run.
@@ -180,14 +180,14 @@ Part of the test batch described in Section 14, not full-month production. Four 
 
 Part of the test batch described in Section 14, not full-month production. Built using `External-Skills/linkedin-funnel/skills/linkedin-copywriter/` and `week-posts/`, against the context scaffold populated 2026-09-22 (`External-Skills/linkedin-funnel/context/`). Topic and evidence kept deliberately separate per the corrected `strategy/pillars.md`, every post picks an evergreen topic first, then attaches real, sourced evidence, never the reverse. See `identity/proof.md` for the full evidence table.
 
-- [ ] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified February 26, 2026, score 115 vs. a 50.9 median, her own quote on accountability. Approved.
+- [x] **Monday, Pillar 1 (Proof, Not Promises), top of funnel.** Topic: a value that's never been tested is just a decoration. Evidence: the B Corp audit, certified January 2026, score 115 vs. a 50.9 median, her own quote on accountability. Posted live on LinkedIn (confirmed 2026-10-09).
 
   ```
   Most "values" on a company website have never actually been tested.
 
   Ours have.
 
-  Tad More was certified as a B Corp on February 26, 2026. Not because we said the right things on a mission page, an outside audit checked them. It didn't ask what we believe. It looked at who we hired, how they get trained, what happens when something goes wrong, and where the money actually goes.
+  Tad More was certified as a B Corp in January 2026. Not because we said the right things on a mission page, an outside audit checked them. It didn't ask what we believe. It looked at who we hired, how they get trained, what happens when something goes wrong, and where the money actually goes.
 
   We scored 115. The median for a certified business is 50.9. Roughly 6,000 companies worldwide hold this certification at all.
 
@@ -200,12 +200,12 @@ Part of the test batch described in Section 14, not full-month production. Built
   #BCorp #Leadership #Accountability #SustainableBusiness #ValuesBasedLeadership #SmallBusiness #WomenInLeadership
   ```
 
-- [ ] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Maen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Approved.
+- [x] **Tuesday, Pillar 2 (Built From Real Experience), middle of funnel.** Topic: why doesn't everyone on a team have to be a natural teacher, or good in the same way. Evidence: Mazen (not a natural teacher), Noor (gifted teacher), Adriana (trains Spanish-speaking hires), three strengths, three roles. Posted live on LinkedIn (confirmed 2026-10-09). This topic/evidence pair is now used, don't repeat it, a later draft ("Our best tailor isn't our best teacher") covered the same ground and was correctly not posted.
 
   ```
   Not everyone on a team needs to be good at the same things. Most businesses hire and train like they do anyway.
 
-  My lead tailor, Maen, is one of the most skilled people on our team. He's also not a natural teacher, he works by example, not explanation. So training new hires isn't his job.
+  My lead tailor, Mazen, is one of the most skilled people on our team. He's also not a natural teacher, he works by example, not explanation. So training new hires isn't his job.
 
   Noor is a gifted teacher. She does it instead. Adriana trains our Spanish-speaking hires, because she can meet them where they actually are.
 
@@ -218,7 +218,7 @@ Part of the test batch described in Section 14, not full-month production. Built
   #Leadership #TeamCulture #PeopleDevelopment #SmallBusiness #WomenInLeadership #BuildingTeams
   ```
 
-- [ ] **Wednesday, Pillar 3 (Real Relationships), middle of funnel.** Topic: what turns a transaction into a lifelong relationship, and the values that have to hold up every time to get there. Evidence: the Texas customer with 75+ orders over three years. Refined twice, once to cut a stat that was pulling focus, once to connect the ending back to the core values thesis instead of leaving it as a standalone loyalty tip. Approved.
+- [x] **Wednesday, Pillar 3 (Real Relationships), middle of funnel.** Topic: what turns a transaction into a lifelong relationship, and the values that have to hold up every time to get there. Evidence: the Texas customer with 75+ orders over three years. Posted live on LinkedIn (confirmed 2026-10-09).
 
   ```
   When someone orders from you for the 75th time, they've stopped comparing you to anyone else. That's a bigger deal than it sounds.
@@ -242,7 +242,26 @@ Part of the test batch described in Section 14, not full-month production. Built
 
 **Not yet drafted, planned:**
 - [ ] **Thursday, Pillar 1, bottom of funnel.** Topic: investing in training is a business decision, not a charity one. Evidence: the DOL apprenticeship program.
-- [ ] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence: Green Threads.
+
+- [x] **Friday, Pillar 3, top of funnel.** Topic: the difference between real community investment and a good photo. Evidence settled on Restyle the Runway (not Green Threads), since it was already drafted to this quality. Posted live on LinkedIn (confirmed 2026-10-09).
+
+  ```
+  A marketing partnership ends when the campaign does.
+
+  Restyle the Runway doesn't.
+
+  It's an annual fundraiser fashion show we do with Women's Space and Rockford University. Models shop under thirty dollars at Goodwill, and we alter the outfits for the runway. We've done it year after year, not once for a photo and then gone.
+
+  That's the actual test of a real partnership versus a marketing collaboration. A collaboration shows up when there's a campaign to promote. A partnership shows up again next year, with no new reason to.
+
+  If you want to know whether a company's community involvement is real, don't look at the announcement. Look at whether they're still there the second time, when there's nothing new to post about it.
+
+  We keep showing up because the relationship was never the campaign.
+
+  #CommunityPartnership #ValuesBasedBusiness #SmallBusinessLeadership #RestyleTheRunway #AuthenticCommunity #WomenInBusiness #Rockford
+  ```
+
+**Retired, not posting:** "Our best tailor isn't our best teacher," a demo draft that used the exact same topic and evidence as the already-posted Tuesday post (Mazen/Noor/Adriana). No genuinely new angle left on that specific evidence without just repeating what's already live, dropped rather than forced.
 
 **Still open:** Saturday and Sunday have no genuinely distinct topic/evidence pair left this week without repeating a pillar too closely, left unfilled rather than fabricated. Ask Sereen (Pillar 4) stays empty until real audience questions exist.
 

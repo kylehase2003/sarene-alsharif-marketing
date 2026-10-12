@@ -49,8 +49,8 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 9. LinkedIn Posts (3)
 
-- What this is: a draft test batch, to confirm direction before continuing.
-- What we'll build next: if approved, we continue as part of the ongoing monthly LinkedIn plan, scaling from these 3 to the full cadence, daily posting targeted, a minimum of 5 posts a week guaranteed, roughly 20 a month.
+- What this is: the test batch, now live. All three posted.
+- What we'll build next: continuing as part of the ongoing monthly LinkedIn plan, scaling from these 3 to the full cadence, daily posting targeted, a minimum of 5 posts a week guaranteed, roughly 20 a month.
 
 1. **B Corp certification**: [link](https://docs.google.com/document/d/1UT30zTUi5x0Z-Mm8f2-7dFwz3oMpsKCZxSZ17h97ZYY/edit?tab=t.0)
 2. **Team built around individual strengths**: [link](https://docs.google.com/document/d/1UT30zTUi5x0Z-Mm8f2-7dFwz3oMpsKCZxSZ17h97ZYY/edit?tab=t.mgphksbzr8v2)
@@ -65,15 +65,14 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 11. What We Need From You
 
-- Recordings: your existing talk and seminar recordings, at least 3 to 4.
-- Certification date: quick check, you mentioned January 2026, but local news coverage says February 26, 2026. Which one is right? We want to get this exactly right before it goes anywhere public.
-- Weekly shoot day: which day of the week works best for you, for a 1 to 3 hour block? We'll have scripts ready in advance so we can shoot as soon as you're available.
+- Recordings: received a batch of material, confirming whether it includes her actually speaking, not just coverage of other speakers at Tad More events, before marking this resolved.
+- Weekly shoot day: resolved, every Friday. Scripts are ready in advance so we can shoot on schedule starting this week.
 - Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
-- YouTube channel: still open, needs to be decided. Start a new channel, or keep your existing one and update it?
-- Business email: in progress, she's setting up speak@sarenealsharif.com, pending WordPress verification.
-- Google Drive: a shared Google Drive, this becomes the central place where all strategy files, posts, videos, and media content live.
-- Media library: your existing photos and video beyond the talk recordings, uploaded directly to the Google Drive above.
-- Social media logins: direct access to your Instagram, LinkedIn, Facebook, YouTube, and TikTok accounts, so we can actually publish and manage content.
+- YouTube channel: resolved, she's creating a new channel.
+- Business email: resolved, speak@sarenealsharif.com is live and in active use.
+- Google Drive: in progress, set up and already holds a lot of real content.
+- Media library: in progress, received photos, logos, and video, being shared over as time allows.
+- Social media logins: not yet collected.
 
 ## Response Needed
 
