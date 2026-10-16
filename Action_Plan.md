@@ -148,7 +148,7 @@ Part of the test batch described in Section 14, not full-month production. Four 
   > SARENE: Bad leadership.
   >
   > OFF CAMERA: Creating the room for your team to think, then making the decision you originally wanted.
-  > SARENE: Good leadership. But I disagree with doing what I originally wanted if the idea brought a better result.
+  > SARENE: Bad leadership.
   >
   > OFF CAMERA: Avoiding difficult conversations because you don't want to damage the relationship with your team.
   > SARENE: Bad leadership.
