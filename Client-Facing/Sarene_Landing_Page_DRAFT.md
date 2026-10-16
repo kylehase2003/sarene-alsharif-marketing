@@ -1,6 +1,6 @@
-# Sarene Alsharif, Speaking Landing Page (Draft)
+# Sarene Alsharif, Speaking Landing Page (Final)
 
-Expanded to 12 sections. Two placeholders remain blocked: the speaker reel (Section 6, blocked on her recordings being confirmed) and the Values Gap Assessment (Section 9, blocked on the hosting tool decision). One primary CTA runs through the whole page: the booking form, every other button points to it.
+Content finalized, 12 sections. One primary CTA runs through the whole page: the booking form, every other button points to it. Two sections have real-world work left, not a content gap: Section 6 needs the speaker reel actually cut from confirmed footage, and Section 9's quiz is written but needs her approval before launch (hosting tool is a build-phase decision, out of scope here).
 
 ---
 
@@ -95,7 +95,7 @@ Because your values aren't defined by what you put on the wall. They're defined 
 
 ## 6. See Sarene in Action
 
-*[PLACEHOLDER, blocked on her recordings being confirmed and a reel being cut. Do not build this section's final layout until footage exists, estimate the embed space in the design so the page doesn't need restructuring later.]*
+*[Recordings confirmed, usable footage of her speaking is in hand. Remaining work is editing: cut the actual reel. Estimate the embed space in the design so the page doesn't need restructuring once it's ready.]*
 
 A look at Sarene's speaking style, ideas, and presence on stage.
 
@@ -136,7 +136,7 @@ A look at Sarene's speaking style, ideas, and presence on stage.
 
 ## 9. Values Gap Self-Assessment
 
-*[PLACEHOLDER, blocked on the hosting tool decision. Questions are drafted (parallel track). Once hosting is decided, this becomes an embedded or linked quiz with its own CTA: "if you want a more hands-on look at where the gaps are and how to close them, let's talk about bringing the workshop to your team."]*
+*[Questions fully drafted in `Sarene_Values_Gap_Self_Assessment_DRAFT.md`. Blocked on her approval. Once approved, this becomes an embedded or linked quiz with its own CTA: "if you want a more hands-on look at where the gaps are and how to close them, let's talk about bringing the workshop to your team." Which tool hosts it is a build-phase decision, out of scope here.]*
 
 **Put Your Business Values to the Test.**
 

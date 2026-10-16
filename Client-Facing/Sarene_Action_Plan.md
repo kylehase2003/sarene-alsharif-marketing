@@ -65,9 +65,9 @@ Note: script 4, one answer (defending an employee in front of a customer) is lef
 
 ## 11. What We Need From You
 
-- Recordings: received a batch of material, confirming whether it includes her actually speaking, not just coverage of other speakers at Tad More events, before marking this resolved.
+- Recordings: resolved, received and confirmed usable for the speaker reel.
 - Weekly shoot day: resolved, every Friday. Scripts are ready in advance so we can shoot on schedule starting this week.
-- Podcast format: still open, needs to be decided. Solo, co-host, or guest based?
+- Podcast format: resolved, solo.
 - YouTube channel: resolved, she's creating a new channel.
 - Business email: resolved, speak@sarenealsharif.com is live and in active use.
 - Google Drive: in progress, set up and already holds a lot of real content.

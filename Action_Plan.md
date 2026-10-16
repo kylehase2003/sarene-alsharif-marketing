@@ -9,17 +9,17 @@ Sections are ordered so status is visible at a glance: what's blocked on Sarene,
 ## 1. Waiting on Sarene (blocks everything downstream)
 
 - [ ] **Overall strategy approval.** The gate that unblocks Section 2 below.
-- [ ] **Note 17: get her talk and seminar recordings.** At least 3 to 4 needed. NAUMD is confirmed off the table, not recorded, per her direct instruction.
+- [x] **Note 17: get her talk and seminar recordings.** Resolved. Confirmed (2026-10-16) the received batch includes both footage of her actually speaking and general event coverage, usable for the speaker reel. NAUMD is confirmed off the table, not recorded, per her direct instruction.
 - [x] **Note 20: get her commitment to the weekly shoot day.** Resolved, every Friday. One to three hours, producing four to eight raw videos per session. The entire posting cadence in Section 4 depends on this.
-- [ ] **Note 19: decide whether the podcast gets a co-host or recurring guest.** Changes the production plan for the podcast in Section 8.
+- [x] **Note 19: decide whether the podcast gets a co-host or recurring guest.** Resolved, solo, confirmed directly by her, no co-host or guest, ever.
 - [x] **Note 21: get her own account of what made her pursue B Corp certification.** Resolved 2026-10-02, answered directly, filled into `Client-Facing/Sarene_Case_Study_Appendix_DRAFT.md`.
 - [x] **Note 22: resolve the certification date discrepancy.** Resolved 2026-10-05, not a discrepancy, two real dates: certification January 16, 2026, public ceremony February 26, 2026. Both carried in the Master Reference and the Case Study Appendix (Section 6).
 
 ## 2. Blocked Until Section 1 Clears
 
-- [ ] **Note 14: write the Values Gap Self-Assessment questions.** Ours to write, blocked on strategy approval, not started.
-- [ ] **Note 18: build the media library, then cut the speaker reel.** Blocked on Note 17, the recordings have to be in hand first.
-- [ ] **Finalize podcast production plan.** Blocked on Note 19.
+- [ ] **Note 14: write the Values Gap Self-Assessment questions.** Drafted and reviewed, full 12-question quiz in `Client-Facing/Sarene_Values_Gap_Self_Assessment_DRAFT.md`. Blocked on her approval. Hosting tool is an implementation detail for whoever builds the landing page, not tracked here.
+- [ ] **Note 18: build the media library, then cut the speaker reel.** Unblocked, Note 17 confirmed, usable speaking footage is in hand. Ready to start.
+- [ ] **Finalize podcast production plan.** Unblocked, solo format confirmed.
 
 ## 3. Foundation Tasks (Month 1)
 
@@ -100,7 +100,7 @@ Ready to shoot now unless noted otherwise.
 - [ ] Reshare existing video content from the other platforms. Nothing gets separately produced or scripted for TikTok.
 
 ### Podcast, solo-hosted limited series
-- [ ] Resolve Note 19 before planning goes further (see Section 1).
+- [x] Resolve Note 19 before planning goes further (see Section 1). Resolved, solo, no co-host or guest.
 - [ ] Pick which of the three candidate series launches first: Workplace Culture, Becoming a Certified B Corp, or The Business Case for Values.
 - [ ] Five episodes per series, one specific lesson per episode, illustrated with a real moment from her experience.
 - [ ] Full episodes go to YouTube, clips get cut for LinkedIn, Instagram, and Facebook.

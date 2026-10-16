@@ -1,36 +1,42 @@
-*[Photo: on-stage shot + headshot]*
+# Sarene Alsharif
 
-# Helping Organizations Turn Stated Values Into a Real Competitive Advantage
+**Turning Values Into a Competitive Advantage**
 
-**Sarene Alsharif**, Keynote Speaker & Workshop Facilitator | Founder/CEO, Tad More Tailoring (B Corp certified) | TEDx Speaker | MPH, LDN
+Keynote Speaker · Workshop Facilitator · TEDx Speaker
 
-Sarene built Tad More around one question: if these are truly your values, where can people actually see them in your business? She didn't answer it with a mission statement, she put her own company through an independent B Corp audit and proved it with evidence instead of language.
+What if your company's values didn't just describe what you believe, but shaped how you lead, make decisions, and do business?
 
----
+Sarene Alsharif brings this question to the stage through her experience building Tad More Tailoring and Alterations, a certified B Corp. She challenges leaders to move beyond what their organizations say they value and examine what their decisions demonstrate in practice.
 
-**115.0** B Corp Score (vs. 50.9 median) · **35,000+** Orders Completed · **1st** DOL-Registered Apprenticeship in the Nation
-
----
+**115.0** B Corp Impact Score
+**First in the Nation**: U.S. Department of Labor-certified Industrial Sewing Machine Operator Apprenticeship
 
 ## Speaking Topics
 
-**"Proof Over Promise: Why Values Are a Business Strategy, Not Just a Belief"** *[draft]*: closing the gap between stated values and what a company's decisions actually prove.
+**Proof Over Promise**
+*Why Values Are a Business Strategy, Not Just a Belief*
+Values are easy to declare. The real test comes when they influence a difficult decision. Sarene challenges leaders to examine how their values shape leadership, employee relationships, customer trust, and the way they run their businesses.
 
-**"Where Do Your Values Actually Show Up?"** *[draft]*: her five-part framework: Environment → People → Community → Customers → How the Business Is Run.
+**Where Do Your Values Actually Show Up?**
+*A Practical Framework for Putting Values Into Practice*
+Sarene introduces a framework for examining how values show up across five areas: environment, people, community, customers, and business operations. Audiences learn to identify gaps between their organization's stated values and its everyday practices.
 
-**Formats:** Keynote · Workshop · Keynote + Workshop. Speaks to companies, conferences, leadership teams, and professional organizations.
+## Recognition and Media
 
-**Recognition:** Rockford Chamber "Most Likely to Save the Planet" · Stateline Chamber "Influential Women in Business 2024" · Featured in USA Today, HuffPost, and more.
+"Most Likely to Save the Planet," Rockford Chamber
+"Influential Women in Business 2024, Executive Influencer," Stateline Chamber
+Featured in: USA Today, HuffPost, an NPR affiliate, Rockford Register Star
 
----
+## What People Say
 
-*"Sarene is an amazing speaker, entrepreneur, and driven individual. The ideas she shared were done in a very enthusiastic way, which made the audience inspired to take action."*
+"Sarene is an amazing speaker, entrepreneur, and driven individual. The ideas she shared were done in a very enthusiastic way, which made the audience inspired to take action."
 Lulije Asani, Project Manager
 
----
+## Bring Sarene to Your Next Event
 
-speak@sarenealsharif.com · sarenealsharif.com · 815-200-9390
+Available for keynotes, workshops, and combined engagements.
 
----
+speak@sarenealsharif.com
+sarenealsharif.com · 815-200-9390
 
-*Notes: talk titles need her sign-off before final. One testimonial on file, standard is 2-3, worth asking her for more. For physical printing, heavier cardstock with a matte finish reads as more credible, not relevant for the digital version.*
+Founder and CEO, Tad More Tailoring and Alterations · TEDx Speaker · MPH, LDN
