@@ -1,83 +1,200 @@
-# Sarene Alsharif, Landing Page (Draft)
+# Sarene Alsharif, Speaking Landing Page (Draft)
 
-Four of six sections below are buildable now (not blocked on anything). Two are placeholders pending the speaker reel (blocked on her recordings) and the Values Gap Assessment (hosting tool not yet decided). One primary CTA runs through the whole page: the booking form. Nothing else competes with it.
-
----
-
-## 1. Hero / Who She Is
-
-**Helping organizations turn stated values into a real competitive advantage.**
-
-Sarene Alsharif is a keynote speaker and workshop facilitator, and the Founder and CEO of Tad More Tailoring and Alterations, a certified B Corp. She built her company around one uncomfortable question, and now brings that same question to the stage:
-
-> "If these are truly your values, where can people actually see them in your business?"
-
-[Primary CTA button: **Check Availability**]
+Expanded to 12 sections. Two placeholders remain blocked: the speaker reel (Section 6, blocked on her recordings being confirmed) and the Values Gap Assessment (Section 9, blocked on the hosting tool decision). One primary CTA runs through the whole page: the booking form, every other button points to it.
 
 ---
 
-## 2. Press / Credibility Strip
+## 1. Hero
 
-*[Render as a logo row, not text, once logos are sourced: USA Today, Rockford Register Star, HuffPost, an NPR affiliate, SCORE Fox Valley, Chronicle Illinois.]*
+**Your Business Runs on Decisions. Your Values Should Shape Them.**
 
-**As featured in:** USA Today · HuffPost · an NPR affiliate · Rockford Register Star · SCORE Fox Valley · Chronicle Illinois
+After building and running a business, I discovered that putting my values into practice wasn't just the right thing to do. It was also a smarter way to build a more successful, profitable business.
+
+Through my experience earning B Corp certification and pioneering an industry-first apprenticeship, I challenge business leaders to close the gap between what they say they value and how they actually operate. Because values should change the way you do business.
+
+[CTA button: **Check Availability**]
+
+Keynotes · Workshops · Keynote + Workshop
 
 ---
 
-## 3. Offer and Pricing
+## 2. Featured In
 
-**Keynote**
-Why a values-based business is a winning business. Practical, evidence-based, delivered by someone who's proven it inside her own company.
+*[Render as a logo row, not text, once logos are sourced.]*
 
-**Workshop**
-Interactive. Participants translate the framework into their own organization's hiring, employee experience, customer relationships, leadership decisions, and community impact.
+[USA Today Logo] [HuffPost Logo] [NPR Affiliate Logo] [Rockford Register Star Logo] [SCORE Fox Valley Logo] [Chronicle Illinois Logo]
 
-**Keynote + Workshop**
-Both, booked together.
+---
 
-*[Pricing figures live here, pulled from the confirmed three tiers once this is ready to go live. Held as a placeholder here since the exact display treatment, e.g. shown directly vs. revealed after a quick form, is a layout decision, not a content one.]*
+## 3. Why Sarene?
+
+**She Doesn't Just Talk About Values. She's Put Them Into Practice.**
+
+As the founder of Tad More Tailoring and Alterations, Sarene Alsharif has had to put her beliefs into practice through real business decisions. From building consistent operations to developing skilled workers, her experience brings values out of the mission statement and into the way a business operates.
+
+**115.0**
+B Corp Impact Score
+A measure of Tad More's social and environmental performance, compared with the reported median score of 50.9.
+
+**Operationally Proven**
+At Tad More, Sarene has built a business that has fulfilled more than 35,000 orders with an approximately 2% redo rate, alongside long-standing customer relationships.
+
+**First in the Nation**
+Tad More pioneered the nation's first U.S. Department of Labor-certified Industrial Sewing Machine Operator Apprenticeship.
+
+**Recognition**
+"Most Likely to Save the Planet," Rockford Chamber.
+"Influential Women in Business 2024, Executive Influencer," Stateline Chamber.
 
 [CTA button: **Check Availability**]
 
 ---
 
-## 4. Proof Points
+## 4. What Your Audience Will Take Away
 
-*[Design note: render as large-type stat blocks, same centerpiece treatment as the one-pager, not a bullet list.]*
+**For Leaders Who Want Their Values to Work in Business**
 
-**115.0** — B Corp Impact Score, versus a 50.9 median for an ordinary certified business, more than double.
+Your values shouldn't stop at the mission statement. They should influence how you lead, how your team operates, and how you make decisions when the stakes are real.
 
-**35,000+** — Orders completed, roughly 2% error rate.
+**Lead Without Becoming the Bottleneck**
+The decisions you keep making for your team might be the ones holding it back. Learn how leadership values shape accountability, ownership, and a team's ability to make decisions without waiting for you.
 
-**1st** — Nation's first Department of Labor-registered apprenticeship in industrial sewing.
+**Build a Culture That Holds Up Under Pressure**
+It's easy to talk about people-first leadership when business is going well. The real test comes when deadlines, costs, and competing priorities force difficult choices. Examine what your decisions teach your team about what actually matters.
 
-**Recognition:** "Most Likely to Save the Planet," Rockford Chamber of Commerce. "Influential Women in Business 2024, Executive Influencer," Stateline Chamber.
+**Earn Customer Trust Through How You Operate**
+Customers experience your values through what you do, not what you claim. Explore how everyday decisions shape the quality, consistency, and trust behind your customer relationships.
 
-> "Sarene is an amazing speaker, entrepreneur, and driven individual. The ideas she shared were done in a very enthusiastic way, which made the audience inspired to take action on those points she was making."
-> — Lulije Asani, Project Manager
+**Make Sustainability Part of the Business**
+Sustainability doesn't have to sit outside your operations as a separate initiative. Look at how decisions about resources, waste, and processes can become part of how your business works.
 
-*[One testimonial on file. Standard is 2-3, worth asking her for more.]*
-
-[CTA button: **Check Availability**]
+**Turn Your Values Into Your Next Move**
+Identify where the way your business operates conflicts with what you say it stands for. Leave with a clearer perspective on what needs to change, where to start, and which decisions deserve a second look.
 
 ---
 
-## 5. Speaker Reel
+## 5. The Idea
+
+**Your Values Are Easy to Talk About. Until They Cost You Something.**
+
+Every business has values. But what happens when living up to them gets complicated?
+
+When doing right by your people takes more than putting their names on a company page.
+
+When keeping a promise to a customer isn't the cheapest option.
+
+When reducing waste means rethinking a process that's always worked a certain way.
+
+That's where values stop being words and start becoming business decisions.
+
+Through building Tad More and working with other business leaders, Sarene shows how closing the gap between values and actions can help businesses succeed.
+
+Because your values aren't defined by what you put on the wall. They're defined by what you're willing to change, protect, and stand behind when running a business gets difficult.
+
+---
+
+## 6. See Sarene in Action
 
 *[PLACEHOLDER, blocked on her recordings being confirmed and a reel being cut. Do not build this section's final layout until footage exists, estimate the embed space in the design so the page doesn't need restructuring later.]*
 
+A look at Sarene's speaking style, ideas, and presence on stage.
+
+**Testimonial**
+
+> "Sarene is an amazing speaker, entrepreneur, and driven individual. The ideas she shared were done in a very enthusiastic way, which made the audience inspired to take action on those points she was making."
+> Lulije Asani, Project Manager
+
+*[TEDx Talk: "How to Save the World with a Pair of Jeans," link or video embed, if appropriate.]*
+
 ---
 
-## 6. Values Gap Assessment
+## 7. Standalone Quote Block, Values
+
+*Layout: full-width horizontal block. Quote on the left, photograph of Sarene on the right.*
+
+> "Your values should change the way you do business."
+> Sarene Alsharif
+
+*[Insert Sarene photo 1.]*
+
+*Design direction: no heading or explanatory paragraph on the published page. Let the quote stand on its own.*
+
+---
+
+## 8. Standalone Quote Block, Leadership
+
+*Layout: full-width horizontal block. Photograph of Sarene on the left, quote on the right.*
+
+*[Insert Sarene photo 2.]*
+
+> "A leader who needs to approve every decision creates dependence."
+> Sarene Alsharif
+
+*Design direction: match the first block's typography, spacing, and visual weight. Reverse the image and text positions.*
+
+---
+
+## 9. Values Gap Self-Assessment
 
 *[PLACEHOLDER, blocked on the hosting tool decision. Questions are drafted (parallel track). Once hosting is decided, this becomes an embedded or linked quiz with its own CTA: "if you want a more hands-on look at where the gaps are and how to close them, let's talk about bringing the workshop to your team."]*
 
+**Put Your Business Values to the Test.**
+
+Take a closer look at how your business operates, from leadership and customer relationships to workplace culture, sustainability, and community impact. Identify where your actions align with your values, where gaps may exist, and where there's room to improve.
+
+[CTA button: **Take the Assessment**]
+
+*The first step toward turning your values into business success.*
+
+This is a self-reflection tool, not an independent audit or certification.
+
+*Implementation note: the assessment should provide a meaningful result, an interpretation of that result, and a suggested next step.*
+
 ---
 
-## 7. Booking Form
+## 10. Speaking Offers
 
-**Check Availability**
+Sarene brings values out of the mission statement and into the decisions that shape a business. Through keynotes and interactive workshops, she challenges leaders to rethink how they operate and turn their values into meaningful action.
 
-Fields: name, organization, email, event date, event type (keynote / workshop / both), message (optional).
+**Keynote**
+*Challenge the Way You Think About Business*
+A thought-provoking talk on how values influence leadership, business decisions, customer relationships, and the way organizations operate.
+[CTA button: **Book a Keynote**]
 
-*[This is the one form on the page. Every other CTA above points here, not to a separate action.]*
+**Workshop**
+*Put Your Values Into Practice*
+An interactive session where participants examine their organization's values, identify gaps between intention and action, and explore practical ways to close them.
+[CTA button: **Explore a Workshop**]
+
+**Keynote + Workshop**
+*From New Perspectives to Practical Action*
+Combine the keynote's big ideas with a hands-on workshop that helps your team connect those ideas to real decisions and challenges within your organization.
+[CTA button: **Discuss Your Event**]
+
+Pricing: To be decided.
+
+---
+
+## 11. About Sarene
+
+**A Different Standard for Doing Business.**
+
+Sarene Alsharif is an entrepreneur, keynote speaker, and Founder and CEO of Tad More Tailoring and Alterations. As a certified B Corp and Director of the Tad More Sustainability Institute, she brings firsthand experience building a business where values have to translate into real decisions.
+
+"It's easy for a business owner to say 'we do good,'" she says. "I wanted an independent standard that would challenge us to demonstrate it."
+
+That experience shapes her perspective on stage: values aren't statements on a wall. They're decisions that must hold up in practice.
+
+Through her speaking, Sarene challenges leaders to look beyond what their organizations say they stand for and consider what they're willing to do differently because of it.
+
+---
+
+## 12. Check Availability
+
+**Bring Sarene to Your Next Event.**
+
+Whether you're planning a keynote, workshop, or both, share a few details about your event to start the conversation.
+
+Fields: name, organization, email, event date, event type (keynote / workshop / both), additional details (optional).
+
+[CTA button: **Submit / Check Availability**]
