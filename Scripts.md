@@ -1,6 +1,6 @@
 # Scripts
 
-Approved, filmed, and edited. Found 2026-10-16 in a separate working folder (`sarene alsharif/reels/` under `AGENTIC WORKFLOW/`, not this repo), each one already exists as a finished, rendered video (`output.mp4`/`output_brand.mp4`). Transcribed here from the actual video audio. This reconciles the standing "15 scripts believed sent, 8 accounted for" note from `PROJECT_HANDOFF.md`, 8 of the 15 were already logged in `Action_Plan.md` Section 12 or a prior changelog entry, these 7 were not logged anywhere until now.
+Approved, filmed, and edited. Found 2026-10-16 in a separate working folder (`sarene alsharif/reels/` under `AGENTIC WORKFLOW/`, not this repo), each one already exists as a finished, rendered video (`output.mp4`/`output_brand.mp4`). Transcribed here from the actual video audio. The folder holds 14 scripts total, confirmed directly by the user, not the ~15 originally estimated. 7 were already logged in `Action_Plan.md` Section 12 or a prior changelog entry, these 7 were not logged anywhere until now.
 
 ---
 
